@@ -1,0 +1,264 @@
+{
+  "urls": {
+    "http://www.softbolt.com/": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt/contact-us/": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt/": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt/#": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt/mobile-development-for-iphone-android-windows-phone/": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt/web-development/": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt/mobile-security-assessment/": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt/app-security-assessment/": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt/sdlc-software-development-methodology/": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt/technologies-and-programming-skill-set/": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt/mobile-development-for-iphone-android-windows-phone/#": {
+      "status": 200
+    },
+    "http://www.softbolt.com/softbolt/contact-us/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "Google Plus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Plus.svg",
+      "website": "http://plus.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Linkedin",
+      "confidence": "100",
+      "version": null,
+      "icon": "Linkedin.svg",
+      "website": "http://linkedin.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.0.6.",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.14.1",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "animate.css",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://daneden.github.io/animate.css/",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.51.0",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "prettyPhoto",
+      "confidence": "100",
+      "version": null,
+      "icon": "prettyPhoto.png",
+      "website": "http://no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Google Code Prettify",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google.svg",
+      "website": "http://code.google.com/p/google-code-prettify",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.softbolt.com",
+  "id": "8052"
+}

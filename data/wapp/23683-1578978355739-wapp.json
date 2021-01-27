@@ -1,0 +1,152 @@
+{
+  "urls": {
+    "http://www.drupalpartners.com/": {
+      "status": 200
+    },
+    "https://www.drupalpartners.com/#main-content": {
+      "status": 200
+    },
+    "https://www.drupalpartners.com/": {
+      "status": 200
+    },
+    "https://www.drupalpartners.com/company": {
+      "status": 200
+    },
+    "https://www.drupalpartners.com/process": {
+      "status": 200
+    },
+    "https://www.drupalpartners.com/blog/how-to-hire-a-drupal-developer": {
+      "status": 200
+    },
+    "https://www.drupalpartners.com/services/drupal-development": {
+      "status": 200
+    },
+    "https://www.drupalpartners.com/company#main-content": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.7",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Drupal",
+      "confidence": "100",
+      "version": "8",
+      "icon": "Drupal.svg",
+      "website": "https://drupal.org",
+      "cpe": "cpe:/a:drupal:drupal",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Inspectlet",
+      "confidence": "100",
+      "version": null,
+      "icon": "inspectlet.png",
+      "website": "https://www.inspectlet.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.drupalpartners.com",
+  "id": "23683"
+}

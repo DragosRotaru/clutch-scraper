@@ -1,0 +1,137 @@
+{
+  "urls": {
+    "https://yalantis.com/": {
+      "status": 200
+    },
+    "https://yalantis.com/privacy-policy/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Crazy Egg",
+      "confidence": "100",
+      "version": null,
+      "icon": "Crazy Egg.png",
+      "website": "http://crazyegg.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "confidence": "50",
+      "version": null,
+      "icon": "Ruby on Rails.png",
+      "website": "https://rubyonrails.org",
+      "cpe": null,
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "TweenMax",
+      "confidence": "100",
+      "version": "2.0.2",
+      "icon": "TweenMax.png",
+      "website": "http://greensock.com/tweenmax",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.12.1",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "confidence": "0",
+      "version": null,
+      "icon": "Ruby.png",
+      "website": "http://ruby-lang.org",
+      "cpe": null,
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "https://yalantis.com",
+  "id": "25904"
+}

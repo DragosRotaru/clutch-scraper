@@ -1,0 +1,221 @@
+{
+  "urls": {
+    "https://www.mavenecommerce.com/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/portfolio/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/services/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/magento-support/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/blog/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/about-us/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/contacts/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/calculator": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/portfolio/eva/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/magento-development/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/magento-design/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/2019/04/23/tons-of-traffic-but-no-sales/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/2019/04/09/do-you-have-experience-with/": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/about-us": {
+      "status": 200
+    },
+    "https://www.mavenecommerce.com/principles/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google PageSpeed",
+      "confidence": "100",
+      "version": "powered by MavenEcommerce",
+      "icon": "Google PageSpeed.png",
+      "website": "http://developers.google.com/speed/pagespeed/mod",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        },
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Prism",
+      "confidence": "100",
+      "version": null,
+      "icon": "Prism.svg",
+      "website": "http://prismjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.1.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Gravatar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Gravatar.png",
+      "website": "http://gravatar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://www.mavenecommerce.com",
+  "id": "23154"
+}

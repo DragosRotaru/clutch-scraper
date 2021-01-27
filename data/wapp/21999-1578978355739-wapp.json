@@ -1,0 +1,255 @@
+{
+  "urls": {
+    "https://www.fullestop.com/": {
+      "status": 200
+    },
+    "https://www.fullestop.com/blog/": {
+      "status": 200
+    },
+    "https://www.fullestop.com/#section-1": {
+      "status": 200
+    },
+    "https://www.fullestop.com/#section-2": {
+      "status": 200
+    },
+    "https://www.fullestop.com/blog": {
+      "status": 200
+    },
+    "https://www.fullestop.com/blog/importance-push-notifications/": {
+      "status": 200
+    },
+    "https://www.fullestop.com/#section-5": {
+      "status": 200
+    },
+    "https://www.fullestop.com/#section-6": {
+      "status": 200
+    },
+    "https://www.fullestop.com/#section-4": {
+      "status": 200
+    },
+    "https://www.fullestop.com/#section-3": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.fullestop.com/blog/2019/08/": {
+      "status": 200
+    },
+    "https://www.fullestop.com/blog/category/importance-of-push-notifications/": {
+      "status": 200
+    },
+    "https://www.fullestop.com/blog/magento-right-choice-b2b-business/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "OWL Carousel",
+      "confidence": "100",
+      "version": null,
+      "icon": "OWL Carousel.png",
+      "website": "https://owlcarousel2.github.io/OwlCarousel2/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.9.0",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "1.7",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "ShareThis",
+      "confidence": "100",
+      "version": null,
+      "icon": "ShareThis.png",
+      "website": "http://sharethis.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "4.7.4",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "4.7.1",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://www.fullestop.com",
+  "id": "21999"
+}

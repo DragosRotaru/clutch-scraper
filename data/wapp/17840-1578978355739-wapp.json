@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.splashinfotech.in/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.splashinfotech.in",
+  "id": "17840"
+}

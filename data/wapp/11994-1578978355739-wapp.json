@@ -1,0 +1,258 @@
+{
+  "urls": {
+    "http://www.webtimal.ch/": {
+      "status": 200
+    },
+    "https://www.webtimal.ch/#top": {
+      "status": 200
+    },
+    "https://www.webtimal.ch/": {
+      "status": 200
+    },
+    "https://www.webtimal.ch/webdesign/": {
+      "status": 200
+    },
+    "https://www.webtimal.ch/wordpress-website-erstellen-lassen-kosten-kennen/": {
+      "status": 200
+    },
+    "https://www.webtimal.ch/webdesign/#top": {
+      "status": 200
+    },
+    "https://www.webtimal.ch/wordpress-website-erstellen-lassen-kosten-kennen/#top": {
+      "status": 200
+    },
+    "https://www.webtimal.ch/wordpress-website-support/": {
+      "status": 200
+    },
+    "https://www.webtimal.ch/online-shop/": {
+      "status": 200
+    },
+    "https://www.webtimal.ch/online-shop/wie-gruende-ich-einen-online-shop/": {
+      "status": 200
+    },
+    "https://www.webtimal.ch/applikationsentwicklung/": {
+      "status": 200
+    },
+    "https://www.webtimal.ch/mobile-app/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Chart.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Chart.js.svg",
+      "website": "https://www.chartjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Lazy.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "http://danieltao.com/lazy.js",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "LiteSpeed",
+      "confidence": "100",
+      "version": null,
+      "icon": "LiteSpeed.svg",
+      "website": "http://litespeedtech.com",
+      "cpe": "cpe:/a:litespeedtech:litespeed_web_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "5.2.5",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "11.9",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "particles.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://vincentgarreau.com/particles.js/",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "parcel",
+      "confidence": "100",
+      "version": null,
+      "icon": "Parcel.png",
+      "website": "https://parceljs.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Snap.svg",
+      "confidence": "100",
+      "version": "0.5.1",
+      "icon": "Snap.svg.png",
+      "website": "http://snapsvg.io",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "de"
+  },
+  "website": "http://www.webtimal.ch",
+  "id": "11994"
+}

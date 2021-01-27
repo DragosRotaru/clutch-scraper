@@ -1,0 +1,184 @@
+{
+  "urls": {
+    "https://www.modus-made.com/": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Expertise/What-We-Make/Websites-and-Digital-Marketing": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Expertise/What-We-Make/Intranets": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Expertise/What-We-Make/Custom-Applications": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Work": {
+      "status": 200
+    },
+    "https://www.modus-made.com/privacy": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Contact": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Work/Success-Stories/Everest-Website": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Work/Success-Stories/Cleveland-Clinic-Intranet": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Work/Success-Stories/Realogy-Leadrouter-Application": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Expertise": {
+      "status": 200
+    },
+    "https://www.modus-made.com/About-Modus": {
+      "status": 200
+    },
+    "https://www.modus-made.com/About-Modus/Leadership": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Work/Success-Stories/Architect-of-the-Capitol-Intranet": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Work/Success-Stories/Radius": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Work/Success-Stories/Sittercity-Website": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Work/Success-Stories/Better-Homes-and-Gardens-Real-Estate-Franchise-Sales-Website": {
+      "status": 200
+    },
+    "https://www.modus-made.com/Work/Success-Stories/Coldwell-Banker-SEO-Landing-Pages": {
+      "status": 200
+    },
+    "https://www.modus-made.com/About-Modus/Leadership/Rick-Levine": {
+      "status": 200
+    },
+    "https://www.modus-made.com/About-Modus/Leadership/Jay-Erickson": {
+      "status": 200
+    },
+    "https://www.modus-made.com/About-Modus/Leadership/Kristen-Kulenych": {
+      "status": 200
+    },
+    "https://www.modus-made.com/About-Modus/Leadership/Graham-Ericksen": {
+      "status": 200
+    },
+    "https://www.modus-made.com/About-Modus/Leadership/Kristina-Vogel": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Amazon Cloudfront",
+      "confidence": "100",
+      "version": null,
+      "icon": "Amazon-Cloudfront.svg",
+      "website": "http://aws.amazon.com/cloudfront/",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Amazon S3",
+      "confidence": "100",
+      "version": null,
+      "icon": "aws-s3.svg",
+      "website": "http://aws.amazon.com/s3/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "confidence": "0",
+      "version": null,
+      "icon": "aws.svg",
+      "website": "https://aws.amazon.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.modus-made.com",
+  "id": "21503"
+}

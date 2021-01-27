@@ -1,0 +1,163 @@
+{
+  "urls": {
+    "http://www.eduteam.it/": {
+      "status": 200
+    },
+    "http://www.eduteam.it/#": {
+      "status": 200
+    },
+    "http://www.eduteam.it/#myCarousel": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.7",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": "5.0.8",
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "100",
+      "version": "8.5",
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": "4.0.30319",
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "cpe": "cpe:/a:microsoft:asp.net",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.7.1",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "OWL Carousel",
+      "confidence": "100",
+      "version": null,
+      "icon": "OWL Carousel.png",
+      "website": "https://owlcarousel2.github.io/OwlCarousel2/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.10.3",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.eduteam.it",
+  "id": "9378"
+}

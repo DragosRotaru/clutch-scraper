@@ -1,0 +1,53 @@
+{
+  "urls": {
+    "http://vuzum.com/": {
+      "status": 200
+    },
+    "https://vuzum.com/": {
+      "status": 200
+    },
+    "https://vuzum.com/Back%20to%20Top": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://vuzum.com",
+  "id": "11183"
+}

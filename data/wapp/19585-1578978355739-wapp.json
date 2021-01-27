@@ -1,0 +1,213 @@
+{
+  "urls": {
+    "http://www.maestro.com/": {
+      "status": 200
+    },
+    "https://www.maestro.com/": {
+      "status": 200
+    },
+    "https://www.maestro.com/#tab1": {
+      "status": 200
+    },
+    "https://www.maestro.com/about-us#what-we-do": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.maestro.com/about-us#mission-statement": {
+      "status": 200
+    },
+    "https://www.maestro.com/about-us#alliances-and-advantages": {
+      "status": 200
+    },
+    "https://www.maestro.com/about-us#tab1": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.maestro.com/about-us#the-six-pillars": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.maestro.com/#": {
+      "status": 200
+    },
+    "https://www.maestro.com/solutions#technology-services": {
+      "status": 503,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.maestro.com/big-data": {
+      "status": 200
+    },
+    "https://www.maestro.com/devops": {
+      "status": 503,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.maestro.com/about-us#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.5.38",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "animate.css",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://daneden.github.io/animate.css/",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "particles.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://vincentgarreau.com/particles.js/",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.maestro.com",
+  "id": "19585"
+}

@@ -1,0 +1,259 @@
+{
+  "urls": {
+    "http://www.insegment.com/": {
+      "status": 200
+    },
+    "https://www.insegment.com/#1": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.insegment.com/#2": {
+      "status": 200
+    },
+    "https://www.insegment.com/#3": {
+      "status": 200
+    },
+    "https://www.insegment.com/#4": {
+      "status": 200
+    },
+    "https://www.insegment.com/#5": {
+      "status": 200
+    },
+    "https://www.insegment.com/#6": {
+      "status": 200
+    },
+    "https://www.insegment.com/#": {
+      "status": 200
+    },
+    "https://www.insegment.com/company/": {
+      "status": 200
+    },
+    "https://www.insegment.com/process/": {
+      "status": 200
+    },
+    "https://www.insegment.com/careers/#jobs": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Flickity",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://flickity.metafizzy.co/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "Google Plus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Plus.svg",
+      "website": "http://plus.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Mouse Flow",
+      "confidence": "100",
+      "version": null,
+      "icon": "mouseflow.png",
+      "website": "https://mouseflow.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "7.2.18",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "0.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.11.4",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.insegment.com",
+  "id": "23513"
+}

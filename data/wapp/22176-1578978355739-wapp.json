@@ -1,0 +1,43 @@
+{
+  "urls": {
+    "http://www.skiusainc.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Plesk",
+      "confidence": "100",
+      "version": null,
+      "icon": "Plesk.png",
+      "website": "https://www.plesk.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "9": "Hosting Panels"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.skiusainc.com",
+  "id": "22176"
+}

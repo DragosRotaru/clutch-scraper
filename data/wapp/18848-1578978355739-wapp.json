@@ -1,0 +1,159 @@
+{
+  "urls": {
+    "http://www.mystikcreation.com/": {
+      "status": 200
+    },
+    "http://www.mystikcreation.com/blog": {
+      "status": 500,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.mystikcreation.com/blog/": {
+      "status": 500,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.mystikcreation.com/blog/how-professional-web-design-adds-value-to-your-online-business/": {
+      "status": 500,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.mystikcreation.com/blog/new-skills-web-development-professionals-must-consider-learning-this-year/": {
+      "status": 500,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [
+    {
+      "name": "AddThis",
+      "confidence": "100",
+      "version": null,
+      "icon": "AddThis.svg",
+      "website": "http://www.addthis.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4.39",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Plus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Plus.svg",
+      "website": "http://plus.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "OpenSSL",
+      "confidence": "100",
+      "version": "1.0.2r",
+      "icon": "OpenSSL.png",
+      "website": "http://openssl.org",
+      "cpe": "cpe:/a:openssl:openssl",
+      "categories": [
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    },
+    {
+      "name": "Statcounter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Statcounter.svg",
+      "website": "http://www.statcounter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Zendesk Chat",
+      "confidence": "100",
+      "version": null,
+      "icon": "Zendesk Chat.png",
+      "website": "http://zopim.com",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.6",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.mystikcreation.com",
+  "id": "18848"
+}

@@ -1,0 +1,236 @@
+{
+  "urls": {
+    "http://jazzteam.org/": {
+      "status": 200
+    },
+    "https://jazzteam.org/en/#menu": {
+      "status": 200
+    },
+    "https://jazzteam.org/en/": {
+      "status": 200
+    },
+    "https://jazzteam.org/en/about-company/": {
+      "status": 200
+    },
+    "https://jazzteam.org/en/about-company/why-choose-jazzteam/": {
+      "status": 200
+    },
+    "https://jazzteam.org/en/about-company/our-team/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://jazzteam.org/en/about-company/jobs-vacancy/": {
+      "status": 200
+    },
+    "https://jazzteam.org/en/services/": {
+      "status": 200
+    },
+    "https://jazzteam.org/en/services/outsourcing/": {
+      "status": 200
+    },
+    "https://jazzteam.org/en/about-company/#menu": {
+      "status": 200
+    },
+    "https://jazzteam.org/en/about-company/why-choose-jazzteam/#menu": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "All in One SEO Pack",
+      "confidence": "100",
+      "version": "3.3.4",
+      "icon": "all-in-One-SEO-Pack.png",
+      "website": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+      "cpe": "cpe:/a:semperfiwebdesign:all_in_one_seo_pack",
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "NextGEN Gallery",
+      "confidence": "100",
+      "version": "3.2.23",
+      "icon": "NextGEN Gallery.png",
+      "website": "https://www.imagely.com/wordpress-gallery-plugin",
+      "cpe": "cpe:/a:imagely:nextgen_gallery",
+      "categories": [
+        {
+          "7": "Photo Galleries"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.16.1",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.6.40",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Revslider",
+      "confidence": "100",
+      "version": "4.6.3",
+      "icon": "revslider.png",
+      "website": "https://revolution.themepunch.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "5.3.2",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "WordPress Super Cache",
+      "confidence": "100",
+      "version": null,
+      "icon": "wp_super_cache.png",
+      "website": "http://z9.io/wp-super-cache/",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        }
+      ]
+    },
+    {
+      "name": "Yandex.Metrika",
+      "confidence": "100",
+      "version": null,
+      "icon": "Yandex.Metrika.png",
+      "website": "http://metrika.yandex.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "5.3.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://jazzteam.org",
+  "id": "24733"
+}

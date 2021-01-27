@@ -1,0 +1,202 @@
+{
+  "urls": {
+    "http://www.selesti.com/": {
+      "status": 200
+    },
+    "https://www.selesti.com/": {
+      "status": 200
+    },
+    "https://www.selesti.com/consultancy": {
+      "status": 200
+    },
+    "https://www.selesti.com/design-and-build": {
+      "status": 200
+    },
+    "https://www.selesti.com/digital-marketing": {
+      "status": 200
+    },
+    "https://www.selesti.com/work": {
+      "status": 200
+    },
+    "https://www.selesti.com/knowledge-hub": {
+      "status": 200
+    },
+    "https://www.selesti.com/about": {
+      "status": 200
+    },
+    "https://www.selesti.com/contact": {
+      "status": 200
+    },
+    "https://www.selesti.com/digital-marketing/technical-seo-and-penalty-recovery": {
+      "status": 200
+    },
+    "https://www.selesti.com/digital-marketing/content-strategy-and-audits": {
+      "status": 200
+    },
+    "https://www.selesti.com/design-and-build/cms-and-wordpress": {
+      "status": 200
+    },
+    "https://www.selesti.com/design-and-build/ecommerce-and-magento": {
+      "status": 200
+    },
+    "https://www.selesti.com/digital-marketing/search-engine-optimisation": {
+      "status": 200
+    },
+    "https://www.selesti.com/digital-marketing/ppc": {
+      "status": 200
+    },
+    "https://www.selesti.com/work/boost-organic-traffic-king-edward-viis-hospitals-new-health-hub": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Plus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Plus.svg",
+      "website": "http://plus.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Laravel",
+      "confidence": "100",
+      "version": null,
+      "icon": "Laravel.svg",
+      "website": "https://laravel.com",
+      "cpe": "cpe:/a:laravel:laravel",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "TweenMax",
+      "confidence": "100",
+      "version": "1.20.5",
+      "icon": "TweenMax.png",
+      "website": "http://greensock.com/tweenmax",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "confidence": "100",
+      "version": "2.5.16",
+      "icon": "Vue.js.png",
+      "website": "http://vuejs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.selesti.com",
+  "id": "16029"
+}

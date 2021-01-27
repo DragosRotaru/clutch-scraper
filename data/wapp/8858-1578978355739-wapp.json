@@ -1,0 +1,168 @@
+{
+  "urls": {
+    "http://www.globeflash.com/": {
+      "status": 200
+    },
+    "https://www.globeflash.com/": {
+      "status": 200
+    },
+    "https://www.globeflash.com/SEO/": {
+      "status": 200
+    },
+    "https://www.globeflash.com/web-hosting/": {
+      "status": 200
+    },
+    "https://www.globeflash.com/web-design/": {
+      "status": 200
+    },
+    "https://www.globeflash.com/Real-Estate-IDX/": {
+      "status": 200
+    },
+    "https://www.globeflash.com/portfolio/": {
+      "status": 200
+    },
+    "https://www.globeflash.com/blog/": {
+      "status": 200
+    },
+    "https://www.globeflash.com/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.4",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "FancyBox",
+      "confidence": "100",
+      "version": "2.1.5",
+      "icon": "FancyBox.png",
+      "website": "http://fancyapps.com/fancybox",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Subrion",
+      "confidence": "100",
+      "version": null,
+      "icon": "Subrion.png",
+      "website": "http://subrion.com",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.10.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.globeflash.com",
+  "id": "8858"
+}

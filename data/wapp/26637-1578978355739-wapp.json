@@ -1,0 +1,118 @@
+{
+  "urls": {
+    "https://sprydigital.com/": {
+      "status": 200
+    },
+    "https://sprydigital.com/case-studies/": {
+      "status": 200
+    },
+    "https://sprydigital.com/clients/": {
+      "status": 200
+    },
+    "https://sprydigital.com/what-we-do/": {
+      "status": 200
+    },
+    "https://sprydigital.com/about-us/": {
+      "status": 200
+    },
+    "https://sprydigital.com/blog/": {
+      "status": 200
+    },
+    "https://sprydigital.com/contact/": {
+      "status": 200
+    },
+    "https://sprydigital.com/case-studies/suddenlink-communications": {
+      "status": 200
+    },
+    "https://sprydigital.com/case-studies/randy-burkett-lighting-design": {
+      "status": 200
+    },
+    "https://sprydigital.com/what-we-do/strategy/": {
+      "status": 200
+    },
+    "https://sprydigital.com/what-we-do/design/": {
+      "status": 200
+    },
+    "https://sprydigital.com/blog/wordpress/gutenberg-wordpress-for-clients": {
+      "status": 200
+    },
+    "https://sprydigital.com/blog/web-development/finding-nurturing-talent": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Netlify",
+      "confidence": "100",
+      "version": null,
+      "icon": "Netlify.svg",
+      "website": "https://www.netlify.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        },
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Vue.js.png",
+      "website": "http://vuejs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Nuxt.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nuxt.js.svg",
+      "website": "https://nuxtjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "scrollreveal",
+      "confidence": "100",
+      "version": null,
+      "icon": "scrollreveal.svg",
+      "website": "https://scrollrevealjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "https://sprydigital.com",
+  "id": "26637"
+}

@@ -1,0 +1,134 @@
+{
+  "urls": {
+    "http://edge.agency/": {
+      "status": 200
+    },
+    "http://edge.agency/intel": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Dojo",
+      "confidence": "100",
+      "version": "1",
+      "icon": "Dojo.png",
+      "website": "https://dojotoolkit.org",
+      "cpe": "cpe:/a:dojotoolkit:dojo",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Drupal",
+      "confidence": "100",
+      "version": "7",
+      "icon": "Drupal.svg",
+      "website": "https://drupal.org",
+      "cpe": "cpe:/a:drupal:drupal",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.4.16",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "ZURB Foundation",
+      "confidence": "100",
+      "version": null,
+      "icon": "ZURB Foundation.png",
+      "website": "http://foundation.zurb.com",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.7.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://edge.agency",
+  "id": "23168"
+}

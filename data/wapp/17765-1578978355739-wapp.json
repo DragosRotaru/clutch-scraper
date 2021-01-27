@@ -1,0 +1,138 @@
+{
+  "urls": {
+    "http://www.crystalloids.com/": {
+      "status": 200
+    },
+    "https://www.crystalloids.com/#": {
+      "status": 200
+    },
+    "https://www.crystalloids.com/": {
+      "status": 200
+    },
+    "https://www.crystalloids.com/about-us": {
+      "status": 200
+    },
+    "https://www.crystalloids.com/about-us/how-we-work": {
+      "status": 200
+    },
+    "https://www.crystalloids.com/about-us#": {
+      "status": 200
+    },
+    "https://www.crystalloids.com/about-us/meet-the-team": {
+      "status": 200
+    },
+    "https://www.crystalloids.com/services": {
+      "status": 200
+    },
+    "https://www.crystalloids.com/services/cloud-for-marketing": {
+      "status": 200
+    },
+    "https://www.crystalloids.com/services/collect-data": {
+      "status": 200
+    },
+    "https://www.crystalloids.com/services/transform-data": {
+      "status": 200
+    },
+    "https://www.crystalloids.com/about-us/how-we-work#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.7.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.crystalloids.com",
+  "id": "17765"
+}

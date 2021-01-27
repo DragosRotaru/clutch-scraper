@@ -1,0 +1,27 @@
+{
+  "urls": {
+    "http://www.trideapartners.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.trideapartners.com",
+  "id": "7331"
+}

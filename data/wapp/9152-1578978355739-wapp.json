@@ -1,0 +1,229 @@
+{
+  "urls": {
+    "http://madvertise.com/": {
+      "status": 200
+    },
+    "https://madvertise.com/en": {
+      "status": 200
+    },
+    "https://madvertise.com/en/#": {
+      "status": 200
+    },
+    "http://madvertise.com/fr/": {
+      "status": 200
+    },
+    "http://madvertise.com/de/": {
+      "status": 200
+    },
+    "http://madvertise.com/it/": {
+      "status": 200
+    },
+    "https://madvertise.com/fr": {
+      "status": 200
+    },
+    "https://madvertise.com/fr/creer/agence/": {
+      "status": 200
+    },
+    "https://madvertise.com/fr/creer/realisations/": {
+      "status": 200
+    },
+    "https://madvertise.com/fr/communiquer/advertising/": {
+      "status": 200
+    },
+    "https://madvertise.com/fr/appsfire/": {
+      "status": 200
+    },
+    "https://madvertise.com/it": {
+      "status": 200
+    },
+    "https://madvertise.com/it/advertising/premium/": {
+      "status": 200
+    },
+    "https://madvertise.com/it/advertising/performance/": {
+      "status": 200
+    },
+    "https://madvertise.com/it/advertising/programmatic/": {
+      "status": 200
+    },
+    "https://madvertise.com/it/company/case-history/": {
+      "status": 200
+    },
+    "https://madvertise.com/en/gdpr/": {
+      "status": 200
+    },
+    "http://madvertise.com/fr/investisseurs/": {
+      "status": 200
+    },
+    "http://madvertise.com/de/unternehmen/showroom/": {
+      "status": 200
+    },
+    "https://madvertise.com/de": {
+      "status": 200
+    },
+    "https://madvertise.com/de/#": {
+      "status": 200
+    },
+    "http://madvertise.com/en/": {
+      "status": 200
+    },
+    "https://madvertise.com/fr/communiquer/realisations/": {
+      "status": 200
+    },
+    "https://madvertise.com/fr/monetiser/monetisation/": {
+      "status": 200
+    },
+    "https://madvertise.com/fr/monetiser/editeurs/": {
+      "status": 200
+    },
+    "https://madvertise.com/fr/madvertise-developer-fund/": {
+      "status": 200
+    },
+    "https://madvertise.com/fr/investisseurs/": {
+      "status": 200
+    },
+    "https://madvertise.com/it/company/showroom/": {
+      "status": 200
+    },
+    "https://madvertise.com/it/publisher/": {
+      "status": 200
+    },
+    "https://madvertise.com/it/madvertise-developer-fund/": {
+      "status": 200
+    },
+    "https://madvertise.com/it/developer/": {
+      "status": 200
+    },
+    "https://madvertise.com/it/downloads/": {
+      "status": 200
+    },
+    "https://madvertise.com/de/branding/": {
+      "status": 200
+    },
+    "https://madvertise.com/de/performance/": {
+      "status": 200
+    },
+    "https://madvertise.com/de/programmatic/": {
+      "status": 200
+    },
+    "https://madvertise.com/de/publisher/": {
+      "status": 200
+    },
+    "https://madvertise.com/de/publisher/madvertise-developer-fund/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.6",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "animate.css",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://daneden.github.io/animate.css/",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.2.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "MailChimp",
+      "confidence": "100",
+      "version": null,
+      "icon": "mailchimp.svg",
+      "website": "http://mailchimp.com",
+      "cpe": "cpe:/a:thinkshout:mailchimp",
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "de-DE"
+  },
+  "website": "http://madvertise.com",
+  "id": "9152"
+}

@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.nadocrm.com/": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.nadocrm.com",
+  "id": "15508"
+}

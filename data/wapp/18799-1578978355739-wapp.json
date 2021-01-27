@@ -1,0 +1,217 @@
+{
+  "urls": {
+    "http://www.bettergraph.com/": {
+      "status": 200
+    },
+    "https://www.bettergraph.com/": {
+      "status": 200
+    },
+    "https://www.bettergraph.com/#lonline-marketing": {
+      "status": 200
+    },
+    "https://www.bettergraph.com/#website-promotion": {
+      "status": 200
+    },
+    "https://www.bettergraph.com/#internal-marketing": {
+      "status": 200
+    },
+    "https://www.bettergraph.com/#customer-say": {
+      "status": 200
+    },
+    "https://www.bettergraph.com/#customer-stories": {
+      "status": 200
+    },
+    "https://www.bettergraph.com/#latest-better-feed": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.2.31",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Plus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Plus.svg",
+      "website": "http://plus.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Highcharts",
+      "confidence": "100",
+      "version": "2.3.3",
+      "icon": "Highcharts.png",
+      "website": "https://www.highcharts.com",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.0.6",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "OpenSSL",
+      "confidence": "100",
+      "version": "1.0.1e",
+      "icon": "OpenSSL.png",
+      "website": "http://openssl.org",
+      "cpe": "cpe:/a:openssl:openssl",
+      "categories": [
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.3.29",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "UNIX",
+      "confidence": "100",
+      "version": null,
+      "icon": "UNIX.png",
+      "website": "http://unix.org",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.7.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.9.1",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "mod_dav",
+      "confidence": "100",
+      "version": "2",
+      "icon": "Apache.svg",
+      "website": "http://webdav.org/mod_dav",
+      "cpe": null,
+      "categories": [
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    },
+    {
+      "name": "mod_ssl",
+      "confidence": "100",
+      "version": "2.2.31",
+      "icon": "mod_ssl.png",
+      "website": "http://modssl.org",
+      "cpe": null,
+      "categories": [
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.bettergraph.com",
+  "id": "18799"
+}

@@ -1,0 +1,207 @@
+{
+  "urls": {
+    "http://www.flugelsoft.com/": {
+      "status": 200
+    },
+    "http://www.flugelsoft.com/#site-content": {
+      "status": 200
+    },
+    "http://www.flugelsoft.com/#": {
+      "status": 200
+    },
+    "https://www.flugelsoft.com/": {
+      "status": 200
+    },
+    "https://www.flugelsoft.com/about/": {
+      "status": 200
+    },
+    "https://www.flugelsoft.com/services/": {
+      "status": 200
+    },
+    "https://www.flugelsoft.com/technology-advisory-services/": {
+      "status": 200
+    },
+    "https://www.flugelsoft.com/how-to-speed-up-your-magento-2-store-and-increase-performance/": {
+      "status": 200
+    },
+    "https://www.flugelsoft.com/online-pr-services/": {
+      "status": 200
+    },
+    "https://www.flugelsoft.com/digital-marketing-agency/": {
+      "status": 200
+    },
+    "https://www.flugelsoft.com/about/#site-content": {
+      "status": 200
+    },
+    "https://www.flugelsoft.com/about/#": {
+      "status": 200
+    },
+    "https://www.flugelsoft.com/#site-content": {
+      "status": 503,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.flugelsoft.com/#": {
+      "status": 503,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Elementor",
+      "confidence": "100",
+      "version": "2.5.11",
+      "icon": "Elementor.png",
+      "website": "https://elementor.com",
+      "cpe": null,
+      "categories": [
+        {
+          "51": "Landing Page Builders"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "7.2.26",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Swiper Slider",
+      "confidence": "100",
+      "version": null,
+      "icon": "swiper.svg",
+      "website": "https://swiperjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Twitter Emoji (Twemoji)",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://twitter.github.io/twemoji/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "5.2.5",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.flugelsoft.com",
+  "id": "16918"
+}

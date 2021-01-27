@@ -1,0 +1,219 @@
+{
+  "urls": {
+    "https://www.zfort.com/": {
+      "status": 200
+    },
+    "https://www.zfort.com/contacts": {
+      "status": 200
+    },
+    "https://www.zfort.com/magento-development-services": {
+      "status": 200
+    },
+    "https://www.zfort.com/staff-on-bench": {
+      "status": 200
+    },
+    "https://www.zfort.com/services": {
+      "status": 200
+    },
+    "https://www.zfort.com/services/custom-software-development": {
+      "status": 200
+    },
+    "https://www.zfort.com/magento-development-services#tab-1": {
+      "status": 200
+    },
+    "https://www.zfort.com/magento-development-services#tab-2": {
+      "status": 200
+    },
+    "https://www.zfort.com/magento-development-services#tab-3": {
+      "status": 200
+    },
+    "https://www.zfort.com/magento-development-services#tab-4": {
+      "status": 200
+    },
+    "https://www.zfort.com/magento-development-services#tab-5": {
+      "status": 200
+    },
+    "https://www.zfort.com/magento-development-services#tab-6": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Crazy Egg",
+      "confidence": "100",
+      "version": null,
+      "icon": "Crazy Egg.png",
+      "website": "http://crazyegg.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "7.1.22",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Tawk.to",
+      "confidence": "100",
+      "version": null,
+      "icon": "TawkTo.png",
+      "website": "http://tawk.to",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "particles.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://vincentgarreau.com/particles.js/",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "https://www.zfort.com",
+  "id": "8553"
+}

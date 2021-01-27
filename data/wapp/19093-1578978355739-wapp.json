@@ -1,0 +1,308 @@
+{
+  "urls": {
+    "https://smartym.pro/": {
+      "status": 200
+    },
+    "https://smartym.pro/web-application-development/": {
+      "status": 200
+    },
+    "https://smartym.pro/services/dedicated-development-team/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://smartym.pro/startup-development/": {
+      "status": 200
+    },
+    "https://smartym.pro/application-modernization-services/": {
+      "status": 200
+    },
+    "https://smartym.pro/mobile-app-development/": {
+      "status": 200
+    },
+    "https://smartym.pro/blockchain-development-services/": {
+      "status": 200
+    },
+    "https://smartym.pro/services/java-development-services/": {
+      "status": 200
+    },
+    "https://smartym.pro/ui-ux-design-services/": {
+      "status": 200
+    },
+    "https://smartym.pro/pwa/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Polyfill",
+      "confidence": "100",
+      "version": null,
+      "icon": "polyfill.svg",
+      "website": "https://polyfill.io",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Nuxt.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nuxt.js.svg",
+      "website": "https://nuxtjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "confidence": "0",
+      "version": null,
+      "icon": "Vue.js.png",
+      "website": "http://vuejs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Chart.js",
+      "confidence": "50",
+      "version": null,
+      "icon": "Chart.js.svg",
+      "website": "https://www.chartjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "Fingerprintjs",
+      "confidence": "100",
+      "version": "1.1.3",
+      "icon": "default.svg",
+      "website": "https://valve.github.io/fingerprintjs2/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "MediaElement.js",
+      "confidence": "100",
+      "version": "4.2.6",
+      "icon": "MediaElement.js.png",
+      "website": "http://www.mediaelementjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.8.3",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "7.2.21",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Select2",
+      "confidence": "100",
+      "version": null,
+      "icon": "Select2.png",
+      "website": "https://select2.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "4.9.13",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.11.4",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://smartym.pro",
+  "id": "19093"
+}

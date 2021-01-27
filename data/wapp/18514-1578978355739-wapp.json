@@ -1,0 +1,116 @@
+{
+  "urls": {
+    "https://www.softeq.com/": {
+      "status": 200
+    },
+    "https://www.softeq.com/custom_application_development": {
+      "status": 200
+    },
+    "https://www.softeq.com/web_application_development": {
+      "status": 200
+    },
+    "https://www.softeq.com/services/mobile_application_development": {
+      "status": 200
+    },
+    "https://www.softeq.com/desktop_application_development": {
+      "status": 200
+    },
+    "https://www.softeq.com/cloud_app_development": {
+      "status": 200
+    },
+    "https://www.softeq.com/embedded_system": {
+      "status": 200
+    },
+    "https://www.softeq.com/firmware_development": {
+      "status": 200
+    },
+    "https://www.softeq.com/middleware_development": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Statcounter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Statcounter.svg",
+      "website": "http://www.statcounter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.softeq.com",
+  "id": "18514"
+}

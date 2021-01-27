@@ -1,0 +1,109 @@
+{
+  "urls": {
+    "http://www.andolasoft.com/": {
+      "status": 200
+    },
+    "https://www.andolasoft.com/": {
+      "status": 200
+    },
+    "https://www.andolasoft.com/ruby-on-rails-development/": {
+      "status": 200
+    },
+    "https://www.andolasoft.com/php-cakephp-development/": {
+      "status": 200
+    },
+    "https://www.andolasoft.com/wordpress-development-service/": {
+      "status": 200
+    },
+    "https://www.andolasoft.com/magento-development-service/": {
+      "status": 200
+    },
+    "https://www.andolasoft.com/angularjs-development/": {
+      "status": 200
+    },
+    "https://www.andolasoft.com/iphone-apps-development/": {
+      "status": 200
+    },
+    "https://www.andolasoft.com/android-application-development/": {
+      "status": 200
+    },
+    "https://www.andolasoft.com/hybrid-mobile-app-development/": {
+      "status": 200
+    },
+    "https://www.andolasoft.com/pentaho-development-services-data-warehouse-bi/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AMP",
+      "confidence": "100",
+      "version": null,
+      "icon": "Accelerated-Mobile-Pages.svg",
+      "website": "https://www.amp.dev",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Lightbox",
+      "confidence": "100",
+      "version": null,
+      "icon": "Lightbox.png",
+      "website": "http://lokeshdhakar.com/projects/lightbox2/",
+      "cpe": "cpe:/a:lightbox_photo_gallery_project:lightbox_photo_gallery",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.andolasoft.com",
+  "id": "19625"
+}

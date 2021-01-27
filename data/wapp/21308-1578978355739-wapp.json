@@ -1,0 +1,79 @@
+{
+  "urls": {
+    "http://timetoduckandcover.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "BugSnag",
+      "confidence": "100",
+      "version": null,
+      "icon": "BugSnag.png",
+      "website": "http://bugsnag.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "confidence": "50",
+      "version": null,
+      "icon": "Ruby on Rails.png",
+      "website": "https://rubyonrails.org",
+      "cpe": null,
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "confidence": "0",
+      "version": null,
+      "icon": "Ruby.png",
+      "website": "http://ruby-lang.org",
+      "cpe": null,
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://timetoduckandcover.com",
+  "id": "21308"
+}

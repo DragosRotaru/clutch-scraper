@@ -1,0 +1,118 @@
+{
+  "urls": {
+    "https://axmor.com/": {
+      "status": 200
+    },
+    "https://axmor.com/services": {
+      "status": 200
+    },
+    "https://axmor.com/#main_navbar_services": {
+      "status": 200
+    },
+    "https://axmor.com/services/business-intelligence-development": {
+      "status": 200
+    },
+    "https://axmor.com/services/iot": {
+      "status": 200
+    },
+    "https://axmor.com/services#main_navbar_services": {
+      "status": 200
+    },
+    "https://axmor.com/services/business-intelligence-development#main_navbar_services": {
+      "status": 200
+    },
+    "https://axmor.com/services/iot#main_navbar_services": {
+      "status": 200
+    },
+    "https://axmor.com/services/voip-software-development": {
+      "status": 200
+    },
+    "https://axmor.com/services/mobile-application-development": {
+      "status": 200
+    },
+    "https://axmor.com/services/custom-hr-software": {
+      "status": 200
+    },
+    "https://axmor.com/services/ui-ux-design": {
+      "status": 200
+    },
+    "https://axmor.com/technologies/chatbot-development": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.2.0",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.1.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "https://axmor.com",
+  "id": "16929"
+}

@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.mcc.com.bd/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.mcc.com.bd",
+  "id": "9084"
+}

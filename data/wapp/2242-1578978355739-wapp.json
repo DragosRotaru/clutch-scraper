@@ -1,0 +1,252 @@
+{
+  "urls": {
+    "https://svitla.com/": {
+      "status": 200
+    },
+    "https://svitla.com/about": {
+      "status": 200
+    },
+    "https://svitla.com/how-we-work": {
+      "status": 200
+    },
+    "https://svitla.com/expertise": {
+      "status": 200
+    },
+    "https://svitla.com/portfolio": {
+      "status": 200
+    },
+    "https://svitla.com/blog": {
+      "status": 200
+    },
+    "https://svitla.com/contacts": {
+      "status": 200
+    },
+    "https://svitla.com/about/svitla": {
+      "status": 200
+    },
+    "https://svitla.com/about/ceo": {
+      "status": 200
+    },
+    "https://svitla.com/about/team": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Babel",
+      "confidence": "100",
+      "version": null,
+      "icon": "Babel.svg",
+      "website": "https://babeljs.io",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "FancyBox",
+      "confidence": "100",
+      "version": "3.4.1",
+      "icon": "FancyBox.png",
+      "website": "http://fancyapps.com/fancybox",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Highlight.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Highlight.js.png",
+      "website": "https://highlightjs.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.10.3",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Select2",
+      "confidence": "100",
+      "version": null,
+      "icon": "Select2.png",
+      "website": "https://select2.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "TweenMax",
+      "confidence": "100",
+      "version": "1.20.2",
+      "icon": "TweenMax.png",
+      "website": "http://greensock.com/tweenmax",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Ubuntu",
+      "confidence": "100",
+      "version": null,
+      "icon": "Ubuntu.png",
+      "website": "http://www.ubuntu.com/server",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.2.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery-pjax",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://github.com/defunkt/jquery-pjax",
+      "cpe": null,
+      "categories": [
+        {
+          "26": "Mobile Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://svitla.com",
+  "id": "2242"
+}

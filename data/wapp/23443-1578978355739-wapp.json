@@ -1,0 +1,258 @@
+{
+  "urls": {
+    "https://divante.com/": {
+      "status": 200
+    },
+    "https://divante.com/products/content-management-pimcore": {
+      "status": 200
+    },
+    "https://divante.com/products/pim-on-pimcore": {
+      "status": 200
+    },
+    "https://divante.com/products/vue-storefront": {
+      "status": 200
+    },
+    "https://divante.com/products/open-loyalty-for-omnichannel": {
+      "status": 200
+    },
+    "https://divante.com/products/b2b-ecommerce": {
+      "status": 200
+    },
+    "https://divante.com/products/open-source": {
+      "status": 200
+    },
+    "https://divante.com/products": {
+      "status": 200
+    },
+    "https://divante.com/services/progressive-web-apps": {
+      "status": 200
+    },
+    "https://divante.com/services/magento-development": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.10.3",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Pimcore",
+      "confidence": "100",
+      "version": null,
+      "icon": "pimcore.svg",
+      "website": "http://pimcore.org",
+      "cpe": "cpe:/a:pimcore:pimcore",
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "6": "Ecommerce"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "RequireJS",
+      "confidence": "100",
+      "version": "2.3.3",
+      "icon": "RequireJS.png",
+      "website": "http://requirejs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Unbounce",
+      "confidence": "100",
+      "version": null,
+      "icon": "Unbounce.png",
+      "website": "http://unbounce.com",
+      "cpe": null,
+      "categories": [
+        {
+          "20": "Editors"
+        },
+        {
+          "51": "Landing Page Builders"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "FancyBox",
+      "confidence": "100",
+      "version": "3.1.25",
+      "icon": "FancyBox.png",
+      "website": "http://fancyapps.com/fancybox",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://divante.com",
+  "id": "23443"
+}

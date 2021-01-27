@@ -1,0 +1,167 @@
+{
+  "urls": {
+    "http://www.remotestaff.com.au/": {
+      "status": 200
+    },
+    "https://www.remotestaff.com.au/": {
+      "status": 200
+    },
+    "https://www.remotestaff.com.au/#": {
+      "status": 200
+    },
+    "https://www.remotestaff.com.au/virtual-assistants/": {
+      "status": 200
+    },
+    "https://www.remotestaff.com.au/view-candidates/": {
+      "status": 200
+    },
+    "https://www.remotestaff.com.au/front-end-developers/": {
+      "status": 200
+    },
+    "https://www.remotestaff.com.au/wordpress-developers/": {
+      "status": 200
+    },
+    "https://www.remotestaff.com.au/php-developers/": {
+      "status": 200
+    },
+    "https://www.remotestaff.com.au/web-designers/": {
+      "status": 200
+    },
+    "https://www.remotestaff.com.au/virtual-assistants/#": {
+      "status": 200
+    },
+    "https://www.remotestaff.com.au/view-candidates/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.15.8",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "7.9",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.remotestaff.com.au",
+  "id": "6848"
+}

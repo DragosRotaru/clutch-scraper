@@ -1,0 +1,110 @@
+{
+  "urls": {
+    "http://www.sodigital.com/": {
+      "status": 200
+    },
+    "http://www.sodigital.com/#about": {
+      "status": 200
+    },
+    "http://www.sodigital.com/#work": {
+      "status": 200
+    },
+    "http://www.sodigital.com/#team": {
+      "status": 200
+    },
+    "http://www.sodigital.com/#jobs": {
+      "status": 200
+    },
+    "http://www.sodigital.com/#contact": {
+      "status": 200
+    },
+    "http://www.sodigital.com/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "animate.css",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://daneden.github.io/animate.css/",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.sodigital.com",
+  "id": "26913"
+}

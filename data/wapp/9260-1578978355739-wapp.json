@@ -1,0 +1,109 @@
+{
+  "urls": {
+    "https://www.salentica.com/": {
+      "status": 200
+    },
+    "https://www.salentica.com/contact-us/": {
+      "status": 200
+    },
+    "https://www.salentica.com/demo-request/": {
+      "status": 200
+    },
+    "https://www.salentica.com/solutions/": {
+      "status": 200
+    },
+    "https://www.salentica.com/solutions/salentica-engage/": {
+      "status": 200
+    },
+    "https://www.salentica.com/solutions/salentica-elements/": {
+      "status": 200
+    },
+    "https://www.salentica.com/solutions/salentica-data-broker/": {
+      "status": 200
+    },
+    "https://www.salentica.com/integrations/": {
+      "status": 200
+    },
+    "https://www.salentica.com/services/": {
+      "status": 200
+    },
+    "https://www.salentica.com/services/getting-started/": {
+      "status": 200
+    },
+    "https://www.salentica.com/demo-request/?u=salentica-engage": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Azure",
+      "confidence": "100",
+      "version": null,
+      "icon": "azure.svg",
+      "website": "https://azure.microsoft.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Marketo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Marketo.png",
+      "website": "https://www.marketo.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "https://www.salentica.com",
+  "id": "9260"
+}

@@ -1,0 +1,241 @@
+{
+  "urls": {
+    "http://www.bigscal.com/": {
+      "status": 200
+    },
+    "http://www.bigscal.com/software-development-services/": {
+      "status": 200
+    },
+    "http://www.bigscal.com/mobile-app-development-services/": {
+      "status": 200
+    },
+    "http://www.bigscal.com/web-development-services/": {
+      "status": 200
+    },
+    "http://www.bigscal.com/qa-testing-services/": {
+      "status": 200
+    },
+    "http://www.bigscal.com/software-development-services/#top": {
+      "status": 200
+    },
+    "http://www.bigscal.com/mobile-app-development-services/#top": {
+      "status": 200
+    },
+    "http://www.bigscal.com/qa-testing-services/#top": {
+      "status": 200
+    },
+    "http://www.bigscal.com/web-development-services/#top": {
+      "status": 200
+    },
+    "http://www.bigscal.com/hire-mobile-web-developer/": {
+      "status": 200
+    },
+    "http://www.bigscal.com/hire_ios_developer/": {
+      "status": 200
+    },
+    "http://www.bigscal.com/hire-swift-developer/": {
+      "status": 200
+    },
+    "http://www.bigscal.com/hire-android-developer/": {
+      "status": 200
+    },
+    "http://www.bigscal.com/hire-xamarin-developer/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "MediaElement.js",
+      "confidence": "100",
+      "version": "4.2.6",
+      "icon": "MediaElement.js.png",
+      "website": "http://www.mediaelementjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.10.3",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Tawk.to",
+      "confidence": "100",
+      "version": null,
+      "icon": "TawkTo.png",
+      "website": "http://tawk.to",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    },
+    {
+      "name": "Twitter Emoji (Twemoji)",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://twitter.github.io/twemoji/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Ubuntu",
+      "confidence": "100",
+      "version": null,
+      "icon": "Ubuntu.png",
+      "website": "http://www.ubuntu.com/server",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "7.1",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.bigscal.com",
+  "id": "19960"
+}

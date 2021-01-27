@@ -1,0 +1,242 @@
+{
+  "urls": {
+    "http://www.kunocreative.com/": {
+      "status": 200
+    },
+    "https://www.kunocreative.com/privacy-policy": {
+      "status": 200
+    },
+    "https://www.kunocreative.com/#": {
+      "status": 200
+    },
+    "https://www.kunocreative.com/": {
+      "status": 200
+    },
+    "https://www.kunocreative.com/digital-marketing-agency": {
+      "status": 200
+    },
+    "https://www.kunocreative.com/privacy-policy#": {
+      "status": 200
+    },
+    "https://www.kunocreative.com/why-kuno": {
+      "status": 200
+    },
+    "https://www.kunocreative.com/digital-marketing-strategy": {
+      "status": 200
+    },
+    "https://www.kunocreative.com/inbound-marketing": {
+      "status": 200
+    },
+    "https://www.kunocreative.com/demand-generation": {
+      "status": 200
+    },
+    "https://www.kunocreative.com/brand-experience": {
+      "status": 200
+    },
+    "https://www.kunocreative.com/digital-marketing-agency#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "FancyBox",
+      "confidence": "100",
+      "version": "2.1.5",
+      "icon": "FancyBox.png",
+      "website": "http://fancyapps.com/fancybox",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Lazy.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "http://danieltao.com/lazy.js",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": "1.6.0",
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "animate.css",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://daneden.github.io/animate.css/",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "SweetAlert",
+      "confidence": "100",
+      "version": null,
+      "icon": "SweetAlert.png",
+      "website": "https://t4t5.github.io/sweetalert/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Riot",
+      "confidence": "100",
+      "version": null,
+      "icon": "Riot.png",
+      "website": "https://riot.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.kunocreative.com",
+  "id": "25358"
+}

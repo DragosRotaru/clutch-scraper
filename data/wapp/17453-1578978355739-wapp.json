@@ -1,0 +1,40 @@
+{
+  "urls": {
+    "http://mobileappdevelopersindia.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google AdSense",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google AdSense.svg",
+      "website": "https://www.google.fr/adsense/start/",
+      "cpe": null,
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://mobileappdevelopersindia.com",
+  "id": "17453"
+}

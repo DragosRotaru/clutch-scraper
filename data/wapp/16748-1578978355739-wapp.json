@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.sylpheo.com/": {
+      "status": 404,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.sylpheo.com",
+  "id": "16748"
+}

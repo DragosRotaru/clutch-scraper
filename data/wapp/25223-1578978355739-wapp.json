@@ -1,0 +1,192 @@
+{
+  "urls": {
+    "https://www.seoegypt.com/": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/#": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/ar/": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/company": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/internet-marketing": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/internet-marketing/arabic-seo": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/internet-marketing/social-media-marketing": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/internet-marketing/ppc/arabic-ppc": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/internet-marketing/arabic-content-marketing": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/ar/#": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/ar/company": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/company#": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/ar/internet-marketing": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/ar/internet-marketing/arabic-seo": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/ar/internet-marketing/social-media-marketing": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/ar/internet-marketing/ppc": {
+      "status": 200
+    },
+    "https://www.seoegypt.com/ar/internet-marketing/arabic-content-writing": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.2.0",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "FancyBox",
+      "confidence": "100",
+      "version": "2.1.5",
+      "icon": "FancyBox.png",
+      "website": "http://fancyapps.com/fancybox",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "Hammer.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hammer.js.png",
+      "website": "https://hammerjs.github.io",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.6.40",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Raphael",
+      "confidence": "100",
+      "version": "2.1.2",
+      "icon": "Raphael.png",
+      "website": "https://dmitrybaranovskiy.github.io/raphael/",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "VideoJS",
+      "confidence": "100",
+      "version": null,
+      "icon": "VideoJS.svg",
+      "website": "http://videojs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.0",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "https://www.seoegypt.com",
+  "id": "25223"
+}

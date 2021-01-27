@@ -1,0 +1,196 @@
+{
+  "urls": {
+    "http://www.bluespark.com/": {
+      "status": 200
+    },
+    "https://www.bluespark.com/#": {
+      "status": 200
+    },
+    "https://www.bluespark.com/#main-content": {
+      "status": 200
+    },
+    "https://www.bluespark.com/industry": {
+      "status": 200
+    },
+    "https://www.bluespark.com/work": {
+      "status": 200
+    },
+    "https://www.bluespark.com/expertise": {
+      "status": 200
+    },
+    "https://www.bluespark.com/culture": {
+      "status": 200
+    },
+    "https://www.bluespark.com/team": {
+      "status": 200
+    },
+    "https://www.bluespark.com/blog": {
+      "status": 200
+    },
+    "https://www.bluespark.com/contact": {
+      "status": 200
+    },
+    "https://www.bluespark.com/industry#": {
+      "status": 200
+    },
+    "https://www.bluespark.com/industry#main-content": {
+      "status": 200
+    },
+    "https://www.bluespark.com/work#": {
+      "status": 200
+    },
+    "https://www.bluespark.com/work#main-content": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AddToAny",
+      "confidence": "100",
+      "version": null,
+      "icon": "AddToAny.png",
+      "website": "http://www.addtoany.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Drupal",
+      "confidence": "100",
+      "version": "8",
+      "icon": "Drupal.svg",
+      "website": "https://drupal.org",
+      "cpe": "cpe:/a:drupal:drupal",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Platform.sh",
+      "confidence": "100",
+      "version": null,
+      "icon": "platformsh.svg",
+      "website": "https://platform.sh",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Leaflet",
+      "confidence": "100",
+      "version": "1.0.3",
+      "icon": "Leaflet.png",
+      "website": "http://leafletjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.bluespark.com",
+  "id": "24204"
+}

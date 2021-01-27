@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.osp.com.vn/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.osp.com.vn",
+  "id": "98"
+}

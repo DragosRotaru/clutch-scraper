@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.wardsoft.co.uk/": {
+      "status": 503,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.wardsoft.co.uk",
+  "id": "25069"
+}

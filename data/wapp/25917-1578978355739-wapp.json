@@ -1,0 +1,234 @@
+{
+  "urls": {
+    "http://developertown.com/": {
+      "status": 200
+    },
+    "https://developertown.com/": {
+      "status": 200
+    },
+    "https://developertown.com/about": {
+      "status": 200
+    },
+    "https://developertown.com/case-studies": {
+      "status": 200
+    },
+    "https://developertown.com/team": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://developertown.com/blog": {
+      "status": 200
+    },
+    "https://developertown.com/lets-talk": {
+      "status": 200
+    },
+    "https://developertown.com/case_study/republic-airline": {
+      "status": 200
+    },
+    "https://developertown.com/software-development": {
+      "status": 200
+    },
+    "https://developertown.com/devops": {
+      "status": 200
+    },
+    "https://developertown.com/case_study/becks": {
+      "status": 200
+    },
+    "https://developertown.com/case_study/diagnotes": {
+      "status": 200
+    },
+    "https://developertown.com/case_study/waterly": {
+      "status": 200
+    },
+    "https://developertown.com/android-10-ui-kit": {
+      "status": 200
+    },
+    "https://developertown.com/product-owners-need-sleep-too": {
+      "status": 200
+    },
+    "https://developertown.com/is-outsourcing-right-for-you": {
+      "status": 200
+    },
+    "https://developertown.com/choosing-the-right-software-development-partner": {
+      "status": 200
+    },
+    "http://developertown.com/lets-talk": {
+      "status": 200
+    },
+    "http://developertown.com/case_study/republic-airline": {
+      "status": 200
+    },
+    "http://developertown.com/lets-talk#": {
+      "status": 200
+    },
+    "https://developertown.com/case_study/track-ahead": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "4.3.1",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Craft CMS",
+      "confidence": "100",
+      "version": null,
+      "icon": "Craft CMS.svg",
+      "website": "https://craftcms.com",
+      "cpe": "cpe:/a:craftcms:craft_cms",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "MailChimp",
+      "confidence": "100",
+      "version": null,
+      "icon": "mailchimp.svg",
+      "website": "http://mailchimp.com",
+      "cpe": "cpe:/a:thinkshout:mailchimp",
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Prism",
+      "confidence": "100",
+      "version": null,
+      "icon": "Prism.svg",
+      "website": "http://prismjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "SiteGround",
+      "confidence": "100",
+      "version": null,
+      "icon": "siteground.svg",
+      "website": "https://www.siteground.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Yii",
+      "confidence": "0",
+      "version": null,
+      "icon": "Yii.png",
+      "website": "https://www.yiiframework.com",
+      "cpe": null,
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://developertown.com",
+  "id": "25917"
+}

@@ -1,0 +1,122 @@
+{
+  "urls": {
+    "http://www.jloop.com/": {
+      "status": 200
+    },
+    "https://www.jloop.com/contact": {
+      "status": 200
+    },
+    "https://www.jloop.com/#contact-pane": {
+      "status": 200
+    },
+    "https://www.jloop.com/#home": {
+      "status": 200
+    },
+    "https://www.jloop.com/#who-we-are": {
+      "status": 200
+    },
+    "https://www.jloop.com/#our-work": {
+      "status": 200
+    },
+    "https://www.jloop.com/contact#contact-pane": {
+      "status": 200
+    },
+    "https://www.jloop.com/#our-team": {
+      "status": 200
+    },
+    "https://www.jloop.com/#capabilities": {
+      "status": 200
+    },
+    "https://www.jloop.com/#nav-pane": {
+      "status": 200
+    },
+    "https://www.jloop.com/contact#nav-pane": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Plesk",
+      "confidence": "100",
+      "version": null,
+      "icon": "Plesk.png",
+      "website": "https://www.plesk.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "9": "Hosting Panels"
+        }
+      ]
+    },
+    {
+      "name": "Typekit",
+      "confidence": "100",
+      "version": "1.19.2",
+      "icon": "Typekit.png",
+      "website": "http://typekit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "animate.css",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://daneden.github.io/animate.css/",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.10.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.jloop.com",
+  "id": "10414"
+}

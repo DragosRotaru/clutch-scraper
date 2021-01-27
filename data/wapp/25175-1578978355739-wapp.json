@@ -1,0 +1,148 @@
+{
+  "urls": {
+    "https://thebhwgroup.com/": {
+      "status": 200
+    },
+    "https://thebhwgroup.com/about": {
+      "status": 200
+    },
+    "https://thebhwgroup.com/services": {
+      "status": 200
+    },
+    "https://thebhwgroup.com/team": {
+      "status": 200
+    },
+    "https://thebhwgroup.com/projects": {
+      "status": 200
+    },
+    "https://thebhwgroup.com/careers": {
+      "status": 200
+    },
+    "https://thebhwgroup.com/blog": {
+      "status": 200
+    },
+    "https://thebhwgroup.com/contact": {
+      "status": 200
+    },
+    "https://thebhwgroup.com/services/mobile-app-development-company-austin-texas": {
+      "status": 200
+    },
+    "https://thebhwgroup.com/users/bburnett": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "D3",
+      "confidence": "100",
+      "version": "3.4.11",
+      "icon": "D3.png",
+      "website": "http://d3js.org",
+      "cpe": "cpe:/a:d3.js_project:d3.js",
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.8.3",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.6.3",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://thebhwgroup.com",
+  "id": "25175"
+}

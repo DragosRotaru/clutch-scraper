@@ -1,0 +1,157 @@
+{
+  "urls": {
+    "http://www.iversoft.ca/": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/#": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/about": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/ourwork": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/careers": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/contact": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/about#": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/ourwork#": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/thoughtspot": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/biolingo": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/touchplow": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/privacy-policy": {
+      "status": 200
+    },
+    "https://www.iversoft.ca/harlequin": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Tawk.to",
+      "confidence": "100",
+      "version": null,
+      "icon": "TawkTo.png",
+      "website": "http://tawk.to",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    },
+    {
+      "name": "Typekit",
+      "confidence": "100",
+      "version": "1.19.2",
+      "icon": "Typekit.png",
+      "website": "http://typekit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.iversoft.ca",
+  "id": "18167"
+}

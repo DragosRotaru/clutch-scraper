@@ -1,0 +1,271 @@
+{
+  "urls": {
+    "https://www.boostability.com/": {
+      "status": 200
+    },
+    "https://www.boostability.com/#": {
+      "status": 200
+    },
+    "https://www.boostability.com/online-marketing-company/about-us/": {
+      "status": 200
+    },
+    "https://www.boostability.com/about-us/company-history/": {
+      "status": 200
+    },
+    "https://www.boostability.com/about-us/our-team/": {
+      "status": 200
+    },
+    "https://www.boostability.com/online-marketing-company/press/": {
+      "status": 200
+    },
+    "https://www.boostability.com/online-marketing-company/case-studies": {
+      "status": 200
+    },
+    "https://www.boostability.com/careers": {
+      "status": 200
+    },
+    "https://www.boostability.com/about-us/international-headquarters": {
+      "status": 200
+    },
+    "https://www.boostability.com/boostcares/": {
+      "status": 200
+    },
+    "https://www.boostability.com/contact/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AddThis",
+      "confidence": "100",
+      "version": null,
+      "icon": "AddThis.svg",
+      "website": "http://www.addthis.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Unbounce",
+      "confidence": "100",
+      "version": null,
+      "icon": "Unbounce.png",
+      "website": "http://unbounce.com",
+      "cpe": null,
+      "categories": [
+        {
+          "20": "Editors"
+        },
+        {
+          "51": "Landing Page Builders"
+        }
+      ]
+    },
+    {
+      "name": "WP Engine",
+      "confidence": "100",
+      "version": null,
+      "icon": "wpengine.svg",
+      "website": "https://wpengine.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "UIKit",
+      "confidence": "100",
+      "version": null,
+      "icon": "UIKit.png",
+      "website": "https://getuikit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": "5.7.2",
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Gravatar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Gravatar.png",
+      "website": "http://gravatar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://www.boostability.com",
+  "id": "23130"
+}

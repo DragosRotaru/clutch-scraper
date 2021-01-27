@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.transitioncomputing.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.transitioncomputing.com",
+  "id": "16043"
+}

@@ -1,0 +1,235 @@
+{
+  "urls": {
+    "http://www.nexgendesign.com/": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/concept": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/knowledge-base": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/our-clients-say": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/contact-us": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/blog": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/feedback/feedback-4": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/knowledge-base#tabs-1": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/knowledge-base#tabs-2": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/knowledge-base#tabs-3": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/hire-java-developers": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/joomla-drupal-wordpress": {
+      "status": 200
+    },
+    "http://www.nexgendesign.com/converting-psd-2-html-xhtml-css": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "All in One SEO Pack",
+      "confidence": "100",
+      "version": "2.11",
+      "icon": "all-in-One-SEO-Pack.png",
+      "website": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+      "cpe": "cpe:/a:semperfiwebdesign:all_in_one_seo_pack",
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Tawk.to",
+      "confidence": "100",
+      "version": null,
+      "icon": "TawkTo.png",
+      "website": "http://tawk.to",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    },
+    {
+      "name": "Twitter Emoji (Twemoji)",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://twitter.github.io/twemoji/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "5.0.8",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.10.3",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.nexgendesign.com",
+  "id": "15651"
+}

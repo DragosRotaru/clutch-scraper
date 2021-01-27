@@ -1,0 +1,200 @@
+{
+  "urls": {
+    "http://www.seta-international.com/": {
+      "status": 200
+    },
+    "http://www.seta-international.com/#": {
+      "status": 200
+    },
+    "http://www.seta-international.com/seta-value": {
+      "status": 200
+    },
+    "http://www.seta-international.com/seta-certifications": {
+      "status": 200
+    },
+    "http://www.seta-international.com/seta-value#": {
+      "status": 200
+    },
+    "http://www.seta-international.com/news": {
+      "status": 200
+    },
+    "http://www.seta-international.com/testimonials": {
+      "status": 200
+    },
+    "http://www.seta-international.com/locations": {
+      "status": 200
+    },
+    "http://www.seta-international.com/privacy-policy": {
+      "status": 200
+    },
+    "http://www.seta-international.com/seta-certifications#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4.7",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google PageSpeed",
+      "confidence": "100",
+      "version": "1.8.31.5",
+      "icon": "Google PageSpeed.png",
+      "website": "http://developers.google.com/speed/pagespeed/mod",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        },
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Laravel",
+      "confidence": "100",
+      "version": null,
+      "icon": "Laravel.svg",
+      "website": "https://laravel.com",
+      "cpe": "cpe:/a:laravel:laravel",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "OWL Carousel",
+      "confidence": "100",
+      "version": null,
+      "icon": "OWL Carousel.png",
+      "website": "https://owlcarousel2.github.io/OwlCarousel2/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.5.9",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "UIKit",
+      "confidence": "100",
+      "version": null,
+      "icon": "UIKit.png",
+      "website": "https://getuikit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Ubuntu",
+      "confidence": "100",
+      "version": null,
+      "icon": "Ubuntu.png",
+      "website": "http://www.ubuntu.com/server",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.11.4",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.seta-international.com",
+  "id": "26388"
+}

@@ -1,0 +1,255 @@
+{
+  "urls": {
+    "https://imagexmedia.com/": {
+      "status": 200
+    },
+    "https://imagexmedia.com/services": {
+      "status": 200
+    },
+    "https://imagexmedia.com/work": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://imagexmedia.com/about": {
+      "status": 200
+    },
+    "https://imagexmedia.com/blog": {
+      "status": 200
+    },
+    "https://imagexmedia.com/careers": {
+      "status": 200
+    },
+    "https://imagexmedia.com/contact": {
+      "status": 200
+    },
+    "https://imagexmedia.com/work/ymca-greater-new-york": {
+      "status": 200
+    },
+    "https://imagexmedia.com/work/trinity-university": {
+      "status": 200
+    },
+    "https://imagexmedia.com/work/sevone": {
+      "status": 403,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://imagexmedia.com/about#": {
+      "status": 200
+    },
+    "https://imagexmedia.com/blog/2019/12/imagex-ranked-exclusive-clutch-1000": {
+      "status": 200
+    },
+    "https://imagexmedia.com/blog/2019/10/beware-these-deadly-digital-marketing-ghouls-goblins": {
+      "status": 200
+    },
+    "https://imagexmedia.com/blog/2019/10/topping-charts-our-latest-5-review": {
+      "status": 200
+    },
+    "https://imagexmedia.com/#ReimagineDigital": {
+      "status": 200
+    },
+    "https://imagexmedia.com/#ThankYouClients": {
+      "status": 200
+    },
+    "https://imagexmedia.com/#YMCAofGreaterNewYork": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AdRoll",
+      "confidence": "100",
+      "version": null,
+      "icon": "AdRoll.svg",
+      "website": "http://adroll.com",
+      "cpe": null,
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4.29",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": "5.7.2",
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Gatsby",
+      "confidence": "100",
+      "version": "2.18.1",
+      "icon": "Gatsby.svg",
+      "website": "https://www.gatsbyjs.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "57": "Static Site Generator"
+        },
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Ubuntu",
+      "confidence": "100",
+      "version": null,
+      "icon": "Ubuntu.png",
+      "website": "http://www.ubuntu.com/server",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.9.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "AddThis",
+      "confidence": "100",
+      "version": null,
+      "icon": "AddThis.svg",
+      "website": "http://www.addthis.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://imagexmedia.com",
+  "id": "22845"
+}

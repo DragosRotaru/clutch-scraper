@@ -1,0 +1,62 @@
+{
+  "urls": {
+    "http://www.angellecho.com/": {
+      "status": 200
+    },
+    "http://www.angellecho.com/?lang=cn": {
+      "status": 200
+    },
+    "http://www.angellecho.com/?lang=en": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.8.0",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.6.14",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.10.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.angellecho.com",
+  "id": "20477"
+}

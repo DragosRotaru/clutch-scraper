@@ -1,0 +1,189 @@
+{
+  "urls": {
+    "https://prograils.com/": {
+      "status": 200
+    },
+    "https://prograils.com/services": {
+      "status": 200
+    },
+    "https://prograils.com/portfolio": {
+      "status": 200
+    },
+    "https://prograils.com/playbook": {
+      "status": 200
+    },
+    "https://prograils.com/courses": {
+      "status": 200
+    },
+    "https://prograils.com/blog": {
+      "status": 200
+    },
+    "https://prograils.com/pricing": {
+      "status": 200
+    },
+    "https://prograils.com/meet_us": {
+      "status": 200
+    },
+    "https://prograils.com/web-development-services-ruby-on-rails-elixir": {
+      "status": 200
+    },
+    "https://prograils.com/mobile-development-services-native-cross-platform": {
+      "status": 200
+    },
+    "https://prograils.com/playbook/who_we_are": {
+      "status": 200
+    },
+    "https://prograils.com/playbook/initial_arrangements": {
+      "status": 200
+    },
+    "https://prograils.com/courses/saas": {
+      "status": 200
+    },
+    "https://prograils.com/projects/sapu-dk/preview": {
+      "status": 200
+    },
+    "https://prograils.com/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.14.0",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Phusion Passenger",
+      "confidence": "100",
+      "version": "6.0.4",
+      "icon": "Phusion Passenger.png",
+      "website": "https://phusionpassenger.com",
+      "cpe": "cpe:/a:phusionpassenger:phusion_passenger",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "confidence": "50",
+      "version": null,
+      "icon": "Ruby on Rails.png",
+      "website": "https://rubyonrails.org",
+      "cpe": null,
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "confidence": "0",
+      "version": null,
+      "icon": "Ruby.png",
+      "website": "http://ruby-lang.org",
+      "cpe": null,
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://prograils.com",
+  "id": "23819"
+}

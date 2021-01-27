@@ -1,0 +1,27 @@
+{
+  "urls": {
+    "http://www.datamum.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache Traffic Server",
+      "confidence": "100",
+      "version": "7.1.2",
+      "icon": "Apache Traffic Server.png",
+      "website": "http://trafficserver.apache.org/",
+      "cpe": "cpe:/a:apache:traffic_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.datamum.com",
+  "id": "17763"
+}

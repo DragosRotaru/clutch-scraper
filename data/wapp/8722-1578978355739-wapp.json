@@ -1,0 +1,225 @@
+{
+  "urls": {
+    "http://www.brainshark.com/": {
+      "status": 200
+    },
+    "https://www.brainshark.com/#main-content": {
+      "status": 200
+    },
+    "https://www.brainshark.com/": {
+      "status": 200
+    },
+    "https://www.brainshark.com/why-brainshark": {
+      "status": 200
+    },
+    "https://www.brainshark.com/solutions": {
+      "status": 200
+    },
+    "https://www.brainshark.com/solutions/sales-content": {
+      "status": 200
+    },
+    "https://www.brainshark.com/solutions/sales-training": {
+      "status": 200
+    },
+    "https://www.brainshark.com/solutions/sales-coaching": {
+      "status": 200
+    },
+    "https://www.brainshark.com/solutions/sales-engagement": {
+      "status": 200
+    },
+    "https://www.brainshark.com/solutions/analytics": {
+      "status": 200
+    },
+    "https://www.brainshark.com/solutions/integrations": {
+      "status": 200
+    },
+    "https://www.brainshark.com/why-brainshark#main-content": {
+      "status": 200
+    },
+    "https://www.brainshark.com/solutions/sales-content#main-content": {
+      "status": 200
+    },
+    "https://www.brainshark.com/solutions#main-content": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Acquia Cloud",
+      "confidence": "100",
+      "version": null,
+      "icon": "acquia-cloud.png",
+      "website": "https://www.acquia.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "Drupal",
+      "confidence": "100",
+      "version": "7",
+      "icon": "Drupal.svg",
+      "website": "https://drupal.org",
+      "cpe": "cpe:/a:drupal:drupal",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Fastly",
+      "confidence": "100",
+      "version": null,
+      "icon": "Fastly.svg",
+      "website": "https://www.fastly.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Varnish",
+      "confidence": "100",
+      "version": null,
+      "icon": "Varnish.svg",
+      "website": "http://www.varnish-cache.org",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        }
+      ]
+    },
+    {
+      "name": "Visual Website Optimizer",
+      "confidence": "100",
+      "version": null,
+      "icon": "vwo.svg",
+      "website": "https://vwo.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "0",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Percona",
+      "confidence": "0",
+      "version": null,
+      "icon": "percona.svg",
+      "website": "https://www.percona.com",
+      "cpe": null,
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Amazon EC2",
+      "confidence": "0",
+      "version": null,
+      "icon": "aws-ec2.svg",
+      "website": "http://aws.amazon.com/ec2/",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "confidence": "0",
+      "version": null,
+      "icon": "aws.svg",
+      "website": "https://aws.amazon.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.brainshark.com",
+  "id": "8722"
+}

@@ -1,0 +1,264 @@
+{
+  "urls": {
+    "http://www.inspark.com/": {
+      "status": 200
+    },
+    "https://www.inspark.com/salesforce-crm-ucretsiz-deneme-surumu": {
+      "status": 200
+    },
+    "https://www.inspark.com/": {
+      "status": 200
+    },
+    "https://www.inspark.com/#": {
+      "status": 200
+    },
+    "https://www.inspark.com/salesforce-turkiye-yetkili-saticisi": {
+      "status": 200
+    },
+    "https://www.inspark.com/sales-cloud-satis-bulutu": {
+      "status": 200
+    },
+    "https://www.inspark.com/salesforce-crm-ucretsiz-deneme-surumu#": {
+      "status": 200
+    },
+    "https://www.inspark.com/salesforce-turkiye-yetkili-saticisi#": {
+      "status": 200
+    },
+    "https://www.inspark.com/service-cloud-servis-bulutu": {
+      "status": 200
+    },
+    "https://www.inspark.com/marketing-cloud-pazarlama-bulutu": {
+      "status": 200
+    },
+    "https://www.inspark.com/Pardot-B2B-Kurumsal-Pazarlama-Otomasyonu": {
+      "status": 200
+    },
+    "https://www.inspark.com/community-cloud-isbirligi-bulutu": {
+      "status": 200
+    },
+    "https://www.inspark.com/salesforce-analytics-cloud-analiz-bulutu": {
+      "status": 200
+    },
+    "https://www.inspark.com/sales-cloud-satis-bulutu#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "MediaElement.js",
+      "confidence": "100",
+      "version": "4.2.6",
+      "icon": "MediaElement.js.png",
+      "website": "http://www.mediaelementjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.8.3",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Pardot",
+      "confidence": "100",
+      "version": null,
+      "icon": "Pardot.png",
+      "website": "https://www.pardot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "WP Rocket",
+      "confidence": "100",
+      "version": null,
+      "icon": "WP Rocket.png",
+      "website": "http://wp-rocket.me",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "4.9.8",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.11.4",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "tr-TR"
+  },
+  "website": "http://www.inspark.com",
+  "id": "16548"
+}

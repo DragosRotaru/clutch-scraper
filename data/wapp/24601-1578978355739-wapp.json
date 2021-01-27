@@ -1,0 +1,237 @@
+{
+  "urls": {
+    "https://www.vardot.com/": {
+      "status": 200
+    },
+    "https://www.vardot.com/privacy-policy": {
+      "status": 200
+    },
+    "https://www.vardot.com/en#": {
+      "status": 200
+    },
+    "https://www.vardot.com/en#main-content": {
+      "status": 200
+    },
+    "https://www.vardot.com/en": {
+      "status": 200
+    },
+    "https://www.vardot.com/en/privacy-policy#": {
+      "status": 200
+    },
+    "https://www.vardot.com/en/privacy-policy#main-content": {
+      "status": 200
+    },
+    "https://www.vardot.com/en/solutions": {
+      "status": 200
+    },
+    "https://www.vardot.com/en/solutions/higher-education": {
+      "status": 200
+    },
+    "https://www.vardot.com/en/solutions/public-service": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.vardot.com/en/solutions/healthcare": {
+      "status": 200
+    },
+    "https://www.vardot.com/en/solutions/media-and-entertainment": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [
+    {
+      "name": "AdRoll",
+      "confidence": "100",
+      "version": null,
+      "icon": "AdRoll.svg",
+      "website": "http://adroll.com",
+      "cpe": null,
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Drupal",
+      "confidence": "100",
+      "version": "8",
+      "icon": "Drupal.svg",
+      "website": "https://drupal.org",
+      "cpe": "cpe:/a:drupal:drupal",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Fingerprintjs",
+      "confidence": "100",
+      "version": "1.4.4",
+      "icon": "default.svg",
+      "website": "https://valve.github.io/fingerprintjs2/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Mautic",
+      "confidence": "100",
+      "version": null,
+      "icon": "mautic.svg",
+      "website": "https://www.mautic.org/",
+      "cpe": "cpe:/a:mautic:mautic",
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Platform.sh",
+      "confidence": "100",
+      "version": null,
+      "icon": "platformsh.svg",
+      "website": "https://platform.sh",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.vardot.com",
+  "id": "24601"
+}

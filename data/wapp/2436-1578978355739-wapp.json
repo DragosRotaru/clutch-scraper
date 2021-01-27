@@ -1,0 +1,122 @@
+{
+  "urls": {
+    "http://www.impacttechnology.co.uk/": {
+      "status": 200
+    },
+    "https://www.impacttechnology.co.uk/": {
+      "status": 200
+    },
+    "https://www.impacttechnology.co.uk/#": {
+      "status": 200
+    },
+    "https://www.impacttechnology.co.uk/software-development-services": {
+      "status": 200
+    },
+    "https://www.impacttechnology.co.uk/embedded-software-development": {
+      "status": 200
+    },
+    "https://www.impacttechnology.co.uk/database-application-development": {
+      "status": 200
+    },
+    "https://www.impacttechnology.co.uk/example-data-flow-diagram": {
+      "status": 200
+    },
+    "https://www.impacttechnology.co.uk/example-entity-relationship-diagram": {
+      "status": 200
+    },
+    "https://www.impacttechnology.co.uk/desktop-application-development": {
+      "status": 200
+    },
+    "https://www.impacttechnology.co.uk/how-we-approach-software-development": {
+      "status": 200
+    },
+    "https://www.impacttechnology.co.uk/software-development-methodology": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.2.0",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "7.1.14",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.12.1",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.impacttechnology.co.uk",
+  "id": "2436"
+}

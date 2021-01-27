@@ -1,0 +1,299 @@
+{
+  "urls": {
+    "http://www.augustinfotech.com/": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/solutions": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/blog": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/privacy_policy": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/contact": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.augustinfotech.com/about": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.augustinfotech.com/solutions#collapseOne": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/solutions#collapseTwo": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/solutions#collapseThree": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/solutions#collapseFour": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/blog/our-great-company-culture-youre-family-at-august": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/blog/python-a-top-contender-for-webapps-and-development": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.augustinfotech.com/blog/culture-leaders-values-life-at-august": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/#about": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/#services": {
+      "status": 200
+    },
+    "http://www.augustinfotech.com/services": {
+      "status": 404,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Cowboy",
+      "confidence": "100",
+      "version": null,
+      "icon": "Cowboy.png",
+      "website": "http://ninenines.eu",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Next.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "zeit.svg",
+      "website": "https://github.com/zeit/next.js",
+      "cpe": "cpe:/a:zeit:next.js",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        },
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Snap.svg",
+      "confidence": "100",
+      "version": null,
+      "icon": "Snap.svg.png",
+      "website": "http://snapsvg.io",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "TweenMax",
+      "confidence": "100",
+      "version": null,
+      "icon": "TweenMax.png",
+      "website": "http://greensock.com/tweenmax",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "animate.css",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://daneden.github.io/animate.css/",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.2.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "three.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "three.js.png",
+      "website": "https://threejs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "Erlang",
+      "confidence": "0",
+      "version": null,
+      "icon": "Erlang.png",
+      "website": "http://www.erlang.org",
+      "cpe": "cpe:/a:erlang:erlang%2fotp",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "0",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "0",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Node.js",
+      "confidence": "0",
+      "version": null,
+      "icon": "node.js.png",
+      "website": "http://nodejs.org",
+      "cpe": "cpe:/a:nodejs:node.js",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.augustinfotech.com",
+  "id": "162"
+}

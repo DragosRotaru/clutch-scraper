@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.gob.de/": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.gob.de",
+  "id": "9204"
+}

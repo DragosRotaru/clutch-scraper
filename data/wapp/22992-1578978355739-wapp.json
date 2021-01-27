@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://editorgroup.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://editorgroup.com",
+  "id": "22992"
+}

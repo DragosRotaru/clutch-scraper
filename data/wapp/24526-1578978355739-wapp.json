@@ -1,0 +1,138 @@
+{
+  "urls": {
+    "http://www.redweb.com/": {
+      "status": 200
+    },
+    "https://www.redweb.com/cookies/": {
+      "status": 200
+    },
+    "https://www.redweb.com/#content": {
+      "status": 200
+    },
+    "https://www.redweb.com/#footer": {
+      "status": 200
+    },
+    "https://www.redweb.com/": {
+      "status": 200
+    },
+    "https://www.redweb.com/cookies/#content": {
+      "status": 200
+    },
+    "https://www.redweb.com/cookies/#footer": {
+      "status": 200
+    },
+    "https://www.redweb.com/work/": {
+      "status": 200
+    },
+    "https://www.redweb.com/insights/": {
+      "status": 200
+    },
+    "https://www.redweb.com/news/": {
+      "status": 200
+    },
+    "https://www.redweb.com/events/": {
+      "status": 200
+    },
+    "https://www.redweb.com/careers/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AngularJS",
+      "confidence": "100",
+      "version": "1.7.8",
+      "icon": "AngularJS.svg",
+      "website": "https://angularjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "100",
+      "version": "10.0",
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "particles.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://vincentgarreau.com/particles.js/",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-GB"
+  },
+  "website": "http://www.redweb.com",
+  "id": "24526"
+}

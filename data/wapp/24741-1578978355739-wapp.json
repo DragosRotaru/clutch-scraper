@@ -1,0 +1,183 @@
+{
+  "urls": {
+    "http://techjam.pro/": {
+      "status": 200
+    },
+    "https://techjam.pro/en": {
+      "status": 200
+    },
+    "https://techjam.pro/en/about-us": {
+      "status": 200
+    },
+    "https://techjam.pro/en/services/(services:main)": {
+      "status": 200
+    },
+    "https://techjam.pro/en/industries/(industries:main)": {
+      "status": 200
+    },
+    "https://techjam.pro/en/technologies/(technologies:main)": {
+      "status": 200
+    },
+    "https://techjam.pro/en/portfolios/(portfolios:main)": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://techjam.pro/en/services/(services:website)": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://techjam.pro/en/services/(services:mobile)": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://techjam.pro/en/services/(services:hybrid)": {
+      "status": 200
+    },
+    "https://techjam.pro/en/industries/(industries:real-estate)": {
+      "status": 200
+    },
+    "https://techjam.pro/en/industries/(industries:medicine)": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://techjam.pro/en/industries/(industries:dating)": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://techjam.pro/en/technologies/(technologies:backend)": {
+      "status": 200
+    },
+    "https://techjam.pro/en/technologies/(technologies:frontend)": {
+      "status": 200
+    },
+    "https://techjam.pro/en/technologies/(technologies:hybrid)": {
+      "status": 200
+    },
+    "https://techjam.pro/#section": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://techjam.pro/en/technologies/(technologies:angular)": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://techjam.pro/en/technologies/(technologies:react-js)": {
+      "status": 200
+    },
+    "https://techjam.pro/en/technologies/(technologies:vue-js)": {
+      "status": 200
+    },
+    "https://techjam.pro/en/services/(services:design)": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Angular",
+      "confidence": "100",
+      "version": "4.4.6",
+      "icon": "Angular.svg",
+      "website": "https://angular.io",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "AdRoll",
+      "confidence": "100",
+      "version": null,
+      "icon": "AdRoll.svg",
+      "website": "http://adroll.com",
+      "cpe": null,
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://techjam.pro",
+  "id": "24741"
+}

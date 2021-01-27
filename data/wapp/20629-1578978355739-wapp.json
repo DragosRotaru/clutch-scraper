@@ -1,0 +1,366 @@
+{
+  "urls": {
+    "http://www.mobileapptelligence.com/": {
+      "status": 200
+    },
+    "http://www.mobileapptelligence.com/mobile-application-development/": {
+      "status": 200
+    },
+    "http://www.mobileapptelligence.com/#": {
+      "status": 200
+    },
+    "http://www.mobileapptelligence.com/mobile-application-development": {
+      "status": 200
+    },
+    "http://www.mobileapptelligence.com/qa/": {
+      "status": 200
+    },
+    "http://www.mobileapptelligence.com/mobile-application-development/#": {
+      "status": 200
+    },
+    "http://www.mobileapptelligence.com/mobile-application-development/ecommerce-mobile-app-and-mobile-wallet-usage-suring-in-india-united-states-pushing-demand-for-app-development-companies/": {
+      "status": 200
+    },
+    "http://www.mobileapptelligence.com/mobile-application-development/hiring-offshore-mobile-application-development-team-three-magic-words-for-success/": {
+      "status": 200
+    },
+    "http://www.mobileapptelligence.com/mobile-application-development/top-tools-cross-platform-mobile-app-development/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4.6",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.4",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "CentOS",
+      "confidence": "100",
+      "version": null,
+      "icon": "CentOS.png",
+      "website": "http://centos.org",
+      "cpe": "cpe:/o:centos:centos",
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Intercom",
+      "confidence": "100",
+      "version": null,
+      "icon": "Intercom.png",
+      "website": "https://www.intercom.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "OWL Carousel",
+      "confidence": "100",
+      "version": null,
+      "icon": "OWL Carousel.png",
+      "website": "https://owlcarousel2.github.io/OwlCarousel2/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "OpenSSL",
+      "confidence": "100",
+      "version": "1.0.2k",
+      "icon": "OpenSSL.png",
+      "website": "http://openssl.org",
+      "cpe": "cpe:/a:openssl:openssl",
+      "categories": [
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.6.38",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Zendesk Chat",
+      "confidence": "100",
+      "version": null,
+      "icon": "Zendesk Chat.png",
+      "website": "http://zopim.com",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.0",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Plus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Plus.svg",
+      "website": "http://plus.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Linkedin",
+      "confidence": "100",
+      "version": null,
+      "icon": "Linkedin.svg",
+      "website": "http://linkedin.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": null,
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "W3 Total Cache",
+      "confidence": "100",
+      "version": null,
+      "icon": "W3 Total Cache.png",
+      "website": "http://www.w3-edge.com/wordpress-plugins/w3-total-cache",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "4.2.26",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "2.3.5",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "prettyPhoto",
+      "confidence": "100",
+      "version": null,
+      "icon": "prettyPhoto.png",
+      "website": "http://no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Gravatar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Gravatar.png",
+      "website": "http://gravatar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "confidence": "100",
+      "version": null,
+      "icon": "Pinterest.svg",
+      "website": "http://pinterest.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.mobileapptelligence.com",
+  "id": "20629"
+}

@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "http://www.flatorb.com/": {
+      "status": 200
+    },
+    "https://www.flatorb.com/rfid/": {
+      "status": 200
+    },
+    "https://www.flatorb.com/barcode/": {
+      "status": 200
+    },
+    "https://www.flatorb.com/industrial-iot/": {
+      "status": 200
+    },
+    "https://www.flatorb.com/gps/": {
+      "status": 200
+    },
+    "https://www.flatorb.com/gps": {
+      "status": 200
+    },
+    "https://www.flatorb.com/gps/request-quotation": {
+      "status": 200
+    },
+    "https://www.flatorb.com/gps-trackers-in-sri-lanka": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.flatorb.com/gps-tracker-models/car-van-pickup-suv-gps-tracker/": {
+      "status": 200
+    },
+    "https://www.flatorb.com/gps-tracker-models/motorbike-and-three-wheeler/": {
+      "status": 200
+    },
+    "https://www.flatorb.com/gps-tracker-models/truck-bus-heavy-vehicle-gps-tracker/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AMP Plugin",
+      "confidence": "100",
+      "version": "1.4.2; mode=standard; experiences=website",
+      "icon": "Accelerated-Mobile-Pages.svg",
+      "website": "https://amp-wp.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4.18",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Ubuntu",
+      "confidence": "100",
+      "version": null,
+      "icon": "Ubuntu.png",
+      "website": "http://www.ubuntu.com/server",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "WooCommerce",
+      "confidence": "100",
+      "version": "3.8.1",
+      "icon": "WooCommerce.png",
+      "website": "http://www.woothemes.com/woocommerce",
+      "cpe": null,
+      "categories": [
+        {
+          "6": "Ecommerce"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "5.3.2",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "12.7.1",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.flatorb.com",
+  "id": "6286"
+}

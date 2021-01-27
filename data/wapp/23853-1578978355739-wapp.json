@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.bestseoservice.in/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.bestseoservice.in",
+  "id": "23853"
+}

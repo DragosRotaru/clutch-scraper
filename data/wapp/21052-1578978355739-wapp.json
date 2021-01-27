@@ -1,0 +1,221 @@
+{
+  "urls": {
+    "http://click-labs.com/": {
+      "status": 200
+    },
+    "https://click-labs.com/#top": {
+      "status": 200
+    },
+    "https://click-labs.com/#navigation": {
+      "status": 200
+    },
+    "https://click-labs.com/#Products": {
+      "status": 200
+    },
+    "https://click-labs.com/#Our-Process": {
+      "status": 200
+    },
+    "https://click-labs.com/blog/": {
+      "status": 200
+    },
+    "https://click-labs.com/#jungleworks": {
+      "status": 200
+    },
+    "https://click-labs.com/#jugnoo": {
+      "status": 200
+    },
+    "https://click-labs.com/#juggernaut": {
+      "status": 200
+    },
+    "https://click-labs.com/#crowdforce": {
+      "status": 200
+    },
+    "https://click-labs.com/#jcurve": {
+      "status": 200
+    },
+    "https://click-labs.com/": {
+      "status": 200
+    },
+    "https://click-labs.com/blog/#navigation": {
+      "status": 200
+    },
+    "https://click-labs.com/goodfirms-interviews-samar-singla-founder-of-click-labs/#respond": {
+      "status": 200
+    },
+    "https://click-labs.com/goodfirms-interviews-samar-singla-founder-of-click-labs/": {
+      "status": 200
+    },
+    "https://click-labs.com/the-big-deal-big-data-simplified/#respond": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "All in One SEO Pack",
+      "confidence": "100",
+      "version": "2.12",
+      "icon": "all-in-One-SEO-Pack.png",
+      "website": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+      "cpe": "cpe:/a:semperfiwebdesign:all_in_one_seo_pack",
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Revslider",
+      "confidence": "100",
+      "version": "5.3.1.5",
+      "icon": "revslider.png",
+      "website": "https://revolution.themepunch.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Twitter Emoji (Twemoji)",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://twitter.github.io/twemoji/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "WP Engine",
+      "confidence": "100",
+      "version": null,
+      "icon": "wpengine.svg",
+      "website": "https://wpengine.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Gravatar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Gravatar.png",
+      "website": "http://gravatar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://click-labs.com",
+  "id": "21052"
+}

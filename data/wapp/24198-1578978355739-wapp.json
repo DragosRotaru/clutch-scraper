@@ -1,0 +1,219 @@
+{
+  "urls": {
+    "https://www.elsner.com/": {
+      "status": 200
+    },
+    "https://www.elsner.com/about-us/": {
+      "status": 200
+    },
+    "https://www.elsner.com/our-portfolio/": {
+      "status": 200
+    },
+    "https://www.elsner.com/solutions/": {
+      "status": 200
+    },
+    "https://www.elsner.com/career/": {
+      "status": 200
+    },
+    "https://www.elsner.com/blog/": {
+      "status": 200
+    },
+    "https://www.elsner.com/contact-us/": {
+      "status": 200
+    },
+    "https://www.elsner.com/career/#": {
+      "status": 200
+    },
+    "https://www.elsner.com/about-us/#": {
+      "status": 200
+    },
+    "https://www.elsner.com/solutions/#": {
+      "status": 200
+    },
+    "https://www.elsner.com/our-portfolio/#": {
+      "status": 200
+    },
+    "https://www.elsner.com/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AddToAny",
+      "confidence": "100",
+      "version": null,
+      "icon": "AddToAny.png",
+      "website": "http://www.addtoany.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Crazy Egg",
+      "confidence": "100",
+      "version": null,
+      "icon": "Crazy Egg.png",
+      "website": "http://crazyegg.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "LiteSpeed",
+      "confidence": "100",
+      "version": null,
+      "icon": "LiteSpeed.svg",
+      "website": "http://litespeedtech.com",
+      "cpe": "cpe:/a:litespeedtech:litespeed_web_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "OWL Carousel",
+      "confidence": "100",
+      "version": null,
+      "icon": "OWL Carousel.png",
+      "website": "https://owlcarousel2.github.io/OwlCarousel2/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Tawk.to",
+      "confidence": "100",
+      "version": null,
+      "icon": "TawkTo.png",
+      "website": "http://tawk.to",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    },
+    {
+      "name": "WP Rocket",
+      "confidence": "100",
+      "version": null,
+      "icon": "WP Rocket.png",
+      "website": "http://wp-rocket.me",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://www.elsner.com",
+  "id": "24198"
+}

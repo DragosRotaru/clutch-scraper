@@ -1,0 +1,167 @@
+{
+  "urls": {
+    "https://www.divio.com/": {
+      "status": 200
+    },
+    "https://www.divio.com/features/": {
+      "status": 200
+    },
+    "https://www.divio.com/developers/": {
+      "status": 200
+    },
+    "https://www.divio.com/plans/": {
+      "status": 200
+    },
+    "https://www.divio.com/investors/press-releases/": {
+      "status": 200
+    },
+    "https://www.divio.com/features/#demo": {
+      "status": 200
+    },
+    "https://www.divio.com/features/##demo": {
+      "status": 200
+    },
+    "https://www.divio.com/what-is-multi-cloud/": {
+      "status": 200
+    },
+    "https://www.divio.com/what-is-saml/": {
+      "status": 200
+    },
+    "https://www.divio.com/developers/#demo": {
+      "status": 200
+    },
+    "https://www.divio.com/developers/php/": {
+      "status": 200
+    },
+    "https://www.divio.com/developers/python/": {
+      "status": 200
+    },
+    "https://www.divio.com/developers/nodejs/": {
+      "status": 200
+    },
+    "https://www.divio.com/divio-cloud-vs/divio-or-digital-ocean/": {
+      "status": 200
+    },
+    "https://www.divio.com/plans/#demo": {
+      "status": 200
+    },
+    "https://www.divio.com/plans/#sales": {
+      "status": 200
+    },
+    "https://www.divio.com/gdpr": {
+      "status": 200
+    },
+    "https://www.divio.com/investors/press-releases/#demo": {
+      "status": 200
+    },
+    "https://www.divio.com/investors/financial-reports/": {
+      "status": 200
+    },
+    "https://www.divio.com/investors/company-description/": {
+      "status": 200
+    },
+    "https://www.divio.com/investors/presentation/": {
+      "status": 200
+    },
+    "https://www.divio.com/#demo": {
+      "status": 200
+    },
+    "https://www.divio.com/#requestdemo": {
+      "status": 200
+    },
+    "https://www.divio.com/features": {
+      "status": 200
+    },
+    "https://www.divio.com/#tab-54405": {
+      "status": 200
+    },
+    "https://www.divio.com/#tab-54465": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Django",
+      "confidence": "100",
+      "version": null,
+      "icon": "Django.png",
+      "website": "https://djangoproject.com",
+      "cpe": "cpe:/a:djangoproject:django",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Segment",
+      "confidence": "100",
+      "version": null,
+      "icon": "Segment.png",
+      "website": "https://segment.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "confidence": "0",
+      "version": null,
+      "icon": "Python.png",
+      "website": "http://python.org",
+      "cpe": "cpe:/a:python:python",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.divio.com",
+  "id": "26761"
+}

@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://enoty.pro/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://enoty.pro",
+  "id": "24161"
+}

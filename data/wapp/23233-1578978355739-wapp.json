@@ -1,0 +1,83 @@
+{
+  "urls": {
+    "http://www.ideawork.com/": {
+      "status": 200
+    },
+    "https://www.ideawork.com/": {
+      "status": 200
+    },
+    "https://www.ideawork.com/agency": {
+      "status": 200
+    },
+    "https://www.ideawork.com/work": {
+      "status": 200
+    },
+    "https://www.ideawork.com/news": {
+      "status": 200
+    },
+    "https://www.ideawork.com/clients": {
+      "status": 200
+    },
+    "https://www.ideawork.com/contact": {
+      "status": 200
+    },
+    "https://www.ideawork.com/work/branding": {
+      "status": 200
+    },
+    "https://www.ideawork.com/work/web-development": {
+      "status": 200
+    },
+    "https://www.ideawork.com/work/hotel": {
+      "status": 200
+    },
+    "https://www.ideawork.com/work/restaurant": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.ideawork.com",
+  "id": "23233"
+}

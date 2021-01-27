@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "https://www.fiswebdesign.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "https://www.fiswebdesign.com",
+  "id": "21000"
+}

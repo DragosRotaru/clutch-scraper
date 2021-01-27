@@ -1,0 +1,219 @@
+{
+  "urls": {
+    "https://theappsolutions.com/": {
+      "status": 200
+    },
+    "https://theappsolutions.com/services/": {
+      "status": 200
+    },
+    "https://theappsolutions.com/competence/": {
+      "status": 200
+    },
+    "https://theappsolutions.com/portfolio/": {
+      "status": 200
+    },
+    "https://theappsolutions.com/blog/": {
+      "status": 200
+    },
+    "https://theappsolutions.com/vacancies/": {
+      "status": 200
+    },
+    "https://theappsolutions.com/about/": {
+      "status": 200
+    },
+    "https://theappsolutions.com/contacts/": {
+      "status": 200
+    },
+    "https://theappsolutions.com/services/business-analysis/": {
+      "status": 200
+    },
+    "https://theappsolutions.com/competence/adtech-martech": {
+      "status": 200
+    },
+    "https://theappsolutions.com/portfolio/#": {
+      "status": 200
+    },
+    "https://theappsolutions.com/blog/development/ehr-vs-emr-vs-phr/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "confidence": "100",
+      "version": null,
+      "icon": "google_cloud.svg",
+      "website": "https://cloud.google.com",
+      "cpe": "cpe:/a:google:cloud_platform",
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "RequireJS",
+      "confidence": "100",
+      "version": "2.1.22",
+      "icon": "RequireJS.png",
+      "website": "http://requirejs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.1.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "TweenMax",
+      "confidence": "100",
+      "version": "1.19.0",
+      "icon": "TweenMax.png",
+      "website": "http://greensock.com/tweenmax",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Disqus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Disqus.svg",
+      "website": "https://disqus.com",
+      "cpe": "cpe:/a:disqus:disqus_comment_system",
+      "categories": [
+        {
+          "15": "Comment Systems"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://theappsolutions.com",
+  "id": "24583"
+}

@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "https://www.kynetix.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "https://www.kynetix.com",
+  "id": "9219"
+}

@@ -1,0 +1,329 @@
+{
+  "urls": {
+    "http://www.resgroup.com/": {
+      "status": 200
+    },
+    "https://www.resgroup.com/intacct-cloud-accounting-software/financials/Sage-Intacct-Free-Trial": {
+      "status": 200
+    },
+    "https://www.resgroup.com/": {
+      "status": 200
+    },
+    "https://www.resgroup.com/#": {
+      "status": 200
+    },
+    "https://www.resgroup.com/intacct-cloud-accounting-software": {
+      "status": 200
+    },
+    "https://www.resgroup.com/intacct-cloud-accounting-software/financials": {
+      "status": 200
+    },
+    "https://www.resgroup.com/intacct-cloud-accounting-software/financials/Sage-Intacct-Free-Trial#": {
+      "status": 200
+    },
+    "https://www.resgroup.com/intacct-cloud-accounting-software/financials/reporting": {
+      "status": 200
+    },
+    "https://www.resgroup.com/intacct-cloud-accounting-software/financials/intacct-digital-dashboards": {
+      "status": 200
+    },
+    "https://www.resgroup.com/intacct-cloud-accounting-software/project-accounting-software": {
+      "status": 200
+    },
+    "https://www.resgroup.com/intacct-cloud-accounting-software/industry-applications/revenue-management": {
+      "status": 200
+    },
+    "https://www.resgroup.com/intacct-cloud-accounting-software/financials/ASC-606-and-IFRS-15": {
+      "status": 200
+    },
+    "https://www.resgroup.com/intacct-cloud-accounting-software/financials#": {
+      "status": 200
+    },
+    "https://www.resgroup.com/intacct-cloud-accounting-software#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Business Catalyst",
+      "confidence": "100",
+      "version": null,
+      "icon": "Business Catalyst.png",
+      "website": "http://businesscatalyst.com",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Crazy Egg",
+      "confidence": "100",
+      "version": null,
+      "icon": "Crazy Egg.png",
+      "website": "http://crazyegg.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "FancyBox",
+      "confidence": "100",
+      "version": null,
+      "icon": "FancyBox.png",
+      "website": "http://fancyapps.com/fancybox",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Linkedin",
+      "confidence": "100",
+      "version": null,
+      "icon": "Linkedin.svg",
+      "website": "http://linkedin.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "LiveChat",
+      "confidence": "100",
+      "version": null,
+      "icon": "LiveChat.png",
+      "website": "http://livechatinc.com",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    },
+    {
+      "name": "Marketo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Marketo.png",
+      "website": "https://www.marketo.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": null,
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "cpe": "cpe:/a:microsoft:asp.net",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "OpenResty",
+      "confidence": "100",
+      "version": null,
+      "icon": "OpenResty.png",
+      "website": "http://openresty.org",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.1.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "0",
+      "version": null,
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "0",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Lua",
+      "confidence": "0",
+      "version": null,
+      "icon": "Lua.png",
+      "website": "http://www.lua.org",
+      "cpe": "cpe:/a:lua:lua",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.resgroup.com",
+  "id": "7990"
+}

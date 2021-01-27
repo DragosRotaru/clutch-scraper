@@ -1,0 +1,203 @@
+{
+  "urls": {
+    "https://www.tivix.com/": {
+      "status": 200
+    },
+    "https://www.tivix.com/contact": {
+      "status": 200
+    },
+    "https://www.tivix.com/services": {
+      "status": 200
+    },
+    "https://www.tivix.com/about": {
+      "status": 200
+    },
+    "https://www.tivix.com/case-studies": {
+      "status": 200
+    },
+    "https://www.tivix.com/resources": {
+      "status": 200
+    },
+    "https://www.tivix.com/blog": {
+      "status": 200
+    },
+    "https://www.tivix.com/careers": {
+      "status": 200
+    },
+    "https://www.tivix.com/case-studies/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Prism",
+      "confidence": "100",
+      "version": null,
+      "icon": "Prism.svg",
+      "website": "http://prismjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Unbounce",
+      "confidence": "100",
+      "version": null,
+      "icon": "Unbounce.png",
+      "website": "http://unbounce.com",
+      "cpe": null,
+      "categories": [
+        {
+          "20": "Editors"
+        },
+        {
+          "51": "Landing Page Builders"
+        }
+      ]
+    },
+    {
+      "name": "WP Engine",
+      "confidence": "100",
+      "version": null,
+      "icon": "wpengine.svg",
+      "website": "https://wpengine.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "Woopra",
+      "confidence": "100",
+      "version": null,
+      "icon": "Woopra.png",
+      "website": "http://www.woopra.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "11.7",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://www.tivix.com",
+  "id": "20899"
+}

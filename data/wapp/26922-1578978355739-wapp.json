@@ -1,0 +1,149 @@
+{
+  "urls": {
+    "https://www.modernsignal.com/": {
+      "status": 200
+    },
+    "https://www.modernsignal.com/lh/passwordreset": {
+      "status": 404,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.modernsignal.com/#": {
+      "status": 200
+    },
+    "https://www.modernsignal.com/about_us-2": {
+      "status": 200
+    },
+    "https://www.modernsignal.com/about_us-2#": {
+      "status": 200
+    },
+    "https://www.modernsignal.com/about_modern_signal": {
+      "status": 200
+    },
+    "https://www.modernsignal.com/ourprojectprocess": {
+      "status": 200
+    },
+    "https://www.modernsignal.com/our_team": {
+      "status": 200
+    },
+    "https://www.modernsignal.com/news": {
+      "status": 200
+    },
+    "https://www.modernsignal.com/subcontracting": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AddThis",
+      "confidence": "100",
+      "version": null,
+      "icon": "AddThis.svg",
+      "website": "http://www.addthis.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Dojo",
+      "confidence": "100",
+      "version": "1",
+      "icon": "Dojo.png",
+      "website": "https://dojotoolkit.org",
+      "cpe": "cpe:/a:dojotoolkit:dojo",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Lightbox",
+      "confidence": "100",
+      "version": null,
+      "icon": "Lightbox.png",
+      "website": "http://lokeshdhakar.com/projects/lightbox2/",
+      "cpe": "cpe:/a:lightbox_photo_gallery_project:lightbox_photo_gallery",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.8.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.modernsignal.com",
+  "id": "26922"
+}

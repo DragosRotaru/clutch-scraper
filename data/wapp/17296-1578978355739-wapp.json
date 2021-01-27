@@ -1,0 +1,152 @@
+{
+  "urls": {
+    "https://www.cygnet-infotech.com/": {
+      "status": 200
+    },
+    "https://www.cygnet-infotech.com/solutions": {
+      "status": 200
+    },
+    "https://www.cygnet-infotech.com/blockchain-solutions": {
+      "status": 200
+    },
+    "https://www.cygnet-infotech.com/tax-technology-solutions": {
+      "status": 200
+    },
+    "https://www.cygnet-infotech.com/artificial-intelligence-solutions": {
+      "status": 200
+    },
+    "https://www.cygnet-infotech.com/robotic-process-automation-solutions": {
+      "status": 200
+    },
+    "https://www.cygnet-infotech.com/cloud-solutions": {
+      "status": 200
+    },
+    "https://www.cygnet-infotech.com/iot-solutions": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Amazon Cloudfront",
+      "confidence": "100",
+      "version": null,
+      "icon": "Amazon-Cloudfront.svg",
+      "website": "http://aws.amazon.com/cloudfront/",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Quantcast",
+      "confidence": "100",
+      "version": null,
+      "icon": "Quantcast.png",
+      "website": "http://www.quantcast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Select2",
+      "confidence": "100",
+      "version": null,
+      "icon": "Select2.png",
+      "website": "https://select2.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Statcounter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Statcounter.svg",
+      "website": "http://www.statcounter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Typekit",
+      "confidence": "100",
+      "version": "1.19.2",
+      "icon": "Typekit.png",
+      "website": "http://typekit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.2.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "confidence": "0",
+      "version": null,
+      "icon": "aws.svg",
+      "website": "https://aws.amazon.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.cygnet-infotech.com",
+  "id": "17296"
+}

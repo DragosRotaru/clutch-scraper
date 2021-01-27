@@ -1,0 +1,221 @@
+{
+  "urls": {
+    "http://www.datamasons.com/": {
+      "status": 200
+    },
+    "https://www.datamasons.com/privacy-policy/": {
+      "status": 200
+    },
+    "https://www.datamasons.com/#": {
+      "status": 200
+    },
+    "https://www.datamasons.com/": {
+      "status": 200
+    },
+    "https://www.datamasons.com/cs/c/?cta_guid=f923c628-12cc-44f4-a5e0-94b091da82a8&placement_guid=dc7818c3-9d12-407d-ada1-cfe2df849ab9&portal_id=507508&canon=https%3A%2F%2Fwww.datamasons.com%2F&redirect_url=APefjpHMyCpFkWsHcNWTKw-RYQQlow69w6JzG57WsB0dLbdferXrC_VeTSO8xPC6CiAg55jGsQ8c97ugMp3i7djSETrO4GGf1wG2Ty6wB8Ew19fCyLV9PNxBgjbe-9Lq0go6Z5KVvPdy&click=cfe4cf23-c529-489c-b9a4-c6eabf7d4a84&hsutk=2ccdc559a1c8594a521fec5517ce821f&signature=AAH58kEg8V1oHs_t7LlUrOnbqyeQf-ZMDQ&pageId=10496206278&__hstc=82348425.2ccdc559a1c8594a521fec5517ce821f.1578984375992.1578984375992.1578984375992.1&__hssc=82348425.1.1578984375992&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.datamasons.com/privacy-policy#": {
+      "status": 200
+    },
+    "https://www.datamasons.com/cs/c/?cta_guid=f923c628-12cc-44f4-a5e0-94b091da82a8&placement_guid=dc7818c3-9d12-407d-ada1-cfe2df849ab9&portal_id=507508&canon=https%3A%2F%2Fwww.datamasons.com%2Fprivacy-policy&redirect_url=APefjpFPEpK9ZrjXsgnSwJlgANW0j-0wA7lqgkBHz-4dCDE5h6JEXOPhaGPjyNfPzJHLt7MpRmWI5ZdNoFQbxI8CZMaGTgoTXRYx4F-uBO813SJ6K38dbQxd_AOgIFL8vwpx3RUeYJA_&click=bcde60ff-50a6-45b6-b698-18c886371aeb&hsutk=9822601a255852aa937fdaa25c4825e8&signature=AAH58kFhhPOd5JQBWOU79Z_eFhTamXBo6A&pageId=10411424699&__hstc=82348425.9822601a255852aa937fdaa25c4825e8.1578984382834.1578984382834.1578984382834.1&__hssc=82348425.1.1578984382835&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.datamasons.com/cs/c/?cta_guid=f923c628-12cc-44f4-a5e0-94b091da82a8&placement_guid=dc7818c3-9d12-407d-ada1-cfe2df849ab9&portal_id=507508&canon=https%3A%2F%2Fwww.datamasons.com%2F&redirect_url=APefjpHZZ7IE7eG5OlVaHk3G6fEYj_ppTJ8SQHoQMVPy0SD9gSmBpOiWye1_7bUEGTOYGy8mEqHsQby74MpA2Si6JOKHeHuq7e5t8YRh1a4DqENy6hc97zpHAciehtgWJ7hHJlKSpErZ&click=b0347dfd-fc1f-47c4-946e-3c00e1ea1e95&hsutk=74e07332978f026f1c9712a02402b75a&signature=AAH58kFdcjlHnBzqx2Bk9IBAmlVT_u1rlw&pageId=10496206278&__hstc=82348425.74e07332978f026f1c9712a02402b75a.1578984383119.1578984383119.1578984383119.1&__hssc=82348425.1.1578984383119&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.datamasons.com/cs/c/?cta_guid=f923c628-12cc-44f4-a5e0-94b091da82a8&placement_guid=dc7818c3-9d12-407d-ada1-cfe2df849ab9&portal_id=507508&canon=https%3A%2F%2Fwww.datamasons.com%2F&redirect_url=APefjpEYDByBUDWRkFZ6YOsgOfhFnc2FgLds2hihI3hPzx2uqSCdt1gek6NaWxdOQXv2PMx6ir9QBTMJT8FrNgiYoeamakwP7lYQDzf2B8eAS4gFs1oskgXAHfEZhD5e5ZMo_pRxo2LE&click=0444984d-391a-4452-8ed6-4df77e294fb2&hsutk=43d01802fa32af177023d9a8775a0d39&signature=AAH58kFhH-gLt1KuhXg9UPqkpr2SR_RjEA&pageId=10496206278&__hstc=82348425.43d01802fa32af177023d9a8775a0d39.1578984383483.1578984383483.1578984383483.1&__hssc=82348425.1.1578984383484&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.datamasons.com/demo-request-form?__hstc=82348425.2ccdc559a1c8594a521fec5517ce821f.1578984375992.1578984375992.1578984375992.1&__hssc=82348425.1.1578984375992&__hsfp=3065690341&hsCtaTracking=dc7818c3-9d12-407d-ada1-cfe2df849ab9%7Cf923c628-12cc-44f4-a5e0-94b091da82a8#": {
+      "status": 200
+    },
+    "https://www.datamasons.com/cs/c/?cta_guid=f923c628-12cc-44f4-a5e0-94b091da82a8&placement_guid=dc7818c3-9d12-407d-ada1-cfe2df849ab9&portal_id=507508&canon=https%3A%2F%2Fwww.datamasons.com%2Fdemo-request-form&redirect_url=APefjpE1CRFKcO-wPF0daQhwsTzgvZNp1cpnroTJbhwLgcAQd-FXd0ExLoXJIteA6iQazkM11xUMjzr9DS2fMNhdWq6Grn8WXdj6z6MPgpRku75dX6LoQTAJeellnHS9epBcSaUHd9RU&click=94dcee66-5678-4fa9-8c10-eabc9fe0460c&hsutk=02b7c38cbad3364e95456d832188dcf5&signature=AAH58kHnZDutasWgZQgBup8p050RbxvqSA&pageId=4359469198&__hstc=82348425.02b7c38cbad3364e95456d832188dcf5.1578984385109.1578984385109.1578984385109.1&__hssc=82348425.1.1578984385109&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.datamasons.com/privacy-policy#tmpmodule_155263817924574": {
+      "status": 200
+    },
+    "https://www.datamasons.com/by-connection": {
+      "status": 200
+    },
+    "https://www.datamasons.com/by-erp": {
+      "status": 200
+    },
+    "https://www.datamasons.com/industries": {
+      "status": 200
+    },
+    "https://www.datamasons.com/edi-solutions": {
+      "status": 200
+    },
+    "https://www.datamasons.com/#tmpmodule_15525353774163871": {
+      "status": 200
+    },
+    "https://www.datamasons.com/demo-request-form?__hstc=82348425.2ccdc559a1c8594a521fec5517ce821f.1578984375992.1578984375992.1578984375992.1&__hssc=82348425.1.1578984375992&__hsfp=3065690341&hsCtaTracking=dc7818c3-9d12-407d-ada1-cfe2df849ab9%7Cf923c628-12cc-44f4-a5e0-94b091da82a8#tmpmodule_157140390677058": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": "5.3.1",
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "YUI",
+      "confidence": "100",
+      "version": "2.8.2r1",
+      "icon": "YUI.png",
+      "website": "http://yuilibrary.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.datamasons.com",
+  "id": "8275"
+}

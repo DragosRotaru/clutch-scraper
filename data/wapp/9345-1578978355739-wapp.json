@@ -1,0 +1,161 @@
+{
+  "urls": {
+    "http://www.teamtweaks.com/": {
+      "status": 200
+    },
+    "https://www.teamtweaks.com/": {
+      "status": 200
+    },
+    "https://www.teamtweaks.com/#": {
+      "status": 200
+    },
+    "https://www.teamtweaks.com/whatsapp-like-enterprise-chat-software": {
+      "status": 200
+    },
+    "https://www.teamtweaks.com/uber-like-app": {
+      "status": 200
+    },
+    "https://www.teamtweaks.com/ui-ux-design": {
+      "status": 200
+    },
+    "https://www.teamtweaks.com/blockchain-development-company-india": {
+      "status": 200
+    },
+    "https://www.teamtweaks.com/web-development-company-in-chennai": {
+      "status": 200
+    },
+    "https://www.teamtweaks.com/devops-company-india": {
+      "status": 200
+    },
+    "https://www.teamtweaks.com/whatsapp-like-enterprise-chat-software#": {
+      "status": 200
+    },
+    "https://www.teamtweaks.com/uber-like-app#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.4.0",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "OWL Carousel",
+      "confidence": "100",
+      "version": null,
+      "icon": "OWL Carousel.png",
+      "website": "https://owlcarousel2.github.io/OwlCarousel2/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "animate.css",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://daneden.github.io/animate.css/",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.1.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "LiveChat",
+      "confidence": "100",
+      "version": null,
+      "icon": "LiveChat.png",
+      "website": "http://livechatinc.com",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.teamtweaks.com",
+  "id": "9345"
+}

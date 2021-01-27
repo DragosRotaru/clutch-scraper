@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "http://www.robocom.com/": {
+      "status": 200
+    },
+    "http://www.robocom.com/food-and-beverage-distribution": {
+      "status": 200
+    },
+    "http://www.robocom.com/third-party-logistics": {
+      "status": 200
+    },
+    "http://www.robocom.com/ltl-and-tl-transportation": {
+      "status": 200
+    },
+    "http://www.robocom.com/e-commerce-order-fulfillment-distribution": {
+      "status": 200
+    },
+    "http://www.robocom.com/publishing-distribution": {
+      "status": 200
+    },
+    "http://www.robocom.com/wholesale-distribution": {
+      "status": 200
+    },
+    "http://www.robocom.com/warehouse-management-systems": {
+      "status": 200
+    },
+    "http://www.robocom.com/tms-solutions/transportation-management-system": {
+      "status": 200
+    },
+    "http://www.robocom.com/warehouse-solutions/voice-picking": {
+      "status": 200
+    },
+    "http://www.robocom.com/warehouse-solutions/labor-management": {
+      "status": 200
+    },
+    "http://www.robocom.com/tms-solutions/enterprise-transportation-system": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.2.0",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "DNN",
+      "confidence": "100",
+      "version": "true",
+      "icon": "DNN.png",
+      "website": "http://dnnsoftware.com",
+      "cpe": "cpe:/a:dnnsoftware:dotnetnuke",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": "4.0.30319",
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "cpe": "cpe:/a:microsoft:asp.net",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.9.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": null,
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.11.3",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "0",
+      "version": null,
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.robocom.com",
+  "id": "7230"
+}

@@ -1,0 +1,204 @@
+{
+  "urls": {
+    "http://www.inventiapps.com/": {
+      "status": 200
+    },
+    "http://www.inventiapps.com/#": {
+      "status": 200
+    },
+    "http://www.inventiapps.com/#services": {
+      "status": 200
+    },
+    "http://www.inventiapps.com/#portfolio": {
+      "status": 200
+    },
+    "http://www.inventiapps.com/#contacts": {
+      "status": 200
+    },
+    "http://www.inventiapps.com/PL": {
+      "status": 200
+    },
+    "http://www.inventiapps.com/EN": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.5",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Chart.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Chart.js.svg",
+      "website": "https://www.chartjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "DreamWeaver",
+      "confidence": "100",
+      "version": null,
+      "icon": "DreamWeaver.png",
+      "website": "https://www.adobe.com/products/dreamweaver.html",
+      "cpe": "cpe:/a:adobe:dreamweaver",
+      "categories": [
+        {
+          "20": "Editors"
+        }
+      ]
+    },
+    {
+      "name": "Express",
+      "confidence": "100",
+      "version": null,
+      "icon": "Express.png",
+      "website": "http://expressjs.com",
+      "cpe": "cpe:/a:expressjs:express",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        },
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google App Engine",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google App Engine.png",
+      "website": "http://code.google.com/appengine",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Lightbox",
+      "confidence": "100",
+      "version": null,
+      "icon": "Lightbox.png",
+      "website": "http://lokeshdhakar.com/projects/lightbox2/",
+      "cpe": "cpe:/a:lightbox_photo_gallery_project:lightbox_photo_gallery",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.8.2",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "OWL Carousel",
+      "confidence": "100",
+      "version": null,
+      "icon": "OWL Carousel.png",
+      "website": "https://owlcarousel2.github.io/OwlCarousel2/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "ZURB Foundation",
+      "confidence": "100",
+      "version": "5.3.1",
+      "icon": "ZURB Foundation.png",
+      "website": "http://foundation.zurb.com",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "Node.js",
+      "confidence": "0",
+      "version": null,
+      "icon": "node.js.png",
+      "website": "http://nodejs.org",
+      "cpe": "cpe:/a:nodejs:node.js",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.inventiapps.com",
+  "id": "19961"
+}

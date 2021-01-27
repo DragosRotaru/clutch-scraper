@@ -1,0 +1,87 @@
+{
+  "urls": {
+    "http://www.dezignartworks.com/": {
+      "status": 200
+    },
+    "https://www.dezignartworks.com/#": {
+      "status": 200
+    },
+    "https://www.dezignartworks.com/#home": {
+      "status": 200
+    },
+    "https://www.dezignartworks.com/#about": {
+      "status": 200
+    },
+    "https://www.dezignartworks.com/#resume": {
+      "status": 200
+    },
+    "https://www.dezignartworks.com/#services": {
+      "status": 200
+    },
+    "https://www.dezignartworks.com/#portfolio": {
+      "status": 200
+    },
+    "https://www.dezignartworks.com/#testimonials": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": null,
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.dezignartworks.com",
+  "id": "216"
+}

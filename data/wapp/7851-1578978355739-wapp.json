@@ -1,0 +1,195 @@
+{
+  "urls": {
+    "http://www.experlogix.com/": {
+      "status": 200
+    },
+    "https://www.experlogix.com/benefits-of-experlogix-cpq": {
+      "status": 200
+    },
+    "https://www.experlogix.com/cpq-for-microsoft-dynamics": {
+      "status": 200
+    },
+    "https://www.experlogix.com/cpq-for-netsuite": {
+      "status": 200
+    },
+    "https://www.experlogix.com/cpq-for-salesforce": {
+      "status": 200
+    },
+    "https://www.experlogix.com/customers": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.experlogix.com/case-studies": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.experlogix.com/customer-support": {
+      "status": 200
+    },
+    "https://www.experlogix.com/datasheets": {
+      "status": 200
+    },
+    "https://www.experlogix.com/elevate": {
+      "status": 200
+    },
+    "https://www.experlogix.com/about-us": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Azure",
+      "confidence": "100",
+      "version": null,
+      "icon": "azure.svg",
+      "website": "https://azure.microsoft.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Kestrel",
+      "confidence": "100",
+      "version": null,
+      "icon": "kestrel.svg",
+      "website": "https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": null,
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "cpe": "cpe:/a:microsoft:asp.net",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "UIKit",
+      "confidence": "100",
+      "version": null,
+      "icon": "UIKit.png",
+      "website": "https://getuikit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "0",
+      "version": null,
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "amCharts",
+      "confidence": "100",
+      "version": null,
+      "icon": "amCharts.png",
+      "website": "http://amcharts.com",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.experlogix.com",
+  "id": "7851"
+}

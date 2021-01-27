@@ -1,0 +1,122 @@
+{
+  "urls": {
+    "https://www.21torr.com/": {
+      "status": 200
+    },
+    "https://www.21torr.com/work/hugoboss": {
+      "status": 200
+    },
+    "https://www.21torr.com/work/smoov": {
+      "status": 200
+    },
+    "https://www.21torr.com/work/blum": {
+      "status": 200
+    },
+    "https://www.21torr.com/work/bosch": {
+      "status": 200
+    },
+    "https://www.21torr.com/work/festool": {
+      "status": 200
+    },
+    "https://www.21torr.com/imprint": {
+      "status": 200
+    },
+    "https://www.21torr.com/about": {
+      "status": 200
+    },
+    "https://www.21torr.com/career": {
+      "status": 200
+    },
+    "https://www.21torr.com/contact": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Netlify",
+      "confidence": "100",
+      "version": null,
+      "icon": "Netlify.svg",
+      "website": "https://www.netlify.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        },
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "TweenMax",
+      "confidence": "100",
+      "version": "2.1.3",
+      "icon": "TweenMax.png",
+      "website": "http://greensock.com/tweenmax",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "de"
+  },
+  "website": "https://www.21torr.com",
+  "id": "10990"
+}

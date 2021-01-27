@@ -1,0 +1,190 @@
+{
+  "urls": {
+    "https://www.a1qa.com/": {
+      "status": 200
+    },
+    "https://www.a1qa.com/company/": {
+      "status": 200
+    },
+    "https://www.a1qa.com/values/": {
+      "status": 200
+    },
+    "https://www.a1qa.com/company/clients/": {
+      "status": 200
+    },
+    "https://www.a1qa.com/qa_academy/": {
+      "status": 200
+    },
+    "https://www.a1qa.com/company/news/": {
+      "status": 200
+    },
+    "https://www.a1qa.com/blog/": {
+      "status": 200
+    },
+    "https://www.a1qa.com/contact-us/": {
+      "status": 200
+    },
+    "https://www.a1qa.com/services/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Disqus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Disqus.svg",
+      "website": "https://disqus.com",
+      "cpe": "cpe:/a:disqus:disqus_comment_system",
+      "categories": [
+        {
+          "15": "Comment Systems"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google PageSpeed",
+      "confidence": "100",
+      "version": "1.9.32.10-7423",
+      "icon": "Google PageSpeed.png",
+      "website": "http://developers.google.com/speed/pagespeed/mod",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        },
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.8.0",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.11.4",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://www.a1qa.com",
+  "id": "26714"
+}

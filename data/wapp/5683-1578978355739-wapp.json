@@ -1,0 +1,220 @@
+{
+  "urls": {
+    "http://www.3-prime.com/": {
+      "status": 200
+    },
+    "https://www.3-prime.com/": {
+      "status": 200
+    },
+    "https://www.3-prime.com/design/": {
+      "status": 200
+    },
+    "https://www.3-prime.com/design/website-design/": {
+      "status": 200
+    },
+    "https://www.3-prime.com/design/logo-design-examples/": {
+      "status": 200
+    },
+    "https://www.3-prime.com/design/business-card-design/": {
+      "status": 200
+    },
+    "https://www.3-prime.com/design/#top": {
+      "status": 200
+    },
+    "https://www.3-prime.com/design/custom-icon-design/": {
+      "status": 200
+    },
+    "https://www.3-prime.com/design/poster-design/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.3-prime.com/development/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.3-prime.com/services/mobile-friendliness-pagespeed-improvements/": {
+      "status": 200
+    },
+    "https://www.3-prime.com/design/logo-design-examples/#top": {
+      "status": 200
+    },
+    "https://www.3-prime.com/design/business-card-design/#top": {
+      "status": 200
+    },
+    "https://www.3-prime.com/design/website-design/#top": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "All in One SEO Pack",
+      "confidence": "100",
+      "version": "3.3.4",
+      "icon": "all-in-One-SEO-Pack.png",
+      "website": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+      "cpe": "cpe:/a:semperfiwebdesign:all_in_one_seo_pack",
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "LiteSpeed",
+      "confidence": "100",
+      "version": null,
+      "icon": "LiteSpeed.svg",
+      "website": "http://litespeedtech.com",
+      "cpe": "cpe:/a:litespeedtech:litespeed_web_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "MediaElement.js",
+      "confidence": "100",
+      "version": "4.2.12",
+      "icon": "MediaElement.js.png",
+      "website": "http://www.mediaelementjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Twitter Emoji (Twemoji)",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://twitter.github.io/twemoji/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "5.3.2",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.3-prime.com",
+  "id": "5683"
+}

@@ -1,0 +1,249 @@
+{
+  "urls": {
+    "https://www.ciklum.com/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/our-expertise/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/about-ciklum/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/case-studies/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.ciklum.com/blog/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/contact-us/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/about-ciklum/ukraine/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/about-ciklum/poland/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/about-ciklum/spain/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/about-ciklum/belarus/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/privacy-notice/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/white-papers/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.ciklum.com/press-center/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/blog/?category=agile": {
+      "status": 200
+    },
+    "https://www.ciklum.com/blog/?category=application-development": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.ciklum.com/ecommerce-development/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/our-expertise/robotic-process-automation/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.ciklum.com/our-expertise/cyber-security-services/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.ciklum.com/our-expertise/application-development/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.ciklum.com/what-we-do/extended-team/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/what-we-do/projects/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/what-we-do/managed-services/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/case-studies/jabra/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/case-studies/netstream/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/case-studies/salling-group/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/case-studies/seeking-alpha/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/case-studies/exceeders/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/case-studies/seetree/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.ciklum.com/white-papers/chatops-devops-scrumops-and-5-other-ops-religions/": {
+      "status": 200
+    },
+    "https://www.ciklum.com/blog/how-to-deliver-exceptional-customer-support-5-tips-from-ciklum-clients/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.8.3",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "TweenMax",
+      "confidence": "100",
+      "version": "2.0.2",
+      "icon": "TweenMax.png",
+      "website": "http://greensock.com/tweenmax",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.ciklum.com",
+  "id": "22168"
+}

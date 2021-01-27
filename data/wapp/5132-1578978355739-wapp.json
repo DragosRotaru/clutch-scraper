@@ -1,0 +1,96 @@
+{
+  "urls": {
+    "http://brianswebdesign.com/": {
+      "status": 200
+    },
+    "https://brianswebdesign.com/": {
+      "status": 200
+    },
+    "https://brianswebdesign.com/portfolio": {
+      "status": 200
+    },
+    "https://brianswebdesign.com/contact": {
+      "status": 200
+    },
+    "https://brianswebdesign.com/sitemap": {
+      "status": 200
+    },
+    "https://brianswebdesign.com/privacy": {
+      "status": 200
+    },
+    "https://brianswebdesign.com/terms": {
+      "status": 200
+    },
+    "https://brianswebdesign.com/#!": {
+      "status": 200
+    },
+    "https://brianswebdesign.com/sitemap#!": {
+      "status": 200
+    },
+    "https://brianswebdesign.com/contact#!": {
+      "status": 200
+    },
+    "https://brianswebdesign.com/portfolio#!": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "LiteSpeed",
+      "confidence": "100",
+      "version": null,
+      "icon": "LiteSpeed.svg",
+      "website": "http://litespeedtech.com",
+      "cpe": "cpe:/a:litespeedtech:litespeed_web_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "7.2.26",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://brianswebdesign.com",
+  "id": "5132"
+}

@@ -1,0 +1,193 @@
+{
+  "urls": {
+    "https://symmetrimarketing.com/": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/#main-content": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/our-work": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/services": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/services/b2b-branding": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/services/b2b-website": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/services/b2b-digital-marketing": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/services/content-development": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/services/b2b-social-media": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/services/b2b-performance": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/our-work#main-content": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/services#main-content": {
+      "status": 200
+    },
+    "https://symmetrimarketing.com/services/b2b-branding#main-content": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Crazy Egg",
+      "confidence": "100",
+      "version": null,
+      "icon": "Crazy Egg.png",
+      "website": "http://crazyegg.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Drupal",
+      "confidence": "100",
+      "version": null,
+      "icon": "Drupal.svg",
+      "website": "https://drupal.org",
+      "cpe": "cpe:/a:drupal:drupal",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Platform.sh",
+      "confidence": "100",
+      "version": null,
+      "icon": "platformsh.svg",
+      "website": "https://platform.sh",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "SWFObject",
+      "confidence": "100",
+      "version": null,
+      "icon": "SWFObject.png",
+      "website": "https://github.com/swfobject/swfobject",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.8.3",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://symmetrimarketing.com",
+  "id": "19242"
+}

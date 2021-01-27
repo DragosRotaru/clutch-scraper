@@ -1,0 +1,161 @@
+{
+  "urls": {
+    "https://www.elpassion.com/": {
+      "status": 200
+    },
+    "https://www.elpassion.com/privacy-cookies/": {
+      "status": 200
+    },
+    "https://www.elpassion.com/#": {
+      "status": 200
+    },
+    "https://www.elpassion.com/services": {
+      "status": 200
+    },
+    "https://www.elpassion.com/privacy-cookies#": {
+      "status": 200
+    },
+    "https://www.elpassion.com/services/ui-ux-design": {
+      "status": 200
+    },
+    "https://www.elpassion.com/services/mobile-app-development": {
+      "status": 200
+    },
+    "https://www.elpassion.com/services/web-app-development": {
+      "status": 200
+    },
+    "https://www.elpassion.com/projects": {
+      "status": 200
+    },
+    "https://www.elpassion.com/careers": {
+      "status": 200
+    },
+    "https://www.elpassion.com/services#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Fingerprintjs",
+      "confidence": "100",
+      "version": "1.1.3",
+      "icon": "default.svg",
+      "website": "https://valve.github.io/fingerprintjs2/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.7.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Handlebars",
+      "confidence": "100",
+      "version": "1.0.rc.1",
+      "icon": "Handlebars.png",
+      "website": "http://handlebarsjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.elpassion.com",
+  "id": "24677"
+}

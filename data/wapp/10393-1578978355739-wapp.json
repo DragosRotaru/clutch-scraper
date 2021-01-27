@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "http://www.wearehathway.com/": {
+      "status": 200
+    },
+    "https://www.wearehathway.com/": {
+      "status": 200
+    },
+    "https://www.wearehathway.com/work": {
+      "status": 200
+    },
+    "https://www.wearehathway.com/capabilities": {
+      "status": 200
+    },
+    "https://www.wearehathway.com/company": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.wearehathway.com/careers": {
+      "status": 200
+    },
+    "https://www.wearehathway.com/case-study/aeg-worldwide": {
+      "status": 200
+    },
+    "https://www.wearehathway.com/case-study/red-bull": {
+      "status": 200
+    },
+    "https://www.wearehathway.com/case-study/dairy-queen": {
+      "status": 200
+    },
+    "https://www.wearehathway.com/case-study/coffee-bean-tea-leaf": {
+      "status": 200
+    },
+    "https://www.wearehathway.com/case-study/chandon": {
+      "status": 200
+    },
+    "https://www.wearehathway.com/hdk": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Amazon EC2",
+      "confidence": "100",
+      "version": null,
+      "icon": "aws-ec2.svg",
+      "website": "http://aws.amazon.com/ec2/",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4.39",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Lodash",
+      "confidence": "100",
+      "version": "4.17.11",
+      "icon": "Lo-dash.png",
+      "website": "http://www.lodash.com",
+      "cpe": "cpe:/a:lodash:lodash",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "7.0.33",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "scrollreveal",
+      "confidence": "100",
+      "version": null,
+      "icon": "scrollreveal.svg",
+      "website": "https://scrollrevealjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "confidence": "0",
+      "version": null,
+      "icon": "aws.svg",
+      "website": "https://aws.amazon.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.wearehathway.com",
+  "id": "10393"
+}

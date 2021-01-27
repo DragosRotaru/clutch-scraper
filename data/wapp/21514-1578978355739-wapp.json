@@ -1,0 +1,177 @@
+{
+  "urls": {
+    "http://www.allerin.com/": {
+      "status": 200
+    },
+    "https://www.allerin.com/": {
+      "status": 200
+    },
+    "https://www.allerin.com/#": {
+      "status": 200
+    },
+    "https://www.allerin.com/blog": {
+      "status": 200
+    },
+    "https://www.allerin.com/white-papers": {
+      "status": 200
+    },
+    "https://www.allerin.com/industry-solutions": {
+      "status": 200
+    },
+    "https://www.allerin.com/partners": {
+      "status": 200
+    },
+    "https://www.allerin.com/contact": {
+      "status": 200
+    },
+    "https://www.allerin.com/about": {
+      "status": 200
+    },
+    "https://www.allerin.com/services/iot": {
+      "status": 200
+    },
+    "https://www.allerin.com/blog#": {
+      "status": 200
+    },
+    "https://www.allerin.com/white-papers#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Handlebars",
+      "confidence": "100",
+      "version": "4.0.5",
+      "icon": "Handlebars.png",
+      "website": "http://handlebarsjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Phusion Passenger",
+      "confidence": "100",
+      "version": "5.3.7",
+      "icon": "Phusion Passenger.png",
+      "website": "https://phusionpassenger.com",
+      "cpe": "cpe:/a:phusionpassenger:phusion_passenger",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "confidence": "50",
+      "version": null,
+      "icon": "Ruby on Rails.png",
+      "website": "https://rubyonrails.org",
+      "cpe": null,
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.3",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "confidence": "0",
+      "version": null,
+      "icon": "Ruby.png",
+      "website": "http://ruby-lang.org",
+      "cpe": null,
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.allerin.com",
+  "id": "21514"
+}

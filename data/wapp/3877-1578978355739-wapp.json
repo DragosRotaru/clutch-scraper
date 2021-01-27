@@ -1,0 +1,80 @@
+{
+  "urls": {
+    "http://www.jtnetinc.com/": {
+      "status": 200
+    },
+    "http://www.jtnetinc.com/services/": {
+      "status": 200
+    },
+    "http://www.jtnetinc.com/reboot/": {
+      "status": 200
+    },
+    "http://www.jtnetinc.com/managed-it-services/": {
+      "status": 200
+    },
+    "http://www.jtnetinc.com/search-engine-optimization": {
+      "status": 200
+    },
+    "http://www.jtnetinc.com/managed-it-services": {
+      "status": 200
+    },
+    "http://www.jtnetinc.com/work/": {
+      "status": 200
+    },
+    "http://www.jtnetinc.com/why-jtnet/": {
+      "status": 200
+    },
+    "http://www.jtnetinc.com/company/": {
+      "status": 200
+    },
+    "http://www.jtnetinc.com/contact/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.8.0",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.jtnetinc.com",
+  "id": "3877"
+}

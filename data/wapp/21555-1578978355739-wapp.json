@@ -1,0 +1,203 @@
+{
+  "urls": {
+    "http://www.caktusgroup.com/": {
+      "status": 200
+    },
+    "https://www.caktusgroup.com/": {
+      "status": 200
+    },
+    "https://www.caktusgroup.com/services/": {
+      "status": 200
+    },
+    "https://www.caktusgroup.com/services/#section-service-types": {
+      "status": 200
+    },
+    "https://www.caktusgroup.com/services/#section-areas-of-expertise": {
+      "status": 200
+    },
+    "https://www.caktusgroup.com/services/#section-pricing": {
+      "status": 200
+    },
+    "https://www.caktusgroup.com/casestudies/": {
+      "status": 200
+    },
+    "https://www.caktusgroup.com/casestudies/#section-case-studies": {
+      "status": 200
+    },
+    "https://www.caktusgroup.com/casestudies/#section-client-feedback": {
+      "status": 200
+    },
+    "https://www.caktusgroup.com/about/": {
+      "status": 200
+    },
+    "https://www.caktusgroup.com/about/#section-open-source": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AdRoll",
+      "confidence": "100",
+      "version": null,
+      "icon": "AdRoll.svg",
+      "website": "http://adroll.com",
+      "cpe": null,
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Django",
+      "confidence": "100",
+      "version": null,
+      "icon": "Django.png",
+      "website": "https://djangoproject.com",
+      "cpe": "cpe:/a:djangoproject:django",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "New Relic",
+      "confidence": "100",
+      "version": null,
+      "icon": "New Relic.png",
+      "website": "https://newrelic.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.16.1",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.2.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "confidence": "0",
+      "version": null,
+      "icon": "Python.png",
+      "website": "http://python.org",
+      "cpe": "cpe:/a:python:python",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.caktusgroup.com",
+  "id": "21555"
+}

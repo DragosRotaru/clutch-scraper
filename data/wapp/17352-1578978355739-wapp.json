@@ -1,0 +1,95 @@
+{
+  "urls": {
+    "http://www.mindbusy.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Akamai",
+      "confidence": "100",
+      "version": null,
+      "icon": "akamai.svg",
+      "website": "http://akamai.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Express",
+      "confidence": "100",
+      "version": null,
+      "icon": "Express.png",
+      "website": "http://expressjs.com",
+      "cpe": "cpe:/a:expressjs:express",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        },
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Polyfill",
+      "confidence": "100",
+      "version": null,
+      "icon": "polyfill.svg",
+      "website": "https://polyfill.io",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "Node.js",
+      "confidence": "0",
+      "version": null,
+      "icon": "node.js.png",
+      "website": "http://nodejs.org",
+      "cpe": "cpe:/a:nodejs:node.js",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.mindbusy.com",
+  "id": "17352"
+}

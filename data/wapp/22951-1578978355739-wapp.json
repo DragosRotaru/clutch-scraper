@@ -1,0 +1,187 @@
+{
+  "urls": {
+    "https://www.techmagnate.com/": {
+      "status": 200
+    },
+    "https://www.techmagnate.com/#mm-2": {
+      "status": 200
+    },
+    "https://www.techmagnate.com/#mm-3": {
+      "status": 200
+    },
+    "https://www.techmagnate.com/#mm-4": {
+      "status": 200
+    },
+    "https://www.techmagnate.com/#mm-5": {
+      "status": 200
+    },
+    "https://www.techmagnate.com/#mm-6": {
+      "status": 200
+    },
+    "https://www.techmagnate.com/#mm-7": {
+      "status": 200
+    },
+    "https://www.techmagnate.com/#mm-8": {
+      "status": 200
+    },
+    "https://www.techmagnate.com/#mm-9": {
+      "status": 200
+    },
+    "https://www.techmagnate.com/#mm-10": {
+      "status": 200
+    },
+    "https://www.techmagnate.com/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.7",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Crazy Egg",
+      "confidence": "100",
+      "version": null,
+      "icon": "Crazy Egg.png",
+      "website": "http://crazyegg.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Joomla",
+      "confidence": "100",
+      "version": null,
+      "icon": "Joomla.svg",
+      "website": "https://www.joomla.org",
+      "cpe": "cpe:/a:joomla:joomla",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "SiteGround",
+      "confidence": "100",
+      "version": null,
+      "icon": "siteground.svg",
+      "website": "https://www.siteground.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-gb"
+  },
+  "website": "https://www.techmagnate.com",
+  "id": "22951"
+}

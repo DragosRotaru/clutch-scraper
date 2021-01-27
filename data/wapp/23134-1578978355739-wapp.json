@@ -1,0 +1,297 @@
+{
+  "urls": {
+    "http://www.scorpion.co/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/who-we-help/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/law-firm-marketing/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/healthcare-marketing/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/home-services-marketing/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/franchise-marketing/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.scorpion.co/small-business-marketing/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/medical-marketing/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.scorpion.co/how-we-help/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/how-we-help/website-design/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/home-services-marketing/how-we-help/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/home-services-marketing/how-we-help/website-design/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/home-services-marketing/how-we-help/digital-advertising/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/law-firm-marketing/how-we-help/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/law-firm-marketing/how-we-help/website-design/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.scorpion.co/law-firm-marketing/how-we-help/digital-advertising/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/healthcare-marketing/how-we-help/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/healthcare-marketing/how-we-help/website-design-development/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/healthcare-marketing/how-we-help/hosting-solutions/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/home-services-marketing/how-we-help/search-engine-optimization/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/home-services-marketing/how-we-help/content-social-media-marketing/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/home-services-marketing/how-we-help/online-reputation-monitoring/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/home-services-marketing/how-we-help/scorpion-connect/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/home-services-marketing/how-we-help/video-marketing/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/law-firm-marketing/how-we-help/search-engine-optimization/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/law-firm-marketing/how-we-help/content-social-media-marketing/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/law-firm-marketing/how-we-help/online-reputation-monitoring/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/law-firm-marketing/how-we-help/scorpion-connect/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/law-firm-marketing/how-we-help/video-marketing/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/healthcare-marketing/how-we-help/digital-advertising/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/healthcare-marketing/how-we-help/search-engine-optimization/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/healthcare-marketing/how-we-help/landing-pages-microsites/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/healthcare-marketing/how-we-help/user-experience/": {
+      "status": 200
+    },
+    "https://www.scorpion.co/healthcare-marketing/how-we-help/online-reputation-monitoring/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "8879",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Ensighten",
+      "confidence": "100",
+      "version": null,
+      "icon": "ensighten.png",
+      "website": "https://success.ensighten.com/hc/en-us",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Plus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Plus.svg",
+      "website": "http://plus.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.8.3",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.1.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.12.1",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.scorpion.co",
+  "id": "23134"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "44",
+  "name": "RedAlkemi",
+  "tagline": "Design & Digital Marketing Agency",
+  "profile": "/profile/redalkemi",
+  "website": "http://www.redalkemi.com",
+  "directory": "web-developers",
+  "page": "132",
+  "verified": "",
+  "description": "Established in 1996, RedAlkemi offers Design, Digital and Development services to small and medium sized businesses, with the desire to add value and build long term associations with like minded customers. Our areas of work include:\nDesign and Usability: UI/UX Design for websites, web apps, mobile apps and landing pages to maximize usability and deliver a positive user experience. Relevant software skills include Figma & Sketch.\nGraphics & Video: Graphics and production for logos, branding, stationery, collateral, presentations, print, icons, publications, illustrations, infographics, video editing and storyboarding. Relevant software skills include Canva, Illustrator, Photoshop, FCP & Premier pro.\nFront End Development: HTML & CSS coding, WordPress & Shopify design, integrations and implementation. Relevant software skills include Dreamweaver Editor, Wordpress Divi builder, Visual Composer, and Elementor, Bootstrap 4, Foundation framework for CSS & Media queries.\nSEO & Content: Keyword research, content SEO, link building, content writing, blogging, editing, proofreading, captions and social media content.\nDigital Marketing: Social media management campaigns, email & newsletter design marketing campaigns, reporting & analysis.\nManaged Services: For platforms like Sprinklr, Active Campaign, Salesforce, Hubspot, Mailchimp, & Google Analytics.\nREAD MORE...",
+  "min_project_size": "Undisclosed",
+  "avg_hourly_rate": "$25 - $49 / hr",
+  "num_employees": "10 - 49",
+  "founded": "1996",
+  "locations": [
+    {
+      "headquarters": true,
+      "address": "SCO 353-355 Sector 34 A Chandigarh",
+      "locality": "Chandigarh",
+      "region": "CH",
+      "postal_code": "160022",
+      "country": "India",
+      "phone": "+91.98883.68198"
+    }
+  ]
+}

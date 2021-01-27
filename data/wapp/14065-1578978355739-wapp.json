@@ -1,0 +1,196 @@
+{
+  "urls": {
+    "http://www.neeaconsulting.com/": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/neeaconsulting8": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/#": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/#aboutus": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/#googleapps": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/neeaconsulting8#": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.neeaconsulting.com/neeaconsulting8#aboutus": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/neeaconsulting8#googleapps": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/#veedeeo": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/#neeaaudio": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/#salesforce": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/#contacts": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/neeaconsulting8support": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/neeaconsulting8#veedeeo": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/neeaconsulting8#neeaaudio": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/neeaconsulting8#salesforce": {
+      "status": 200
+    },
+    "http://www.neeaconsulting.com/neeaconsulting8#contacts": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "ApexPages",
+      "confidence": "100",
+      "version": null,
+      "icon": "ApexPages.png",
+      "website": "https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm",
+      "cpe": null,
+      "categories": [
+        {
+          "51": "Landing Page Builders"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "OWL Carousel",
+      "confidence": "100",
+      "version": null,
+      "icon": "OWL Carousel.png",
+      "website": "https://owlcarousel2.github.io/OwlCarousel2/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "animate.css",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://daneden.github.io/animate.css/",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "Salesforce",
+      "confidence": "0",
+      "version": null,
+      "icon": "Salesforce.svg",
+      "website": "https://www.salesforce.com",
+      "cpe": null,
+      "categories": [
+        {
+          "53": "CRM"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "pt"
+  },
+  "website": "http://www.neeaconsulting.com",
+  "id": "14065"
+}

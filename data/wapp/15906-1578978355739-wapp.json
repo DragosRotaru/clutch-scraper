@@ -1,0 +1,79 @@
+{
+  "urls": {
+    "http://www.codewalla.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Amazon Cloudfront",
+      "confidence": "100",
+      "version": null,
+      "icon": "Amazon-Cloudfront.svg",
+      "website": "http://aws.amazon.com/cloudfront/",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Amazon S3",
+      "confidence": "100",
+      "version": null,
+      "icon": "aws-s3.svg",
+      "website": "http://aws.amazon.com/s3/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Angular",
+      "confidence": "100",
+      "version": "8.2.0",
+      "icon": "Angular.svg",
+      "website": "https://angular.io",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "confidence": "0",
+      "version": null,
+      "icon": "aws.svg",
+      "website": "https://aws.amazon.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.codewalla.com",
+  "id": "15906"
+}

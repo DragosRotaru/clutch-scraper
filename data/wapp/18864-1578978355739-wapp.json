@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://layeronemedia.com/": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://layeronemedia.com",
+  "id": "18864"
+}

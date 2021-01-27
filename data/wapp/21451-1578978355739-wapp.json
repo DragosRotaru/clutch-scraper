@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "http://www.followbright.com/": {
+      "status": 200
+    },
+    "https://www.followbright.com/contact-our-colorado-web-design-company/": {
+      "status": 200
+    },
+    "https://www.followbright.com/": {
+      "status": 200
+    },
+    "https://www.followbright.com/about-our-colorado-web-design-company/": {
+      "status": 200
+    },
+    "https://www.followbright.com/about-our-colorado-web-design-company/website-design-and-development-process/": {
+      "status": 200
+    },
+    "https://www.followbright.com/about-our-colorado-web-design-company/our-team/": {
+      "status": 200
+    },
+    "https://www.followbright.com/about-our-colorado-web-design-company/website-and-online-marketing-pricing/": {
+      "status": 200
+    },
+    "https://www.followbright.com/about-our-colorado-web-design-company/who-we-work-with/": {
+      "status": 200
+    },
+    "https://www.followbright.com/what-we-do-website-design-with-marketing/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "CodeIgniter",
+      "confidence": "100",
+      "version": null,
+      "icon": "CodeIgniter.png",
+      "website": "http://codeigniter.com",
+      "cpe": "cpe:/a:codeigniter:codeigniter",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Crazy Egg",
+      "confidence": "100",
+      "version": null,
+      "icon": "Crazy Egg.png",
+      "website": "http://crazyegg.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "ExpressionEngine",
+      "confidence": "100",
+      "version": null,
+      "icon": "ExpressionEngine.png",
+      "website": "http://expressionengine.com",
+      "cpe": "cpe:/a:ellislab:expressionengine",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Plus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Plus.svg",
+      "website": "http://plus.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Typekit",
+      "confidence": "100",
+      "version": "1.19.2",
+      "icon": "Typekit.png",
+      "website": "http://typekit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "ZURB Foundation",
+      "confidence": "100",
+      "version": "5.2.3",
+      "icon": "ZURB Foundation.png",
+      "website": "http://foundation.zurb.com",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.3",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.followbright.com",
+  "id": "21451"
+}

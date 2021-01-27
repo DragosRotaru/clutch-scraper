@@ -1,0 +1,343 @@
+{
+  "urls": {
+    "http://www.informatica.com/": {
+      "status": 200
+    },
+    "https://www.informatica.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.informatica.com/ar/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.informatica.com/au/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.informatica.com/br/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.informatica.com/ca/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.informatica.com/cl/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.informatica.com/cn/": {
+      "status": 200
+    },
+    "https://www.informatica.com/co/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.informatica.com/cr/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.informatica.com/ec/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.informatica.com/ar/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AdRoll",
+      "confidence": "100",
+      "version": null,
+      "icon": "AdRoll.svg",
+      "website": "http://adroll.com",
+      "cpe": null,
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Adobe Experience Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Adobe Experience Manager.svg",
+      "website": "https://www.adobe.com/marketing/experience-manager.html",
+      "cpe": "cpe:/a:adobe:experience_manager",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Akamai",
+      "confidence": "100",
+      "version": null,
+      "icon": "akamai.svg",
+      "website": "http://akamai.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Amazon ELB",
+      "confidence": "100",
+      "version": null,
+      "icon": "aws-elb.png",
+      "website": "https://aws.amazon.com/elasticloadbalancing/",
+      "cpe": null,
+      "categories": [
+        {
+          "65": "Load Balancer"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Java",
+      "confidence": "100",
+      "version": null,
+      "icon": "Java.png",
+      "website": "http://java.com",
+      "cpe": null,
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Lazy.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "http://danieltao.com/lazy.js",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Marketo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Marketo.png",
+      "website": "https://www.marketo.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Pure CSS",
+      "confidence": "100",
+      "version": null,
+      "icon": "Pure CSS.png",
+      "website": "http://purecss.io",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Quantcast",
+      "confidence": "100",
+      "version": null,
+      "icon": "Quantcast.png",
+      "website": "http://www.quantcast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "SiteCatalyst",
+      "confidence": "100",
+      "version": null,
+      "icon": "SiteCatalyst.png",
+      "website": "http://www.adobe.com/solutions/digital-marketing.html",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "YUI",
+      "confidence": "100",
+      "version": null,
+      "icon": "YUI.png",
+      "website": "http://yuilibrary.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": null,
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": null,
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "confidence": "0",
+      "version": null,
+      "icon": "aws.svg",
+      "website": "https://aws.amazon.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "Adobe DTM",
+      "confidence": "100",
+      "version": null,
+      "icon": "adobedmt.png",
+      "website": "https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Knockout.js",
+      "confidence": "100",
+      "version": "3.2.0",
+      "icon": "Knockout.js.png",
+      "website": "http://knockoutjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.6.2",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Segment",
+      "confidence": "100",
+      "version": null,
+      "icon": "Segment.png",
+      "website": "https://segment.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "es-ar"
+  },
+  "website": "http://www.informatica.com",
+  "id": "8917"
+}

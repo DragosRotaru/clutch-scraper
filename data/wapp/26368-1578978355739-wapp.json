@@ -1,0 +1,97 @@
+{
+  "urls": {
+    "http://www.blissapplications.com/": {
+      "status": 200
+    },
+    "https://www.blissapplications.com/": {
+      "status": 200
+    },
+    "https://www.blissapplications.com/about-us": {
+      "status": 200
+    },
+    "https://www.blissapplications.com/work": {
+      "status": 200
+    },
+    "https://www.blissapplications.com/careers": {
+      "status": 200
+    },
+    "https://www.blissapplications.com/contact": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Azure",
+      "confidence": "100",
+      "version": null,
+      "icon": "azure.svg",
+      "website": "https://azure.microsoft.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "Express",
+      "confidence": "100",
+      "version": null,
+      "icon": "Express.png",
+      "website": "http://expressjs.com",
+      "cpe": "cpe:/a:expressjs:express",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        },
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Vue.js.png",
+      "website": "http://vuejs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Node.js",
+      "confidence": "0",
+      "version": null,
+      "icon": "node.js.png",
+      "website": "http://nodejs.org",
+      "cpe": "cpe:/a:nodejs:node.js",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.blissapplications.com",
+  "id": "26368"
+}

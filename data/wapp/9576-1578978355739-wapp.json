@@ -1,0 +1,205 @@
+{
+  "urls": {
+    "http://www.sqli.com/": {
+      "status": 200
+    },
+    "https://www.sqli.com/Accueil/Groupe": {
+      "status": 200
+    },
+    "https://www.sqli.com/Accueil/Groupe/Vision": {
+      "status": 200
+    },
+    "https://www.sqli.com/Accueil/Groupe/Equipe-dirigeante": {
+      "status": 200
+    },
+    "https://www.sqli.com/Accueil/Groupe/Agences": {
+      "status": 200
+    },
+    "https://www.sqli.com/Accueil/Groupe/Partenaires": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.sqli.com/Accueil/Politique-sur-les-cookies": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.sqli.com/Accueil/Offres": {
+      "status": 200
+    },
+    "https://www.sqli.com/Accueil/Offres/Consulting": {
+      "status": 200
+    },
+    "https://www.sqli.com/Accueil/Offres/Commerce-unifie": {
+      "status": 200
+    },
+    "https://www.sqli.com/Accueil/Offres/Plateformes-d-experience-digitale": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.sqli.com/Accueil/Offres/Marketing-Experience-design": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.2.22",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.7",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Debian",
+      "confidence": "100",
+      "version": null,
+      "icon": "Debian.png",
+      "website": "https://debian.org",
+      "cpe": "cpe:/o:debian:debian_linux",
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "eZ Publish",
+      "confidence": "100",
+      "version": null,
+      "icon": "eZ.svg",
+      "website": "https://github.com/ezsystems/ezpublish-legacy",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "6": "Ecommerce"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.12.1",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "fr"
+  },
+  "website": "http://www.sqli.com",
+  "id": "9576"
+}

@@ -1,0 +1,242 @@
+{
+  "urls": {
+    "http://wide-web.spb.ru/": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/blog/cases/": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/blog/articles/": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/kontaktyi/": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/kontekstnaya-reklama/": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/seo/": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/vnedrenie-bitriks24/": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/policy/": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/otkaz-ot-otvetstvennosti/": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/blog/articles/#blog": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/blog/video/#blog": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/blog/cases/#blog": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/blog/cases/marketing/#blog": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/blog/cases/prodazhi-i-crm/#blog": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/blog/cases/razrabotka/solutionpack/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://wide-web.spb.ru/kontekstnaya-reklama/#": {
+      "status": 200
+    },
+    "https://wide-web.spb.ru/kontekstnaya-reklama/blog/cases/prodazhi-i-crm/kak-bannomu-kompleksu-premium-klassa-sdelat-obem-prodazh-na-bolee-1-mln-ross-rublej-v-mesyacz/": {
+      "status": 500,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://wide-web.spb.ru/kontekstnaya-reklama/blog/cases/": {
+      "status": 500,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://wide-web.spb.ru/soglasie-s-rassyilkoj/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "FancyBox",
+      "confidence": "100",
+      "version": "3.5.7",
+      "icon": "FancyBox.png",
+      "website": "http://fancyapps.com/fancybox",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "OWL Carousel",
+      "confidence": "100",
+      "version": null,
+      "icon": "OWL Carousel.png",
+      "website": "https://owlcarousel2.github.io/OwlCarousel2/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "SweetAlert",
+      "confidence": "100",
+      "version": null,
+      "icon": "SweetAlert.png",
+      "website": "https://t4t5.github.io/sweetalert/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "TrackJs",
+      "confidence": "100",
+      "version": null,
+      "icon": "TrackJs.png",
+      "website": "http://trackjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Disqus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Disqus.svg",
+      "website": "https://disqus.com",
+      "cpe": "cpe:/a:disqus:disqus_comment_system",
+      "categories": [
+        {
+          "15": "Comment Systems"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://wide-web.spb.ru",
+  "id": "23535"
+}

@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "https://tryolabs.com/": {
+      "status": 200
+    },
+    "https://tryolabs.com/what-we-do/machine-learning-consulting/": {
+      "status": 200
+    },
+    "https://tryolabs.com/work/": {
+      "status": 200
+    },
+    "https://tryolabs.com/about/": {
+      "status": 200
+    },
+    "https://tryolabs.com/team/": {
+      "status": 200
+    },
+    "https://tryolabs.com/careers/": {
+      "status": 200
+    },
+    "https://tryolabs.com/blog/": {
+      "status": 200
+    },
+    "https://tryolabs.com/what-we-do/machine-learning-consulting/#contact": {
+      "status": 200
+    },
+    "https://tryolabs.com/work/#contact": {
+      "status": 200
+    },
+    "https://tryolabs.com/about/#contact": {
+      "status": 200
+    },
+    "https://tryolabs.com/team/#contact": {
+      "status": 200
+    },
+    "https://tryolabs.com/#contact": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Amazon Cloudfront",
+      "confidence": "100",
+      "version": null,
+      "icon": "Amazon-Cloudfront.svg",
+      "website": "http://aws.amazon.com/cloudfront/",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Amazon S3",
+      "confidence": "100",
+      "version": null,
+      "icon": "aws-s3.svg",
+      "website": "http://aws.amazon.com/s3/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Hugo",
+      "confidence": "100",
+      "version": "0.42.1",
+      "icon": "Hugo.png",
+      "website": "http://gohugo.io",
+      "cpe": null,
+      "categories": [
+        {
+          "57": "Static Site Generator"
+        }
+      ]
+    },
+    {
+      "name": "Mixpanel",
+      "confidence": "100",
+      "version": null,
+      "icon": "Mixpanel.png",
+      "website": "https://mixpanel.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Segment",
+      "confidence": "100",
+      "version": null,
+      "icon": "Segment.png",
+      "website": "https://segment.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "confidence": "0",
+      "version": null,
+      "icon": "aws.svg",
+      "website": "https://aws.amazon.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://tryolabs.com",
+  "id": "26962"
+}

@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "https://rokk.co.uk/": {
+      "status": 200
+    },
+    "https://rokk.co.uk/privacy-policy": {
+      "status": 200
+    },
+    "https://rokk.co.uk/services": {
+      "status": 200
+    },
+    "https://rokk.co.uk/services/software-development": {
+      "status": 200
+    },
+    "https://rokk.co.uk/services/mobile-apps": {
+      "status": 200
+    },
+    "https://rokk.co.uk/services/software-as-a-service-saas": {
+      "status": 200
+    },
+    "https://rokk.co.uk/services/ios-apps": {
+      "status": 200
+    },
+    "https://rokk.co.uk/services/web-applications": {
+      "status": 200
+    },
+    "https://rokk.co.uk/services/android-apps": {
+      "status": 200
+    },
+    "https://rokk.co.uk/services/mapping-solutions": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Craft CMS",
+      "confidence": "100",
+      "version": null,
+      "icon": "Craft CMS.svg",
+      "website": "https://craftcms.com",
+      "cpe": "cpe:/a:craftcms:craft_cms",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": "5.1.0",
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Yii",
+      "confidence": "0",
+      "version": null,
+      "icon": "Yii.png",
+      "website": "https://www.yiiframework.com",
+      "cpe": null,
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://rokk.co.uk",
+  "id": "11884"
+}

@@ -1,0 +1,229 @@
+{
+  "urls": {
+    "http://eldarion.com/": {
+      "status": 200
+    },
+    "https://eldarion.com/": {
+      "status": 200
+    },
+    "https://eldarion.com/#": {
+      "status": 200
+    },
+    "https://eldarion.com/digital-humanities/": {
+      "status": 200
+    },
+    "https://eldarion.com/school-improvement/": {
+      "status": 200
+    },
+    "https://eldarion.com/team/": {
+      "status": 200
+    },
+    "https://eldarion.com/contact/": {
+      "status": 200
+    },
+    "https://eldarion.com/blog/": {
+      "status": 200
+    },
+    "https://eldarion.com/emergence-fm/": {
+      "status": 200
+    },
+    "https://eldarion.com/the-hub/": {
+      "status": 200
+    },
+    "https://eldarion.com/school-improvement/#": {
+      "status": 200
+    },
+    "https://eldarion.com/digital-humanities/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "FlexSlider",
+      "confidence": "100",
+      "version": null,
+      "icon": "FlexSlider.png",
+      "website": "https://woocommerce.com/flexslider/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Gauges",
+      "confidence": "100",
+      "version": null,
+      "icon": "Gauges.png",
+      "website": "https://get.gaug.es",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Mixpanel",
+      "confidence": "100",
+      "version": null,
+      "icon": "Mixpanel.png",
+      "website": "https://mixpanel.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Swiper Slider",
+      "confidence": "100",
+      "version": null,
+      "icon": "swiper.svg",
+      "website": "https://swiperjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Typekit",
+      "confidence": "100",
+      "version": "1.19.2",
+      "icon": "Typekit.png",
+      "website": "http://typekit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "gunicorn",
+      "confidence": "100",
+      "version": "19.9.0",
+      "icon": "gunicorn.png",
+      "website": "http://gunicorn.org",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "confidence": "0",
+      "version": null,
+      "icon": "Python.png",
+      "website": "http://python.org",
+      "cpe": "cpe:/a:python:python",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://eldarion.com",
+  "id": "21494"
+}

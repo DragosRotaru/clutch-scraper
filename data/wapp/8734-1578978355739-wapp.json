@@ -1,0 +1,179 @@
+{
+  "urls": {
+    "http://etendard.pl/": {
+      "status": 200
+    },
+    "http://etendard.pl/obszary-dzialania": {
+      "status": 200
+    },
+    "http://etendard.pl/case-studies": {
+      "status": 200
+    },
+    "http://etendard.pl/jak-pracujemy": {
+      "status": 200
+    },
+    "http://etendard.pl/kontakt": {
+      "status": 200
+    },
+    "http://etendard.pl/case-studies/getin-bank-szkolenia-knf,1": {
+      "status": 200
+    },
+    "http://etendard.pl/case-studies/yousend-serwis-logistyczny,3": {
+      "status": 200
+    },
+    "http://etendard.pl/case-studies/open-life,6": {
+      "status": 200
+    },
+    "http://etendard.pl/case-studies/medica-polska-1,8": {
+      "status": 200
+    },
+    "http://etendard.pl/case-studies/enel-med-serwis-relacji-inwestorskich,13": {
+      "status": 200
+    },
+    "http://etendard.pl/jak-pracujemy#": {
+      "status": 200
+    },
+    "http://etendard.pl/obszary-dzialania/aplikacje-dedykowane,1": {
+      "status": 200
+    },
+    "http://etendard.pl/obszary-dzialania/aplikacje-mobilne,2": {
+      "status": 200
+    },
+    "http://etendard.pl/obszary-dzialania/analiza-systemowa,5": {
+      "status": 200
+    },
+    "http://etendard.pl/obszary-dzialania/web-development,4": {
+      "status": 200
+    },
+    "http://etendard.pl/obszary-dzialania/outsourcing-programistyczny,3": {
+      "status": 200
+    },
+    "http://etendard.pl/kontakt#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Chart.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Chart.js.svg",
+      "website": "https://www.chartjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "LiveChat",
+      "confidence": "100",
+      "version": null,
+      "icon": "LiveChat.png",
+      "website": "http://livechatinc.com",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.6.2",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.7.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://etendard.pl",
+  "id": "8734"
+}

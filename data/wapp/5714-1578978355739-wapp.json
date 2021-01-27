@@ -1,0 +1,225 @@
+{
+  "urls": {
+    "https://willowtreeapps.com/": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/#main": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/#navigation": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/services": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/portfolio": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/company": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/careers": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/careers/university": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/careers/jobs": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/ideas": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/services#main": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/services#navigation": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/portfolio#main": {
+      "status": 200
+    },
+    "https://willowtreeapps.com/portfolio#navigation": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Contentful",
+      "confidence": "100",
+      "version": null,
+      "icon": "Contentful.svg",
+      "website": "http://www.contentful.com",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Inspectlet",
+      "confidence": "100",
+      "version": null,
+      "icon": "inspectlet.png",
+      "website": "https://www.inspectlet.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Sucuri",
+      "confidence": "100",
+      "version": null,
+      "icon": "sucuri.png",
+      "website": "https://sucuri.net/",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Babel",
+      "confidence": "100",
+      "version": null,
+      "icon": "Babel.svg",
+      "website": "https://babeljs.io",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "BugSnag",
+      "confidence": "100",
+      "version": null,
+      "icon": "BugSnag.png",
+      "website": "http://bugsnag.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Lodash",
+      "confidence": "100",
+      "version": "4.17.15",
+      "icon": "Lo-dash.png",
+      "website": "http://www.lodash.com",
+      "cpe": "cpe:/a:lodash:lodash",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://willowtreeapps.com",
+  "id": "5714"
+}

@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.spritzsf.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.spritzsf.com",
+  "id": "20621"
+}

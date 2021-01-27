@@ -1,0 +1,72 @@
+{
+  "urls": {
+    "http://copio.us/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Gatsby",
+      "confidence": "100",
+      "version": "2.13.23",
+      "icon": "Gatsby.svg",
+      "website": "https://www.gatsbyjs.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "57": "Static Site Generator"
+        },
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Netlify",
+      "confidence": "100",
+      "version": null,
+      "icon": "Netlify.svg",
+      "website": "https://www.netlify.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        },
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "0",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://copio.us",
+  "id": "20309"
+}

@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.iowacomputergurus.com/": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.iowacomputergurus.com",
+  "id": "21313"
+}

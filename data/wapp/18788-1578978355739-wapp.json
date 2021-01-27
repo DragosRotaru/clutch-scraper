@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.horizontalintegration.com/": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.horizontalintegration.com",
+  "id": "18788"
+}

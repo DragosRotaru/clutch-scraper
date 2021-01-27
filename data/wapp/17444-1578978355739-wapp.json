@@ -1,0 +1,66 @@
+{
+  "urls": {
+    "http://www.cabeus.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "RequireJS",
+      "confidence": "100",
+      "version": "2.2.0",
+      "icon": "RequireJS.png",
+      "website": "http://requirejs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Sucuri",
+      "confidence": "100",
+      "version": null,
+      "icon": "sucuri.png",
+      "website": "https://sucuri.net/",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Typekit",
+      "confidence": "100",
+      "version": "1.19.2",
+      "icon": "Typekit.png",
+      "website": "http://typekit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.8.3",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.cabeus.com",
+  "id": "17444"
+}

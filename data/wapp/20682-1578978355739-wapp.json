@@ -1,0 +1,176 @@
+{
+  "urls": {
+    "http://www.archermalmo.com/": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/#page": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/work": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/leaders": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/leaders#page": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/work#page": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/contact#jobs": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/latest": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/contact": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/#": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/latest/archer-malmo-recognized-as-a-top-b2b-agency-by-forrester": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/leaders#": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/work/grizzly-outdoor-corps": {
+      "status": 200
+    },
+    "https://www.archermalmo.com/work/zoetis-ralph": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Locomotive",
+      "confidence": "100",
+      "version": null,
+      "icon": "Locomotive.png",
+      "website": "http://www.locomotivecms.com",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.14.0",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Phusion Passenger",
+      "confidence": "100",
+      "version": "5.3.4",
+      "icon": "Phusion Passenger.png",
+      "website": "https://phusionpassenger.com",
+      "cpe": "cpe:/a:phusionpassenger:phusion_passenger",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "confidence": "0",
+      "version": null,
+      "icon": "Ruby on Rails.png",
+      "website": "https://rubyonrails.org",
+      "cpe": null,
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "confidence": "0",
+      "version": null,
+      "icon": "MongoDB.png",
+      "website": "http://www.mongodb.org",
+      "cpe": "cpe:/a:mongodb:mongodb",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "confidence": "0",
+      "version": null,
+      "icon": "Ruby.png",
+      "website": "http://ruby-lang.org",
+      "cpe": null,
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.archermalmo.com",
+  "id": "20682"
+}

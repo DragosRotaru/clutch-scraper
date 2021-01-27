@@ -1,0 +1,200 @@
+{
+  "urls": {
+    "http://www.redmadrobot.com/": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/cookies": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/about": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/services": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/projects": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/fyi/": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/contacts": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/order": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/privacy": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/sitemap": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/fyi/interview-tele2": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/fyi/interview-alpina": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/fyi/interview-my-beeline": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/fyi/interview-onpoint": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/projects/pins-iphone-android": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/projects/alfastrakhovanie-mobile-ios-android": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/projects/xerox": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/projects/b2b-center-iphone-ipad-android": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/order#app": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/services/startups": {
+      "status": 200
+    },
+    "https://www.redmadrobot.com/order#design": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Yandex.Metrika",
+      "confidence": "100",
+      "version": null,
+      "icon": "Yandex.Metrika.png",
+      "website": "http://metrika.yandex.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.3",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "ru"
+  },
+  "website": "http://www.redmadrobot.com",
+  "id": "22550"
+}

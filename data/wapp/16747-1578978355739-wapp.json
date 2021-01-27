@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "http://www.ancoris.com/": {
+      "status": 200
+    },
+    "https://www.ancoris.com/": {
+      "status": 200
+    },
+    "https://www.ancoris.com/#topsearch": {
+      "status": 200
+    },
+    "https://www.ancoris.com/about/": {
+      "status": 200
+    },
+    "https://www.ancoris.com/solutions/": {
+      "status": 200
+    },
+    "https://www.ancoris.com/solutions/digital-transformation/": {
+      "status": 200
+    },
+    "https://www.ancoris.com/solutions/digital-transformation/#topsearch": {
+      "status": 200
+    },
+    "https://www.ancoris.com/solutions/#": {
+      "status": 200
+    },
+    "https://www.ancoris.com/cs/c/?cta_guid=152da471-a270-4b08-9735-d87b151e1d02&placement_guid=95894769-ba58-45d6-a873-8ae0703d1a15&portal_id=3038777&canon=https%3A%2F%2Fwww.ancoris.com%2Fsolutions%2F&redirect_url=APefjpEIjMaksi4jtOATITlkWi5bVOnELJow7phbnJ1G2hxBlJ4IYMPBaG4OCNN4Um1sOZTwjoNKM8JTZ8_anb6qihtsysUI4Fk6MAht58eB49nltdc2tHXjPtqs8H2vsU5Gn70zqYLv&click=e1a04e74-4040-4b51-a591-21ab1f3f5c33&hsutk=3ac7f9e1fc488f5dc2fbb6f56f7490bc&signature=AAH58kGkMGpQ5OR3iFjywLA3qM9buAuWoA&pageId=11365625216&__hstc=177689850.3ac7f9e1fc488f5dc2fbb6f56f7490bc.1578989860063.1578989860063.1578989860063.1&__hssc=177689850.1.1578989860063&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.ancoris.com/solutions/#topsearch": {
+      "status": 200
+    },
+    "https://www.ancoris.com/#": {
+      "status": 200
+    },
+    "https://www.ancoris.com/cs/c/?cta_guid=152da471-a270-4b08-9735-d87b151e1d02&placement_guid=95894769-ba58-45d6-a873-8ae0703d1a15&portal_id=3038777&canon=https%3A%2F%2Fwww.ancoris.com%2F&redirect_url=APefjpESbIlcIfQiVuNMIh5wGYkZUvw2ICqaCZWGuGqd5k22M3-sAjHOI_Q7tmwX8MOn2H8QJQJLRJ3r3qDMjMIIeeJQm8MlpoTjc_VmdW8y9CXqOiIwwjohvd2UWVplVenYcdh7SFFn&click=22d8c9fc-d760-475f-be6c-e86c06485475&hsutk=cb3033df723dc8aaf0dd82c97d06e8d9&signature=AAH58kHq4_Jmw9H6lD8jh6UKUQhLVBGqIQ&pageId=11367600800&__hstc=177689850.cb3033df723dc8aaf0dd82c97d06e8d9.1578989859837.1578989859837.1578989859837.1&__hssc=177689850.1.1578989859838&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.ancoris.com/cs/c/?cta_guid=152da471-a270-4b08-9735-d87b151e1d02&placement_guid=95894769-ba58-45d6-a873-8ae0703d1a15&portal_id=3038777&canon=https%3A%2F%2Fwww.ancoris.com%2F&redirect_url=APefjpGD07pCpmnerzD3HljlrWAUJUb5oL0nhuywWncAzSCMIOt2y-FgJBxRuMaXW0o8dsNp_OXH3B86g6ZwpCgEs89dY2ET8wXzgXWQwH8RM08DADq-vN43MgGjO0-aoF7-r6WeCUFl&click=4904bec2-71d7-4228-8386-c903c643fd35&hsutk=5b41f512101b36850d098b15ceb21bf5&signature=AAH58kF7J-vY4tP9HdodnUtbMhIFz7K00A&pageId=11367600800&__hstc=177689850.5b41f512101b36850d098b15ceb21bf5.1578989860957.1578989860957.1578989860957.1&__hssc=177689850.1.1578989860957&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.ancoris.com/solutions/digital-workplace/": {
+      "status": 200
+    },
+    "https://www.ancoris.com/solutions/infrastructure-in-the-cloud/": {
+      "status": 200
+    },
+    "https://www.ancoris.com/solutions/data_analytics_ai": {
+      "status": 200
+    },
+    "https://www.ancoris.com/solutions/geolocation/": {
+      "status": 200
+    },
+    "https://www.ancoris.com/products/": {
+      "status": 200
+    },
+    "https://www.ancoris.com/about/#": {
+      "status": 200
+    },
+    "https://www.ancoris.com/cs/c/?cta_guid=152da471-a270-4b08-9735-d87b151e1d02&placement_guid=95894769-ba58-45d6-a873-8ae0703d1a15&portal_id=3038777&canon=https%3A%2F%2Fwww.ancoris.com%2Fabout%2F&redirect_url=APefjpEwFDTAy3SMw0sR9HQIy8m8JXS7sgENKeFzw-0X3zos0OoVJrji-hHnCCGWqdNYwbo8ptoTGBUrq6wUyFqShCRWYqXo5RvW31_4fc7iK1TI63bLq7Fz0JchOjsgP2jWsn9aaliV&click=980434d8-7753-4422-9f9f-cafc6a927d8f&hsutk=24012cb8e036953c7d63f8ad2543dac4&signature=AAH58kGzMtmd5pJnGap7koFDGPp8vUj65A&pageId=11338447757&__hstc=177689850.24012cb8e036953c7d63f8ad2543dac4.1578989861635.1578989861636.1578989861636.1&__hssc=177689850.1.1578989861638&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.ancoris.com/about/#topsearch": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.7.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.ancoris.com",
+  "id": "16747"
+}

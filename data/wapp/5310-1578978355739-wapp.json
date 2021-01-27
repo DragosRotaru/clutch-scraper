@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://massachusettswebdesigns.com/": {
+      "status": 500,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://massachusettswebdesigns.com",
+  "id": "5310"
+}

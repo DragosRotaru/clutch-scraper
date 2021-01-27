@@ -1,0 +1,109 @@
+{
+  "urls": {
+    "http://civicactions.com/": {
+      "status": 200
+    },
+    "https://civicactions.com/": {
+      "status": 200
+    },
+    "https://civicactions.com/values/": {
+      "status": 200
+    },
+    "https://civicactions.com/team/": {
+      "status": 200
+    },
+    "https://civicactions.com/communities": {
+      "status": 200
+    },
+    "https://civicactions.com/press": {
+      "status": 200
+    },
+    "https://civicactions.com/approach": {
+      "status": 200
+    },
+    "https://civicactions.com/case-study": {
+      "status": 200
+    },
+    "https://civicactions.com/careers": {
+      "status": 200
+    },
+    "https://civicactions.com/contact": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Gatsby",
+      "confidence": "100",
+      "version": "2.13.64",
+      "icon": "Gatsby.svg",
+      "website": "https://www.gatsbyjs.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "57": "Static Site Generator"
+        },
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "0",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://civicactions.com",
+  "id": "9581"
+}

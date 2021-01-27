@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.igniweb.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.igniweb.com",
+  "id": "25375"
+}

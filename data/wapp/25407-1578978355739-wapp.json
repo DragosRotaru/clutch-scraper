@@ -1,0 +1,334 @@
+{
+  "urls": {
+    "https://indeema.com/": {
+      "status": 200
+    },
+    "https://indeema.com/portfolio": {
+      "status": 200
+    },
+    "https://indeema.com/blog": {
+      "status": 200
+    },
+    "https://indeema.com/services/iot": {
+      "status": 200
+    },
+    "https://indeema.com/portfolio/viking": {
+      "status": 200
+    },
+    "https://indeema.com/portfolio/solar": {
+      "status": 200
+    },
+    "https://indeema.com/blog?category=567d4486a2b011c357660e40": {
+      "status": 200
+    },
+    "https://indeema.com/portfolio/ireds": {
+      "status": 200
+    },
+    "https://indeema.com/contact-us": {
+      "status": 200
+    },
+    "https://indeema.com/portfolio/jak": {
+      "status": 200
+    },
+    "https://indeema.com/portfolio/udb": {
+      "status": 200
+    },
+    "https://indeema.com/portfolio/alab": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://indeema.com/portfolio/envision": {
+      "status": 200
+    },
+    "https://indeema.com/blog/6-promissing-applications-for-the-industrial-iot": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://indeema.com/blog/category/technologies": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://indeema.com/blog/category/iot": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://indeema.com/blog/ci-server-on-mac-os-for-ios-using-gitlab-and-fastlane": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://indeema.com/blog?category=567d4486a2b011c357660e51": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://indeema.com/blog?category=567d4486a2b011c357660e78": {
+      "status": 200
+    },
+    "https://indeema.com/blog?category=567d78c3861f95ee3a8669ab": {
+      "status": 200
+    },
+    "https://indeema.com/blog?category=567d78f7861f95ee3a8669ac": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://indeema.com/blog?category=5682887aeca1363464df725d": {
+      "status": 200
+    },
+    "https://indeema.com/services/webdevelopment": {
+      "status": 200
+    },
+    "https://indeema.com/services/mobiledevelopment": {
+      "status": 200
+    },
+    "https://indeema.com/services/blockchain": {
+      "status": 200
+    },
+    "https://indeema.com/services/uxui": {
+      "status": 200
+    },
+    "https://indeema.com/services/dedicatedteam": {
+      "status": 200
+    },
+    "https://indeema.com/blog/top-10-iot-sensors": {
+      "status": 200
+    },
+    "https://indeema.com/blog/how-much-does-it-cost-to-create-iot-solution": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://indeema.com/blog/iot-lecture--2--proceeding-data-from-a-serial-port-to-a-cloud": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://indeema.com/blog/iot-application-in-agriculture--5-real-examples": {
+      "status": 200
+    },
+    "https://indeema.com/blog/microsoft-azure-iot-suite--benefits-and-features": {
+      "status": 200
+    },
+    "https://indeema.com/blog/category/startups": {
+      "status": 200
+    },
+    "https://indeema.com/blog/category/education": {
+      "status": 200
+    },
+    "https://indeema.com/blog/category/management": {
+      "status": 200
+    },
+    "https://indeema.com/blog/react-vs-angular--how-a-library-can-compete-with-a-framework": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://indeema.com/blog/category/web-development": {
+      "status": 200
+    },
+    "https://indeema.com/blog/how-to-create-a-startup--iot-project-from-idea-to-production": {
+      "status": 200
+    },
+    "https://indeema.com/blog/how-to-debug-javascript-in-chrome-quick-and-easy": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [
+    {
+      "name": "Angular",
+      "confidence": "100",
+      "version": "7.2.15",
+      "icon": "Angular.svg",
+      "website": "https://angular.io",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Express",
+      "confidence": "100",
+      "version": null,
+      "icon": "Express.png",
+      "website": "http://expressjs.com",
+      "cpe": "cpe:/a:expressjs:express",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        },
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.12.2",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Node.js",
+      "confidence": "0",
+      "version": null,
+      "icon": "node.js.png",
+      "website": "http://nodejs.org",
+      "cpe": "cpe:/a:nodejs:node.js",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Disqus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Disqus.svg",
+      "website": "https://disqus.com",
+      "cpe": "cpe:/a:disqus:disqus_comment_system",
+      "categories": [
+        {
+          "15": "Comment Systems"
+        }
+      ]
+    },
+    {
+      "name": "TweenMax",
+      "confidence": "100",
+      "version": "2.1.3",
+      "icon": "TweenMax.png",
+      "website": "http://greensock.com/tweenmax",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Zone.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://github.com/angular/zone.js/",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://indeema.com",
+  "id": "25407"
+}

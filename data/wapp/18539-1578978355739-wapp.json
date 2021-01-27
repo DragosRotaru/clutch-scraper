@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://bsgroup.eu/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://bsgroup.eu",
+  "id": "18539"
+}

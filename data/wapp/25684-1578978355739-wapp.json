@@ -1,0 +1,122 @@
+{
+  "urls": {
+    "http://www.twentysixdigital.com/": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/#main": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/about/": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/work/": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/services/": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/partners/": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/careers/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.twentysixdigital.com/blog/": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/contact/": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/awards/": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/services/#main": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/about/#main": {
+      "status": 200
+    },
+    "https://www.twentysixdigital.com/work/#main": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "100",
+      "version": "10.0",
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": null,
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "cpe": "cpe:/a:microsoft:asp.net",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.twentysixdigital.com",
+  "id": "25684"
+}

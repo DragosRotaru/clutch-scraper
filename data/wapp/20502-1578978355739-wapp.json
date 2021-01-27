@@ -1,0 +1,234 @@
+{
+  "urls": {
+    "http://www.alipes.com/": {
+      "status": 200
+    },
+    "https://www.alipes.com/": {
+      "status": 200
+    },
+    "https://www.alipes.com/contact": {
+      "status": 200
+    },
+    "https://www.alipes.com/case-studies": {
+      "status": 200
+    },
+    "https://www.alipes.com/approach": {
+      "status": 200
+    },
+    "https://www.alipes.com/blog/marketing-successes-and-suckers-of-2019": {
+      "status": 200
+    },
+    "https://www.alipes.com/blog/navigating-agency-life-at-alipes": {
+      "status": 200
+    },
+    "https://www.alipes.com/blog/the-gamification-of-caffeination": {
+      "status": 200
+    },
+    "https://www.alipes.com/privacy": {
+      "status": 200
+    },
+    "https://www.alipes.com/case-studies/brt": {
+      "status": 200
+    },
+    "https://www.alipes.com/case-studies/adi": {
+      "status": 200
+    },
+    "https://www.alipes.com/case-studies/perq": {
+      "status": 200
+    },
+    "https://www.alipes.com/case-studies/fidelity": {
+      "status": 200
+    },
+    "https://www.alipes.com/careers": {
+      "status": 200
+    },
+    "https://www.alipes.com/approach#solutionists": {
+      "status": 200
+    },
+    "https://www.alipes.com/approach#sophia": {
+      "status": 200
+    },
+    "https://www.alipes.com/approach#passion": {
+      "status": 200
+    },
+    "https://www.alipes.com/approach#experience": {
+      "status": 200
+    },
+    "https://www.alipes.com/blog/alipes-takes-gold": {
+      "status": 200
+    },
+    "https://www.alipes.com/focus": {
+      "status": 200
+    },
+    "https://www.alipes.com/people": {
+      "status": 200
+    },
+    "https://www.alipes.com/case-studies/blue-harvest-fisheries": {
+      "status": 200
+    },
+    "https://www.alipes.com/case-studies/bpm": {
+      "status": 200
+    },
+    "https://www.alipes.com/case-studies/elanco": {
+      "status": 200
+    },
+    "https://www.alipes.com/case-studies/hatch": {
+      "status": 200
+    },
+    "https://www.alipes.com/case-studies/lilly": {
+      "status": 200
+    },
+    "https://www.alipes.com/blog/the-end-of-stock-photography": {
+      "status": 200
+    },
+    "https://www.alipes.com/blog/trust-is-the-name-in-the-game": {
+      "status": 200
+    },
+    "https://www.alipes.com/blog/the-multitasking-myth-part-2": {
+      "status": 200
+    },
+    "https://www.alipes.com/blog/wild-abandon-with-perfect-precision": {
+      "status": 200
+    },
+    "https://www.alipes.com/blog/when-likes-disappear": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Cowboy",
+      "confidence": "100",
+      "version": null,
+      "icon": "Cowboy.png",
+      "website": "http://ninenines.eu",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Vue.js.png",
+      "website": "http://vuejs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Nuxt.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nuxt.js.svg",
+      "website": "https://nuxtjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Erlang",
+      "confidence": "0",
+      "version": null,
+      "icon": "Erlang.png",
+      "website": "http://www.erlang.org",
+      "cpe": "cpe:/a:erlang:erlang%2fotp",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.alipes.com",
+  "id": "20502"
+}

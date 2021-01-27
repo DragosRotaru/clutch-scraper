@@ -1,0 +1,135 @@
+{
+  "urls": {
+    "http://magenic.com/": {
+      "status": 200
+    },
+    "https://magenic.com/": {
+      "status": 200
+    },
+    "https://magenic.com/services": {
+      "status": 200
+    },
+    "https://magenic.com/process": {
+      "status": 200
+    },
+    "https://magenic.com/thinking": {
+      "status": 200
+    },
+    "https://magenic.com/join-us": {
+      "status": 200
+    },
+    "https://magenic.com/work": {
+      "status": 200
+    },
+    "https://magenic.com/services#digital-development": {
+      "status": 200
+    },
+    "https://magenic.com/services#quality-engineering-&-assurance": {
+      "status": 200
+    },
+    "https://magenic.com/services#cloud-migration": {
+      "status": 200
+    },
+    "https://magenic.com/services#strategy": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Prism",
+      "confidence": "100",
+      "version": null,
+      "icon": "Prism.svg",
+      "website": "http://prismjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Visual Website Optimizer",
+      "confidence": "100",
+      "version": null,
+      "icon": "vwo.svg",
+      "website": "https://vwo.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.2.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://magenic.com",
+  "id": "25475"
+}

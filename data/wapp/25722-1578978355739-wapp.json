@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://id-east.ru/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://id-east.ru",
+  "id": "25722"
+}

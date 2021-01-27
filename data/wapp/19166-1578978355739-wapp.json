@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.zoondia.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.zoondia.com",
+  "id": "19166"
+}

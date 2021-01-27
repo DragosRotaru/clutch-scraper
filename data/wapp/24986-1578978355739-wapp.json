@@ -1,0 +1,157 @@
+{
+  "urls": {
+    "https://www.sayonetech.com/": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/#": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/about/": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/testimonials/": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/success-stories/": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/services/digital-transformation/": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/services/application-development/": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/services/big-data-analytics/": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/services/cloud/": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/services/devops/": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/about/#": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/success-stories/#": {
+      "status": 200
+    },
+    "https://www.sayonetech.com/testimonials/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.sayonetech.com",
+  "id": "24986"
+}

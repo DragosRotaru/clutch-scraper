@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.netapp.com/": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.netapp.com",
+  "id": "21381"
+}

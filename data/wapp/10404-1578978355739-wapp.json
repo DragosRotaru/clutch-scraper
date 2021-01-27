@@ -1,0 +1,136 @@
+{
+  "urls": {
+    "https://www.goinvo.com/": {
+      "status": 200
+    },
+    "https://www.goinvo.com/work/": {
+      "status": 200
+    },
+    "https://www.goinvo.com/services/": {
+      "status": 200
+    },
+    "https://www.goinvo.com/about/": {
+      "status": 200
+    },
+    "https://www.goinvo.com/vision/": {
+      "status": 200
+    },
+    "https://www.goinvo.com/contact/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Amazon Cloudfront",
+      "confidence": "100",
+      "version": null,
+      "icon": "Amazon-Cloudfront.svg",
+      "website": "http://aws.amazon.com/cloudfront/",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Amazon S3",
+      "confidence": "100",
+      "version": null,
+      "icon": "aws-s3.svg",
+      "website": "http://aws.amazon.com/s3/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Gatsby",
+      "confidence": "100",
+      "version": "2.0.35",
+      "icon": "Gatsby.svg",
+      "website": "https://www.gatsbyjs.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "57": "Static Site Generator"
+        },
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Pure CSS",
+      "confidence": "100",
+      "version": null,
+      "icon": "Pure CSS.png",
+      "website": "http://purecss.io",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "confidence": "0",
+      "version": null,
+      "icon": "aws.svg",
+      "website": "https://aws.amazon.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "0",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.goinvo.com",
+  "id": "10404"
+}

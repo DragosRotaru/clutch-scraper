@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://dxydoes.com/": {
+      "status": 403,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://dxydoes.com",
+  "id": "20714"
+}

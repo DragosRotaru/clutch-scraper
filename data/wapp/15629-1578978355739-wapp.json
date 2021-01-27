@@ -1,0 +1,253 @@
+{
+  "urls": {
+    "https://www.singlemindconsulting.com/": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/services/": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/our-work/": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/reviews/": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/customers/": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/careers/": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/blog/": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/services/#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6Ijc2NTAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/services/#research_services": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/services/#support_services": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/reviews/#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6Ijc2NTAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/customers/#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6Ijc2NTAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/our-work/#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6Ijc2NTAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/our-work/kp-scholar/": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6Ijc2NTAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/services/product-research/": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/services/product-research/#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6Ijc2NTAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D": {
+      "status": 200
+    },
+    "https://www.singlemindconsulting.com/services/product-research/#product_research_process": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Elementor",
+      "confidence": "100",
+      "version": null,
+      "icon": "Elementor.png",
+      "website": "https://elementor.com",
+      "cpe": null,
+      "categories": [
+        {
+          "51": "Landing Page Builders"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Pantheon",
+      "confidence": "100",
+      "version": null,
+      "icon": "pantheon.svg",
+      "website": "https://pantheon.io/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "Swiper Slider",
+      "confidence": "100",
+      "version": null,
+      "icon": "swiper.svg",
+      "website": "https://swiperjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Varnish",
+      "confidence": "100",
+      "version": null,
+      "icon": "Varnish.svg",
+      "website": "http://www.varnish-cache.org",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "5",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": null,
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": null,
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "particles.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://vincentgarreau.com/particles.js/",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MariaDB",
+      "confidence": "0",
+      "version": null,
+      "icon": "mariadb.svg",
+      "website": "https://mariadb.org",
+      "cpe": "cpe:/a:mariadb_project:mariadb",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://www.singlemindconsulting.com",
+  "id": "15629"
+}

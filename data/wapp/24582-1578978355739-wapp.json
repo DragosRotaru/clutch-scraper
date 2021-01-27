@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.madetech.co.uk/": {
+      "status": 404,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.madetech.co.uk",
+  "id": "24582"
+}

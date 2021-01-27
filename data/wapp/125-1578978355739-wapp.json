@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://luminousinfoways.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://luminousinfoways.com",
+  "id": "125"
+}

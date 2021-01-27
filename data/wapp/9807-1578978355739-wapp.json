@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.mobileprogramming.com/": {
+      "status": 303,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.mobileprogramming.com",
+  "id": "9807"
+}

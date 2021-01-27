@@ -1,0 +1,124 @@
+{
+  "urls": {
+    "https://www.dewsign.co.uk/": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/clients": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/case-studies": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/services": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/about": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/careers": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/contact": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/case-studies/skinflint-case-study": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/case-studies/classic-cottages-case-study": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/about/conscious-digital-r": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/about/pro-bono-projects": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/services/strategy": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/services/strategy/consultancy": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/services/strategy/data-analysis": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/case-studies?tag=brand-identity": {
+      "status": 200
+    },
+    "https://www.dewsign.co.uk/case-studies?tag=ux-ui-design": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.dewsign.co.uk",
+  "id": "9824"
+}

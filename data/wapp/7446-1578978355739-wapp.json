@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.zensar.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.zensar.com",
+  "id": "7446"
+}

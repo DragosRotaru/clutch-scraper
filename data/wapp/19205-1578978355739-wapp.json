@@ -1,0 +1,184 @@
+{
+  "urls": {
+    "http://www.widevisiontechnologies.com/": {
+      "status": 200
+    },
+    "http://www.widevisiontechnologies.com/mobility/": {
+      "status": 200
+    },
+    "http://www.widevisiontechnologies.com/healthcare/": {
+      "status": 200
+    },
+    "http://www.widevisiontechnologies.com/mobility/#": {
+      "status": 200
+    },
+    "http://www.widevisiontechnologies.com/healthcare/#ios": {
+      "status": 200
+    },
+    "http://www.widevisiontechnologies.com/healthcare/#iPad": {
+      "status": 200
+    },
+    "http://www.widevisiontechnologies.com/healthcare/#silverlight": {
+      "status": 200
+    },
+    "http://www.widevisiontechnologies.com/healthcare/#": {
+      "status": 200
+    },
+    "http://www.widevisiontechnologies.com/#!": {
+      "status": 200
+    },
+    "http://www.widevisiontechnologies.com/mobility": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.4",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.3",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": null,
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Joomla",
+      "confidence": "100",
+      "version": null,
+      "icon": "Joomla.svg",
+      "website": "https://www.joomla.org",
+      "cpe": "cpe:/a:joomla:joomla",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "MooTools",
+      "confidence": "100",
+      "version": "1.4.5",
+      "icon": "MooTools.png",
+      "website": "https://mootools.net",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-gb"
+  },
+  "website": "http://www.widevisiontechnologies.com",
+  "id": "19205"
+}

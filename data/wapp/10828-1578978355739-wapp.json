@@ -1,0 +1,134 @@
+{
+  "urls": {
+    "http://www.raster-media.net/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "MediaElement.js",
+      "confidence": "100",
+      "version": "2.13.1",
+      "icon": "MediaElement.js.png",
+      "website": "http://www.mediaelementjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Plesk",
+      "confidence": "100",
+      "version": null,
+      "icon": "Plesk.png",
+      "website": "https://www.plesk.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "9": "Hosting Panels"
+        }
+      ]
+    },
+    {
+      "name": "Shopware",
+      "confidence": "100",
+      "version": "4",
+      "icon": "Shopware.png",
+      "website": "https://www.shopware.com",
+      "cpe": null,
+      "categories": [
+        {
+          "6": "Ecommerce"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.7.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.8.20",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Symfony",
+      "confidence": "0",
+      "version": null,
+      "icon": "Symfony.svg",
+      "website": "http://symfony.com",
+      "cpe": null,
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.raster-media.net",
+  "id": "10828"
+}

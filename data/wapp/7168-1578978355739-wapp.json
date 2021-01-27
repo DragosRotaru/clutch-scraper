@@ -1,0 +1,263 @@
+{
+  "urls": {
+    "http://www.d1tech.net/": {
+      "status": 200
+    },
+    "https://www.d1tech.net/blog/how-to-choose-the-best-erp-software-for-small-business?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.1.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/blog/7-signs-you-should-invest-in-cloud-erp-systems?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.1.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-business-one-demos?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.1.1578982493524&__hsfp=3065690341": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.d1tech.net/sap-business-one?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.1.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-business-by-design?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.1.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-business-one?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.2.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-business-by-design?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.2.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-all-in-one?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.2.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-s4-hana?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.2.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-lumira-cloud?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.2.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.2.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/s/4-hana?hsLang=en-us&__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.2.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-analytics-cloud?hsLang=en-us&__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.2.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-concur-app?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.2.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/microsoft-dynamicsgp?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.2.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/privacy-policy-1?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.2.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-all-in-one?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.1.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-s4-hana?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.1.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-lumira-cloud?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.1.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/sap-concur-app?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.1.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.d1tech.net/microsoft-dynamicsgp?__hstc=157713445.4baf59cb582244c968621158c3ddd53f.1578982493524.1578982493524.1578982493524.1&__hssc=157713445.1.1578982493524&__hsfp=3065690341": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.7",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.0",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Linkedin",
+      "confidence": "100",
+      "version": null,
+      "icon": "Linkedin.svg",
+      "website": "http://linkedin.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "animate.css",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://daneden.github.io/animate.css/",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.d1tech.net",
+  "id": "7168"
+}

@@ -1,0 +1,217 @@
+{
+  "urls": {
+    "http://www.innovites.com/": {
+      "status": 200
+    },
+    "http://www.innovites.com/de/": {
+      "status": 200
+    },
+    "http://www.innovites.com/events": {
+      "status": 200
+    },
+    "http://www.innovites.com/blog": {
+      "status": 200
+    },
+    "http://www.innovites.com/news": {
+      "status": 200
+    },
+    "http://www.innovites.com/en/": {
+      "status": 200
+    },
+    "http://www.innovites.com/de/events-de": {
+      "status": 200
+    },
+    "http://www.innovites.com/de/blog-de": {
+      "status": 200
+    },
+    "http://www.innovites.com/de/news-de": {
+      "status": 200
+    },
+    "http://www.innovites.com/de/events": {
+      "status": 200
+    },
+    "http://www.innovites.com/de/blog": {
+      "status": 200
+    },
+    "http://www.innovites.com/de/news": {
+      "status": 200
+    },
+    "http://www.innovites.com/contact": {
+      "status": 200
+    },
+    "http://www.innovites.com/blog#": {
+      "status": 200
+    },
+    "http://www.innovites.com/industry-profile/wire-cable-industry-challenges": {
+      "status": 200
+    },
+    "http://www.innovites.com/events#": {
+      "status": 200
+    },
+    "http://www.innovites.com/de/kontakt": {
+      "status": 200
+    },
+    "http://www.innovites.com/de/#": {
+      "status": 200
+    },
+    "http://www.innovites.com/de/industrie/industrie-herausforderungen": {
+      "status": 200
+    },
+    "http://www.innovites.com/news#": {
+      "status": 200
+    },
+    "http://www.innovites.com/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Chart.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Chart.js.svg",
+      "website": "https://www.chartjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Joomla",
+      "confidence": "100",
+      "version": null,
+      "icon": "Joomla.svg",
+      "website": "https://www.joomla.org",
+      "cpe": "cpe:/a:joomla:joomla",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "TrackJs",
+      "confidence": "100",
+      "version": null,
+      "icon": "TrackJs.png",
+      "website": "http://trackjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "UIKit",
+      "confidence": "100",
+      "version": null,
+      "icon": "UIKit.png",
+      "website": "https://getuikit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "K2",
+      "confidence": "100",
+      "version": null,
+      "icon": "K2.png",
+      "website": "https://getk2.org",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-gb"
+  },
+  "website": "http://www.innovites.com",
+  "id": "9447"
+}

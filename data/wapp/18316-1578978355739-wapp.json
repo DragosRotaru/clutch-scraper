@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "http://www.kiwitech.com/": {
+      "status": 200
+    },
+    "https://www.kiwitech.com/": {
+      "status": 200
+    },
+    "https://www.kiwitech.com/startup-program": {
+      "status": 200
+    },
+    "https://www.kiwitech.com/enterprise-solutions": {
+      "status": 200
+    },
+    "https://www.kiwitech.com/devops": {
+      "status": 200
+    },
+    "https://www.kiwitech.com/aboutus": {
+      "status": 200
+    },
+    "https://www.kiwitech.com/our-team": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.7",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "CodeIgniter",
+      "confidence": "100",
+      "version": null,
+      "icon": "CodeIgniter.png",
+      "website": "http://codeigniter.com",
+      "cpe": "cpe:/a:codeigniter:codeigniter",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Gentoo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Gentoo.png",
+      "website": "http://www.gentoo.org",
+      "cpe": "cpe:/o:gentoo:linux",
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "OpenResty",
+      "confidence": "100",
+      "version": "1.13.6.2",
+      "icon": "OpenResty.png",
+      "website": "http://openresty.org",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.6.17",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.10.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.11.2",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "0",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Lua",
+      "confidence": "0",
+      "version": null,
+      "icon": "Lua.png",
+      "website": "http://www.lua.org",
+      "cpe": "cpe:/a:lua:lua",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.kiwitech.com",
+  "id": "18316"
+}

@@ -1,0 +1,116 @@
+{
+  "urls": {
+    "http://klika-tech.com/": {
+      "status": 200
+    },
+    "https://klika-tech.com/": {
+      "status": 200
+    },
+    "https://klika-tech.com/#menu-nav": {
+      "status": 200
+    },
+    "https://klika-tech.com/what-we-do": {
+      "status": 200
+    },
+    "https://klika-tech.com/how-we-do-it": {
+      "status": 200
+    },
+    "https://klika-tech.com/portfolio": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://klika-tech.com/about-us": {
+      "status": 200
+    },
+    "https://klika-tech.com/contactus": {
+      "status": 200
+    },
+    "https://klika-tech.com/careers": {
+      "status": 200
+    },
+    "https://klika-tech.com/news": {
+      "status": 200
+    },
+    "https://klika-tech.com/blog": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AngularJS",
+      "confidence": "100",
+      "version": null,
+      "icon": "AngularJS.svg",
+      "website": "https://angularjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Linkedin",
+      "confidence": "100",
+      "version": null,
+      "icon": "Linkedin.svg",
+      "website": "http://linkedin.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.13.8",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://klika-tech.com",
+  "id": "16940"
+}

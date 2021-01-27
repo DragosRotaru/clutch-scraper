@@ -1,0 +1,82 @@
+{
+  "urls": {
+    "http://www.49seoservices.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "LiveChat",
+      "confidence": "100",
+      "version": null,
+      "icon": "LiveChat.png",
+      "website": "http://livechatinc.com",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    },
+    {
+      "name": "Unbounce",
+      "confidence": "100",
+      "version": null,
+      "icon": "Unbounce.png",
+      "website": "http://unbounce.com",
+      "cpe": null,
+      "categories": [
+        {
+          "20": "Editors"
+        },
+        {
+          "51": "Landing Page Builders"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.4.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.49seoservices.com",
+  "id": "25065"
+}

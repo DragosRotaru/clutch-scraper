@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.nitrotech.vn/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.nitrotech.vn",
+  "id": "10125"
+}

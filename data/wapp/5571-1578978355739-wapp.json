@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.rmgs.co/": {
+      "status": 500,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.rmgs.co",
+  "id": "5571"
+}

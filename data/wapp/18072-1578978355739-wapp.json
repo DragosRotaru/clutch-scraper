@@ -1,0 +1,56 @@
+{
+  "urls": {
+    "http://dmstat1.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "OpenResty",
+      "confidence": "100",
+      "version": "1.13.6.2",
+      "icon": "OpenResty.png",
+      "website": "http://openresty.org",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "0",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Lua",
+      "confidence": "0",
+      "version": null,
+      "icon": "Lua.png",
+      "website": "http://www.lua.org",
+      "cpe": "cpe:/a:lua:lua",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://dmstat1.com",
+  "id": "18072"
+}

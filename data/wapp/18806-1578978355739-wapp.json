@@ -1,0 +1,34 @@
+{
+  "urls": {
+    "https://tecsynt.com/": {
+      "status": 200
+    },
+    "https://tecsynt.com/cpanel": {
+      "status": 401,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "https://tecsynt.com",
+  "id": "18806"
+}

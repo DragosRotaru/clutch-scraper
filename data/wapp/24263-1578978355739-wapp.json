@@ -1,0 +1,209 @@
+{
+  "urls": {
+    "https://skookum.com/": {
+      "status": 200
+    },
+    "https://skookum.com/#": {
+      "status": 200
+    },
+    "https://skookum.com/services": {
+      "status": 200
+    },
+    "https://skookum.com/work": {
+      "status": 200
+    },
+    "https://skookum.com/blog": {
+      "status": 200
+    },
+    "https://skookum.com/about": {
+      "status": 200
+    },
+    "https://skookum.com/careers": {
+      "status": 200
+    },
+    "https://skookum.com/contact": {
+      "status": 200
+    },
+    "https://skookum.com/services#": {
+      "status": 200
+    },
+    "https://skookum.com/work#": {
+      "status": 200
+    },
+    "https://skookum.com/services/digital-strategy": {
+      "status": 200
+    },
+    "https://skookum.com/case-study/high-point": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Contentful",
+      "confidence": "100",
+      "version": null,
+      "icon": "Contentful.svg",
+      "website": "http://www.contentful.com",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Gatsby",
+      "confidence": "100",
+      "version": "2.9.4",
+      "icon": "Gatsby.svg",
+      "website": "https://www.gatsbyjs.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "57": "Static Site Generator"
+        },
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Netlify",
+      "confidence": "100",
+      "version": null,
+      "icon": "Netlify.svg",
+      "website": "https://www.netlify.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        },
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": null,
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "0",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://skookum.com",
+  "id": "24263"
+}

@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "https://criteriontechs.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "https://criteriontechs.com",
+  "id": "25200"
+}

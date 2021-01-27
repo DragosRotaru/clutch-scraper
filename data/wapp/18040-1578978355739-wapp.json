@@ -1,0 +1,230 @@
+{
+  "urls": {
+    "https://www.periscope.com/": {
+      "status": 200
+    },
+    "https://www.periscope.com/work/": {
+      "status": 200
+    },
+    "https://www.periscope.com/about/": {
+      "status": 200
+    },
+    "https://www.periscope.com/news/": {
+      "status": 200
+    },
+    "https://www.periscope.com/clients/": {
+      "status": 200
+    },
+    "https://www.periscope.com/careers/": {
+      "status": 200
+    },
+    "https://www.periscope.com/contact/": {
+      "status": 200
+    },
+    "https://www.periscope.com/work/a-hometown-hero-that-protects-home-towners-like-no-other/": {
+      "status": 200
+    },
+    "https://www.periscope.com/work/odds-were-minnesotans-didnt-know-where-lottery-money-was-being-spent/": {
+      "status": 200
+    },
+    "https://www.periscope.com/capabilities/": {
+      "status": 200
+    },
+    "https://www.periscope.com/news/hairless-dog-brewing-win/": {
+      "status": 200
+    },
+    "https://www.periscope.com/news/nfl-star-jared-allen/": {
+      "status": 200
+    },
+    "https://www.periscope.com/news/periscope-creates-2020-calendar-dedicated-to-agency-dogs/": {
+      "status": 200
+    },
+    "https://www.periscope.com/work/target/": {
+      "status": 200
+    },
+    "https://www.periscope.com/work/basf-dirt-road/": {
+      "status": 200
+    },
+    "https://www.periscope.com/work/tiny-package-huge-release/": {
+      "status": 200
+    },
+    "https://www.periscope.com/#do": {
+      "status": 200
+    },
+    "https://www.periscope.com/#things": {
+      "status": 200
+    },
+    "https://www.periscope.com/#people": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Crazy Egg",
+      "confidence": "100",
+      "version": null,
+      "icon": "Crazy Egg.png",
+      "website": "http://crazyegg.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Optimizely",
+      "confidence": "100",
+      "version": null,
+      "icon": "Optimizely.png",
+      "website": "https://www.optimizely.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "WP Engine",
+      "confidence": "100",
+      "version": null,
+      "icon": "wpengine.svg",
+      "website": "https://wpengine.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "12.3",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://www.periscope.com",
+  "id": "18040"
+}

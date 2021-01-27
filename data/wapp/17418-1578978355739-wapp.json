@@ -1,0 +1,158 @@
+{
+  "urls": {
+    "http://www.capturesage.com/": {
+      "status": 200
+    },
+    "https://www.capturesage.com/": {
+      "status": 200
+    },
+    "https://www.capturesage.com/about-capture-sage/who-we-are": {
+      "status": 200
+    },
+    "https://www.capturesage.com/about-capture-sage/what-we-do": {
+      "status": 200
+    },
+    "https://www.capturesage.com/about-capture-sage/why-capture-sage": {
+      "status": 200
+    },
+    "https://www.capturesage.com/about-capture-sage/industries-served": {
+      "status": 200
+    },
+    "https://www.capturesage.com/about-capture-sage/client-list": {
+      "status": 200
+    },
+    "https://www.capturesage.com/about-capture-sage/contact-capture-sage": {
+      "status": 200
+    },
+    "https://www.capturesage.com/services/captiva-consulting": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": null,
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Joomla",
+      "confidence": "100",
+      "version": null,
+      "icon": "Joomla.svg",
+      "website": "https://www.joomla.org",
+      "cpe": "cpe:/a:joomla:joomla",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "MooTools",
+      "confidence": "100",
+      "version": "1.4.5",
+      "icon": "MooTools.png",
+      "website": "https://mootools.net",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "SiteGround",
+      "confidence": "100",
+      "version": null,
+      "icon": "siteground.svg",
+      "website": "https://www.siteground.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-gb"
+  },
+  "website": "http://www.capturesage.com",
+  "id": "17418"
+}

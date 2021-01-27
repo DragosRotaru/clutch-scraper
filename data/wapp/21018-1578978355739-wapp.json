@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "http://lamia.fi/": {
+      "status": 200
+    },
+    "https://lamia.fi/palvelut/kaytettavyys-ja-design": {
+      "status": 200
+    },
+    "https://lamia.fi/palvelut/palvelumuotoilu": {
+      "status": 200
+    },
+    "https://lamia.fi/palvelut/ui-ja-ux-suunnittelu": {
+      "status": 200
+    },
+    "https://lamia.fi/palvelut/visuaalinen-suunnittelu": {
+      "status": 200
+    },
+    "https://lamia.fi/palvelut/ohjelmistokehitys": {
+      "status": 200
+    },
+    "https://lamia.fi/palvelut/ohjelmistokehitys/magento-2": {
+      "status": 200
+    },
+    "https://lamia.fi/palvelut/integraatiot": {
+      "status": 200
+    },
+    "https://lamia.fi/palvelut/jarjestelmakehitys": {
+      "status": 200
+    },
+    "https://lamia.fi/palvelut/pilvipalvelut": {
+      "status": 200
+    },
+    "https://lamia.fi/palvelut/mikropalvelut": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Vue.js.png",
+      "website": "http://vuejs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Nuxt.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nuxt.js.svg",
+      "website": "https://nuxtjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Babel",
+      "confidence": "100",
+      "version": null,
+      "icon": "Babel.svg",
+      "website": "https://babeljs.io",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Typekit",
+      "confidence": "100",
+      "version": "1.19.2",
+      "icon": "Typekit.png",
+      "website": "http://typekit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "fi"
+  },
+  "website": "http://lamia.fi",
+  "id": "21018"
+}

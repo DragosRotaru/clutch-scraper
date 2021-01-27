@@ -1,0 +1,53 @@
+{
+  "urls": {
+    "http://raildigital.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Fastly",
+      "confidence": "100",
+      "version": null,
+      "icon": "Fastly.svg",
+      "website": "https://www.fastly.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Varnish",
+      "confidence": "100",
+      "version": null,
+      "icon": "Varnish.svg",
+      "website": "http://www.varnish-cache.org",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://raildigital.com",
+  "id": "21865"
+}

@@ -1,0 +1,30 @@
+{
+  "urls": {
+    "http://www.trendsetterz.co.in/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.trendsetterz.co.in",
+  "id": "3039"
+}

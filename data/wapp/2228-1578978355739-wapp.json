@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://aldente.global/": {
+      "status": 403,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://aldente.global",
+  "id": "2228"
+}

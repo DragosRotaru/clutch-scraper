@@ -1,0 +1,128 @@
+{
+  "urls": {
+    "http://www.businessdataminers.com/": {
+      "status": 200
+    },
+    "http://www.businessdataminers.com/blog/": {
+      "status": 200
+    },
+    "http://www.businessdataminers.com/blog/?p=195": {
+      "status": 200
+    },
+    "http://www.businessdataminers.com/blog/#_ftn1": {
+      "status": 200
+    },
+    "http://www.businessdataminers.com/blog/#_ftn2": {
+      "status": 200
+    },
+    "http://www.businessdataminers.com/blog/#_ftnref1": {
+      "status": 200
+    },
+    "http://www.businessdataminers.com/blog/#_ftnref2": {
+      "status": 200
+    },
+    "http://www.businessdataminers.com/blog/?cat=29": {
+      "status": 200
+    },
+    "http://www.businessdataminers.com/blog/?p=195#respond": {
+      "status": 200
+    },
+    "http://www.businessdataminers.com/blog/?p=186": {
+      "status": 200
+    },
+    "http://www.businessdataminers.com/blog/?cat=1": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.14.1",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Twitter Emoji (Twemoji)",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://twitter.github.io/twemoji/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "5.2.5",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.businessdataminers.com",
+  "id": "18157"
+}

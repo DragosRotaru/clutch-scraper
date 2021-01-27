@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.brownbox.net.au/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.brownbox.net.au",
+  "id": "17856"
+}

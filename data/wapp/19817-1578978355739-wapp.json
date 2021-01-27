@@ -1,0 +1,227 @@
+{
+  "urls": {
+    "http://www.educowebdesign.com/": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/#show-menu": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/custom-web-design": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/portfolio": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/about-educo-web-design": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/contact-educo": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/web-design": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/web-development": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/blog/insights/creating-goals-google-analytics": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/custom-web-design#show-menu": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/about-educo-web-design#show-menu": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/portfolio#show-menu": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/website-consulting": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/website-planning": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/about-educo-web-design#inline-4": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/about-educo-web-design/marty-vernon": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/about-educo-web-design#inline-6": {
+      "status": 200
+    },
+    "https://www.educowebdesign.com/portfolio#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Crazy Egg",
+      "confidence": "100",
+      "version": null,
+      "icon": "Crazy Egg.png",
+      "website": "http://crazyegg.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Drupal",
+      "confidence": "100",
+      "version": "7",
+      "icon": "Drupal.svg",
+      "website": "https://drupal.org",
+      "cpe": "cpe:/a:drupal:drupal",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Pantheon",
+      "confidence": "100",
+      "version": null,
+      "icon": "pantheon.svg",
+      "website": "https://pantheon.io/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "Varnish",
+      "confidence": "100",
+      "version": null,
+      "icon": "Varnish.svg",
+      "website": "http://www.varnish-cache.org",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.8.3",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MariaDB",
+      "confidence": "0",
+      "version": null,
+      "icon": "mariadb.svg",
+      "website": "https://mariadb.org",
+      "cpe": "cpe:/a:mariadb_project:mariadb",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.educowebdesign.com",
+  "id": "19817"
+}

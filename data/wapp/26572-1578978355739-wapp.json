@@ -1,0 +1,220 @@
+{
+  "urls": {
+    "https://www.linkedin.com/": {
+      "status": 200
+    },
+    "https://www.linkedin.com/?trk=guest_homepage-basic_nav-header-logo": {
+      "status": 200
+    },
+    "https://www.linkedin.com/start/join?trk=guest_homepage-basic_nav-header-join": {
+      "status": 303,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin": {
+      "status": 200
+    },
+    "https://www.linkedin.com/uas/request-password-reset?trk=guest_homepage-basic_forgot_password": {
+      "status": 200
+    },
+    "https://www.linkedin.com/jobs/engineering-jobs-oakville-on?trk=homepage-basic_suggested-search": {
+      "status": 200
+    },
+    "https://www.linkedin.com/jobs/business-development-jobs-oakville-on?trk=homepage-basic_suggested-search": {
+      "status": 200
+    },
+    "https://www.linkedin.com/jobs/finance-jobs-oakville-on?trk=homepage-basic_suggested-search": {
+      "status": 200
+    },
+    "https://www.linkedin.com/jobs/administrative-assistant-jobs-oakville-on?trk=homepage-basic_suggested-search": {
+      "status": 200
+    },
+    "https://www.linkedin.com/jobs/retail-associate-jobs-oakville-on?trk=homepage-basic_suggested-search": {
+      "status": 200
+    },
+    "https://www.linkedin.com/jobs/customer-service-jobs-oakville-on?trk=homepage-basic_suggested-search": {
+      "status": 200
+    },
+    "https://www.linkedin.com/checkpoint/rp/request-password-reset": {
+      "status": 200
+    },
+    "https://www.linkedin.com/start/join": {
+      "status": 303,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.linkedin.com/legal/user-agreement?trk=d_checkpoint_lg_consumerLogin_ft_user_agreement": {
+      "status": 200
+    },
+    "https://www.linkedin.com/legal/privacy-policy?trk=d_checkpoint_lg_consumerLogin_ft_privacy_policy": {
+      "status": 200
+    },
+    "https://www.linkedin.com/legal/cookie-policy?trk=d_checkpoint_lg_consumerLogin_ft_cookie_policy": {
+      "status": 200
+    },
+    "https://www.linkedin.com/uas/login?trk=hb_signin": {
+      "status": 200
+    },
+    "https://www.linkedin.com/uas/login?trk=reset_password": {
+      "status": 200
+    },
+    "https://www.linkedin.com/legal/user-agreement?trk=d_checkpoint_rp_requestPasswordReset_ft_user_agreement": {
+      "status": 200
+    },
+    "https://www.linkedin.com/legal/privacy-policy?trk=d_checkpoint_rp_requestPasswordReset_ft_privacy_policy": {
+      "status": 200
+    },
+    "https://www.linkedin.com/?trk=guest_job_search_nav-header-logo": {
+      "status": 200
+    },
+    "https://www.linkedin.com/start/join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fengineering-jobs-oakville-on%3Ftrk%3Dhomepage-basic_suggested-search&trk=guest_job_search_nav-header-join": {
+      "status": 200
+    },
+    "https://www.linkedin.com/uas/login?emailAddress=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fengineering-jobs-oakville-on%3Ftrk%3Dhomepage-basic_suggested-search&trk=guest_job_search_nav-header-signin": {
+      "status": 200
+    },
+    "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fjobs%2Fengineering-jobs-oakville-on%3Ftrk%3Dhomepage-basic_suggested-search&amp;emailAddress=&amp;fromSignIn=&trk=guest_job_search_sign-in-hidden-module": {
+      "status": 200
+    },
+    "https://www.linkedin.com/company/uber-com?trk=guest_job_search_job-result-card_result-card_subtitle-click": {
+      "status": 999,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.linkedin.com/legal/copyright-policy?trk=d_checkpoint_lg_consumerLogin_ft_copyright_policy": {
+      "status": 200
+    },
+    "https://www.linkedin.com/legal/cookie-policy?trk=d_checkpoint_rp_requestPasswordReset_ft_cookie_policy": {
+      "status": 200
+    },
+    "https://www.linkedin.com/legal/copyright-policy?trk=d_checkpoint_rp_requestPasswordReset_ft_copyright_policy": {
+      "status": 200
+    },
+    "https://www.linkedin.com/company/bolt-com?trk=guest_job_search_job-result-card_result-card_subtitle-click": {
+      "status": 999,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.linkedin.com/company/g&w-electric-co-?trk=guest_job_search_job-result-card_result-card_subtitle-click": {
+      "status": 999,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.linkedin.com/company/bcg-digital-ventures?trk=guest_job_search_job-result-card_result-card_subtitle-click": {
+      "status": 999,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.linkedin.com/company/vice-media?trk=guest_job_search_job-result-card_result-card_subtitle-click": {
+      "status": 999,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.linkedin.com/company/capital-one?trk=guest_job_search_job-result-card_result-card_subtitle-click": {
+      "status": 999,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Java",
+      "confidence": "100",
+      "version": null,
+      "icon": "Java.png",
+      "website": "http://java.com",
+      "cpe": null,
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "YUI",
+      "confidence": "100",
+      "version": "2.8.1",
+      "icon": "YUI.png",
+      "website": "http://yuilibrary.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "comScore",
+      "confidence": "100",
+      "version": null,
+      "icon": "comScore.png",
+      "website": "http://comscore.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.1.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.linkedin.com",
+  "id": "26572"
+}

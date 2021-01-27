@@ -1,0 +1,144 @@
+{
+  "urls": {
+    "https://www.cyber-duck.co.uk/": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/#main_content": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/#topsearch": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/how-we-work": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/how-we-work/user-experience": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/how-we-work/technology": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/how-we-work/branding": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/how-we-work/marketing": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/how-we-work/digital-transformation": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/client-stories": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/how-we-work#main_content": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/how-we-work#topsearch": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/how-we-work/user-experience#main_content": {
+      "status": 200
+    },
+    "https://www.cyber-duck.co.uk/how-we-work/user-experience#topsearch": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Clipboard.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Clipboard.js.svg",
+      "website": "https://clipboardjs.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Element UI",
+      "confidence": "100",
+      "version": null,
+      "icon": "ElementUI.svg",
+      "website": "https://element.eleme.io/",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-GB"
+  },
+  "website": "https://www.cyber-duck.co.uk",
+  "id": "10293"
+}

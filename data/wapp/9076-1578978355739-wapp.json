@@ -1,0 +1,151 @@
+{
+  "urls": {
+    "http://www.prodware-group.com/": {
+      "status": 200
+    },
+    "https://www.prodware-group.com/fr/accueil": {
+      "status": 200
+    },
+    "https://www.prodware-group.com/en/home": {
+      "status": 200
+    },
+    "https://www.prodware-group.com/en/sustainable-development": {
+      "status": 200
+    },
+    "https://www.prodware-group.com/en/press/press-releases": {
+      "status": 200
+    },
+    "https://www.prodware-group.com/en/investor-key-figures": {
+      "status": 200
+    },
+    "https://www.prodware-group.com/en/about-prodware": {
+      "status": 200
+    },
+    "https://www.prodware-group.com/": {
+      "status": 200
+    },
+    "https://www.prodware-group.com/fr/developpement-durable": {
+      "status": 200
+    },
+    "https://www.prodware-group.com/fr/investisseurs-fr/chiffres-cles": {
+      "status": 200
+    },
+    "https://www.prodware-group.com/fr/soc/presentation": {
+      "status": 200
+    },
+    "https://www.prodware-group.com/fr/presse/communiques-de-presse": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "100",
+      "version": "8.5",
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.3.28",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "SWFObject",
+      "confidence": "100",
+      "version": null,
+      "icon": "SWFObject.png",
+      "website": "https://github.com/swfobject/swfobject",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.9.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "Google Charts",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Charts.png",
+      "website": "http://developers.google.com/chart/",
+      "cpe": null,
+      "categories": [
+        {
+          "25": "JavaScript Graphics"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "fr-FR"
+  },
+  "website": "http://www.prodware-group.com",
+  "id": "9076"
+}

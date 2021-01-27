@@ -1,0 +1,218 @@
+{
+  "urls": {
+    "https://murmurcreative.com/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/about-us": {
+      "status": 200
+    },
+    "https://murmurcreative.com/team/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/work/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://murmurcreative.com/services/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/blog/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/contact/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/contact": {
+      "status": 200
+    },
+    "https://murmurcreative.com/services/branding/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/brand-strategy/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/services/naming/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/services/logo/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/team/andrew-bolton/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/team/mary-nichols/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/team/chris-bolton/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/work": {
+      "status": 200
+    },
+    "https://murmurcreative.com/work/pipcorn-snacks/": {
+      "status": 200
+    },
+    "https://murmurcreative.com/work/oh-planning": {
+      "status": 200
+    },
+    "https://murmurcreative.com/work/hillsboro-aviation/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "MailChimp",
+      "confidence": "100",
+      "version": null,
+      "icon": "mailchimp.svg",
+      "website": "http://mailchimp.com",
+      "cpe": "cpe:/a:thinkshout:mailchimp",
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Twitter Emoji (Twemoji)",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://twitter.github.io/twemoji/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "5.1",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "9.7",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Kinsta",
+      "confidence": "100",
+      "version": null,
+      "icon": "kinsta.svg",
+      "website": "https://kinsta.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Gravity Forms",
+      "confidence": "100",
+      "version": null,
+      "icon": "gravityforms.svg",
+      "website": "http://gravityforms.com",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://murmurcreative.com",
+  "id": "22299"
+}

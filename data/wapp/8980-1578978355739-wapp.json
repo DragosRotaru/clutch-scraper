@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "https://radiusintel.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "https://radiusintel.com",
+  "id": "8980"
+}

@@ -1,0 +1,119 @@
+{
+  "urls": {
+    "http://www.hackaholicit.com/": {
+      "status": 200
+    },
+    "http://www.hackaholicit.com/#home_page": {
+      "status": 200
+    },
+    "http://www.hackaholicit.com/#geekyfarm": {
+      "status": 200
+    },
+    "http://www.hackaholicit.com/#portfolio": {
+      "status": 200
+    },
+    "http://www.hackaholicit.com/#our_team": {
+      "status": 200
+    },
+    "http://www.hackaholicit.com/#Serving": {
+      "status": 200
+    },
+    "http://www.hackaholicit.com/#our_clints": {
+      "status": 200
+    },
+    "http://www.hackaholicit.com/#join": {
+      "status": 200
+    },
+    "http://www.hackaholicit.com/#": {
+      "status": 200
+    },
+    "http://www.hackaholicit.com/#contact_us": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "FlexSlider",
+      "confidence": "100",
+      "version": null,
+      "icon": "FlexSlider.png",
+      "website": "https://woocommerce.com/flexslider/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.5.3",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.8.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.hackaholicit.com",
+  "id": "20874"
+}

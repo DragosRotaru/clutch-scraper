@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.d-wits.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.d-wits.com",
+  "id": "17499"
+}

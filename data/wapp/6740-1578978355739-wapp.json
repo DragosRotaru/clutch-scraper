@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.c3biz.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.c3biz.com",
+  "id": "6740"
+}

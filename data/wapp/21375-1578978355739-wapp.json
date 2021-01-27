@@ -1,0 +1,179 @@
+{
+  "urls": {
+    "https://user10.com/": {
+      "status": 200
+    },
+    "https://user10.com/work": {
+      "status": 200
+    },
+    "https://user10.com/services-process": {
+      "status": 200
+    },
+    "https://user10.com/about": {
+      "status": 200
+    },
+    "https://user10.com/careers": {
+      "status": 200
+    },
+    "https://user10.com/contact": {
+      "status": 200
+    },
+    "https://user10.com/case-studies/georgian-partners-wordpress-website": {
+      "status": 200
+    },
+    "https://user10.com/case-studies/star-worldwide-networks-podcast-application": {
+      "status": 200
+    },
+    "https://user10.com/case-studies/dell-emc-scale-to-the-summit-application": {
+      "status": 200
+    },
+    "https://user10.com/case-studies/microage-wordpress-website": {
+      "status": 200
+    },
+    "https://user10.com/services-process#": {
+      "status": 200
+    },
+    "https://user10.com/privacy-policy": {
+      "status": 200
+    },
+    "https://user10.com/careers/ux-ui-visual-designer": {
+      "status": 200
+    },
+    "https://user10.com/careers/back-end-developer-laravel": {
+      "status": 200
+    },
+    "https://user10.com/careers/front-end-developer": {
+      "status": 200
+    },
+    "https://user10.com/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AdRoll",
+      "confidence": "100",
+      "version": null,
+      "icon": "AdRoll.svg",
+      "website": "http://adroll.com",
+      "cpe": null,
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Intercom",
+      "confidence": "100",
+      "version": null,
+      "icon": "Intercom.png",
+      "website": "https://www.intercom.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.15.8",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "scrollreveal",
+      "confidence": "100",
+      "version": null,
+      "icon": "scrollreveal.svg",
+      "website": "https://scrollrevealjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://user10.com",
+  "id": "21375"
+}

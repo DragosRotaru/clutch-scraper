@@ -1,0 +1,53 @@
+{
+  "urls": {
+    "http://iiui.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "DreamWeaver",
+      "confidence": "100",
+      "version": null,
+      "icon": "DreamWeaver.png",
+      "website": "https://www.adobe.com/products/dreamweaver.html",
+      "cpe": "cpe:/a:adobe:dreamweaver",
+      "categories": [
+        {
+          "20": "Editors"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.4.45",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://iiui.com",
+  "id": "17473"
+}

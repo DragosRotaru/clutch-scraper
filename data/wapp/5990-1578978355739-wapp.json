@@ -1,0 +1,136 @@
+{
+  "urls": {
+    "http://sterndmb.com/": {
+      "status": 200
+    },
+    "https://sterndmb.com/": {
+      "status": 200
+    },
+    "https://sterndmb.com/seo%e3%81%ab%e8%8b%a6%e6%88%a6%e3%81%99%e3%82%8b%e3%81%aa%e3%82%89%e6%96%b0%e3%81%9f%e3%81%aa%e9%9b%86%e5%ae%a2%e6%89%8b%e6%ae%b5%e3%82%92%e7%a2%ba%e4%bf%9d%e3%81%99%e3%81%b9%e3%81%97/": {
+      "status": 200
+    },
+    "https://sterndmb.com/%e4%b8%ad%e5%8f%a4%e3%83%89%e3%83%a1%e3%82%a4%e3%83%b3%e3%81%ab%e8%88%88%e5%91%b3%e3%81%8c%e3%81%82%e3%82%8b%e3%81%aa%e3%82%89%e3%81%be%e3%81%9a%e3%81%af%e5%9f%ba%e7%a4%8e%e7%9f%a5%e8%ad%98%e3%82%92/": {
+      "status": 200
+    },
+    "https://sterndmb.com/%e7%99%ba%e3%83%aa%e3%83%b3%e3%82%af%e3%81%ab%e6%8a%b5%e6%8a%97%e3%81%8c%e3%81%82%e3%82%8b%e4%ba%ba%e3%81%ab%e7%9f%a5%e3%81%a3%e3%81%a6%e3%82%82%e3%82%89%e3%81%84%e3%81%9f%e3%81%84%e3%81%93%e3%81%a8/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.12.2",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "7.2.26",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "11.7",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://sterndmb.com",
+  "id": "5990"
+}

@@ -1,0 +1,240 @@
+{
+  "urls": {
+    "http://www.altoros.com/": {
+      "status": 200
+    },
+    "https://www.altoros.com/#": {
+      "status": 200
+    },
+    "https://www.altoros.com/#serviceCollapse": {
+      "status": 200
+    },
+    "https://www.altoros.com/#CFCollapseWrap": {
+      "status": 200
+    },
+    "https://www.altoros.com/cloud-foundry-enablement": {
+      "status": 200
+    },
+    "https://www.altoros.com/cloud-foundry-support": {
+      "status": 200
+    },
+    "https://www.altoros.com/ibm-cloud-foundry-migration": {
+      "status": 200
+    },
+    "https://www.altoros.com/ibm-cloud-foundry-managed-services": {
+      "status": 200
+    },
+    "https://www.altoros.com/#KUBCollapseWrap": {
+      "status": 200
+    },
+    "https://www.altoros.com/kubernetes-consulting": {
+      "status": 200
+    },
+    "https://www.altoros.com/kubernetes-implementation": {
+      "status": 200
+    },
+    "https://www.altoros.com/cloud-foundry-enablement#": {
+      "status": 200
+    },
+    "https://www.altoros.com/cloud-foundry-enablement#serviceCollapse": {
+      "status": 200
+    },
+    "https://www.altoros.com/cloud-foundry-enablement#CFCollapseWrap": {
+      "status": 200
+    },
+    "https://www.altoros.com/cloud-foundry-support#": {
+      "status": 200
+    },
+    "https://www.altoros.com/cloud-foundry-support#serviceCollapse": {
+      "status": 200
+    },
+    "https://www.altoros.com/cloud-foundry-support#CFCollapseWrap": {
+      "status": 200
+    },
+    "https://www.altoros.com/cloud-foundry-enablement#KUBCollapseWrap": {
+      "status": 200
+    },
+    "https://www.altoros.com/cloud-foundry-support#KUBCollapseWrap": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AdRoll",
+      "confidence": "100",
+      "version": null,
+      "icon": "AdRoll.svg",
+      "website": "http://adroll.com",
+      "cpe": null,
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "4.3.1",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Laravel",
+      "confidence": "100",
+      "version": null,
+      "icon": "Laravel.svg",
+      "website": "https://laravel.com",
+      "cpe": "cpe:/a:laravel:laravel",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.14.1",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Polyfill",
+      "confidence": "100",
+      "version": null,
+      "icon": "polyfill.svg",
+      "website": "https://polyfill.io",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Select2",
+      "confidence": "100",
+      "version": null,
+      "icon": "Select2.png",
+      "website": "https://select2.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": "1.8.1",
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.altoros.com",
+  "id": "19430"
+}

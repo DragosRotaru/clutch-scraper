@@ -1,0 +1,93 @@
+{
+  "urls": {
+    "http://www.aeegle.com/": {
+      "status": 200
+    },
+    "http://www.aeegle.com/home": {
+      "status": 200
+    },
+    "http://www.aeegle.com/services": {
+      "status": 200
+    },
+    "http://www.aeegle.com/services/google-apps-deployment": {
+      "status": 200
+    },
+    "http://www.aeegle.com/services/google-apps-development": {
+      "status": 200
+    },
+    "http://www.aeegle.com/services/cloud-development": {
+      "status": 200
+    },
+    "http://www.aeegle.com/services/google-sites-development": {
+      "status": 200
+    },
+    "http://www.aeegle.com/services/cloud-solutions": {
+      "status": 200
+    },
+    "http://www.aeegle.com/training": {
+      "status": 200
+    },
+    "http://www.aeegle.com/services/google-apps-enterprise-support": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Plus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Plus.svg",
+      "website": "http://plus.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "OpenGSE",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google.svg",
+      "website": "http://code.google.com/p/opengse",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Java",
+      "confidence": "0",
+      "version": null,
+      "icon": "Java.png",
+      "website": "http://java.com",
+      "cpe": null,
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.aeegle.com",
+  "id": "15563"
+}

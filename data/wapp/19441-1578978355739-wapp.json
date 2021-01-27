@@ -1,0 +1,129 @@
+{
+  "urls": {
+    "http://mercury.io/": {
+      "status": 200
+    },
+    "https://mercury.io/": {
+      "status": 200
+    },
+    "https://mercury.io/about": {
+      "status": 200
+    },
+    "https://mercury.io/#home-ourwork": {
+      "status": 200
+    },
+    "https://mercury.io/contact": {
+      "status": 200
+    },
+    "https://mercury.io/red-bull-tv": {
+      "status": 200
+    },
+    "https://mercury.io/privacy-policy": {
+      "status": 200
+    },
+    "https://mercury.io/about#home-ourwork": {
+      "status": 200
+    },
+    "https://mercury.io/contact#home-ourwork": {
+      "status": 200
+    },
+    "https://mercury.io/red-bull-tv#home-ourwork": {
+      "status": 200
+    },
+    "https://mercury.io/ted": {
+      "status": 200
+    },
+    "https://mercury.io/xfinity-home": {
+      "status": 200
+    },
+    "https://mercury.io/panasonic": {
+      "status": 200
+    },
+    "https://mercury.io/xfinity-stream": {
+      "status": 200
+    },
+    "https://mercury.io/urbn": {
+      "status": 200
+    },
+    "https://mercury.io/epb": {
+      "status": 200
+    },
+    "https://mercury.io/ted#home-ourwork": {
+      "status": 200
+    },
+    "https://mercury.io/xfinity-home#home-ourwork": {
+      "status": 200
+    },
+    "https://mercury.io/panasonic#home-ourwork": {
+      "status": 200
+    },
+    "https://mercury.io/xfinity-stream#home-ourwork": {
+      "status": 200
+    },
+    "https://mercury.io/urbn#home-ourwork": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AngularJS",
+      "confidence": "100",
+      "version": "1.7.9",
+      "icon": "AngularJS.svg",
+      "website": "https://angularjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": "5.7.2",
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://mercury.io",
+  "id": "19441"
+}

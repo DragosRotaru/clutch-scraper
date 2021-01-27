@@ -1,0 +1,254 @@
+{
+  "urls": {
+    "http://www.spmarketplace.com/": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/#": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/digital-workplace-365-blog-series-part-1-the-need-for-a-digital-workplace-on-office-365": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/the-hidden-issue-of-siloed-departments-and-organic-it-chaos": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/the-impact-of-organic-it-on-employee-productivity": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/digital-workplace-365-blog-series-part-1-the-need-for-a-digital-workplace-on-office-365#": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/digital-workplace-365-blog-series-part-1-the-need-for-a-digital-workplace-on-office-365#comments": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/putting-office-365-to-work-through-an-operational-portal-structure": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/store/checkout?cart=": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/the-impact-of-organic-it-on-employee-productivity#": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/the-impact-of-organic-it-on-employee-productivity#comments": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/the-hidden-issue-of-siloed-departments-and-organic-it-chaos#": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/the-hidden-issue-of-siloed-departments-and-organic-it-chaos#comments": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/archives/09-2019": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/archives/06-2019": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/archives/05-2019": {
+      "status": 200
+    },
+    "https://www.spmarketplace.com/digital-workplace-blog/archives/04-2019": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google AdSense",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google AdSense.svg",
+      "website": "https://www.google.fr/adsense/start/",
+      "cpe": null,
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Quantcast",
+      "confidence": "100",
+      "version": null,
+      "icon": "Quantcast.png",
+      "website": "http://www.quantcast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Stripe",
+      "confidence": "100",
+      "version": null,
+      "icon": "Stripe.png",
+      "website": "http://stripe.com",
+      "cpe": null,
+      "categories": [
+        {
+          "41": "Payment Processors"
+        }
+      ]
+    },
+    {
+      "name": "Weebly",
+      "confidence": "100",
+      "version": null,
+      "icon": "Weebly.png",
+      "website": "https://www.weebly.com",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.8.3",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.spmarketplace.com",
+  "id": "16932"
+}

@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.acadon.de/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.acadon.de",
+  "id": "9078"
+}

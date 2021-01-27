@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.apptivation.co.uk/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.apptivation.co.uk",
+  "id": "16634"
+}

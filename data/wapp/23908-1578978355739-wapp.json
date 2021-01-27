@@ -1,0 +1,189 @@
+{
+  "urls": {
+    "https://www.iweb.co.uk/": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/services/": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/why-magento/": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/magento-commerce/": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/b2b-commerce/": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/privacy-policy": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/akeneo-pim/": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/digital-solutions/": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/digital-strategy/": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/why-magento/#": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/magento-commerce/#": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/service/user-experience/": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/b2b-commerce/#": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/services/#": {
+      "status": 200
+    },
+    "https://www.iweb.co.uk/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "MailChimp",
+      "confidence": "100",
+      "version": null,
+      "icon": "mailchimp.svg",
+      "website": "http://mailchimp.com",
+      "cpe": "cpe:/a:thinkshout:mailchimp",
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Optimizely",
+      "confidence": "100",
+      "version": null,
+      "icon": "Optimizely.png",
+      "website": "https://www.optimizely.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Twitter Emoji (Twemoji)",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://twitter.github.io/twemoji/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.9.0",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-GB"
+  },
+  "website": "https://www.iweb.co.uk",
+  "id": "23908"
+}

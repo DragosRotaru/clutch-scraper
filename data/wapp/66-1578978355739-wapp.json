@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.ngbm.net/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.ngbm.net",
+  "id": "66"
+}

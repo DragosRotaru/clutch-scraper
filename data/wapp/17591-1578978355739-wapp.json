@@ -1,0 +1,132 @@
+{
+  "urls": {
+    "http://www.mdtit.com/": {
+      "status": 200
+    },
+    "http://www.mdtit.com/Index/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.mdtit.com/zh/index": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.mdtit.com/index": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.mdtit.com/Index/Company": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.mdtit.com/Index/Company/cert": {
+      "status": 200
+    },
+    "http://www.mdtit.com/Index/Company/Hist": {
+      "status": 200
+    },
+    "http://www.mdtit.com/Index/Company/Contact": {
+      "status": 200
+    },
+    "http://www.mdtit.com/Index/Services": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "http://www.mdtit.com/index/company/cert": {
+      "status": 200
+    },
+    "http://www.mdtit.com/index/company/hist": {
+      "status": 200
+    },
+    "http://www.mdtit.com/index/company/contact": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "DreamWeaver",
+      "confidence": "100",
+      "version": null,
+      "icon": "DreamWeaver.png",
+      "website": "https://www.adobe.com/products/dreamweaver.html",
+      "cpe": "cpe:/a:adobe:dreamweaver",
+      "categories": [
+        {
+          "20": "Editors"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "100",
+      "version": "8.0",
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": "4.0.30319",
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "cpe": "cpe:/a:microsoft:asp.net",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.6.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.mdtit.com",
+  "id": "17591"
+}

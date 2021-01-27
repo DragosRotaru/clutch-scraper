@@ -1,0 +1,129 @@
+{
+  "urls": {
+    "https://www.ibeehosting.com/": {
+      "status": 200
+    },
+    "https://www.ibeehosting.com/googleapps/": {
+      "status": 200
+    },
+    "https://www.ibeehosting.com/blog/": {
+      "status": 200
+    },
+    "https://www.ibeehosting.com/googleapps/User/signup/": {
+      "status": 500,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.ibeehosting.com/blog/page/2": {
+      "status": 200
+    },
+    "https://www.ibeehosting.com/blog/blogging-tips": {
+      "status": 200
+    },
+    "https://www.ibeehosting.com/blog/web-hosting/control-panels": {
+      "status": 200
+    },
+    "https://www.ibeehosting.com/blog/dedicated-servers": {
+      "status": 200
+    },
+    "https://www.ibeehosting.com/blog/domain-names": {
+      "status": 200
+    },
+    "https://www.ibeehosting.com/blog/social-media/facebook": {
+      "status": 200
+    },
+    "https://www.ibeehosting.com/blog/general-news": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "W3 Total Cache",
+      "confidence": "100",
+      "version": "0.12.0",
+      "icon": "W3 Total Cache.png",
+      "website": "http://www.w3-edge.com/wordpress-plugins/w3-total-cache",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": null,
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://www.ibeehosting.com",
+  "id": "15506"
+}

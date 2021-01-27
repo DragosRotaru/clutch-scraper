@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.gapconsulting.co.uk/": {
+      "status": 500,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.gapconsulting.co.uk",
+  "id": "9191"
+}

@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.vsplc.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.vsplc.com",
+  "id": "1633"
+}

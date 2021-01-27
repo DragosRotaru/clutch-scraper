@@ -1,0 +1,163 @@
+{
+  "urls": {
+    "http://www.imagescape.com/": {
+      "status": 200
+    },
+    "https://www.imagescape.com/#main": {
+      "status": 200
+    },
+    "https://www.imagescape.com/": {
+      "status": 200
+    },
+    "https://www.imagescape.com/#": {
+      "status": 200
+    },
+    "https://www.imagescape.com/client-work/": {
+      "status": 200
+    },
+    "https://www.imagescape.com/django/": {
+      "status": 200
+    },
+    "https://www.imagescape.com/design/": {
+      "status": 200
+    },
+    "https://www.imagescape.com/website-accessibility-compliance/": {
+      "status": 200
+    },
+    "https://www.imagescape.com/blog/": {
+      "status": 200
+    },
+    "https://www.imagescape.com/tutorials/": {
+      "status": 200
+    },
+    "https://www.imagescape.com/request-proposal/": {
+      "status": 200
+    },
+    "https://www.imagescape.com/django/#main": {
+      "status": 200
+    },
+    "https://www.imagescape.com/django/#": {
+      "status": 200
+    },
+    "https://www.imagescape.com/client-work/#main": {
+      "status": 200
+    },
+    "https://www.imagescape.com/client-work/#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Django",
+      "confidence": "100",
+      "version": null,
+      "icon": "Django.png",
+      "website": "https://djangoproject.com",
+      "cpe": "cpe:/a:djangoproject:django",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "MailChimp",
+      "confidence": "100",
+      "version": null,
+      "icon": "mailchimp.svg",
+      "website": "http://mailchimp.com",
+      "cpe": "cpe:/a:thinkshout:mailchimp",
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.13.7",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.1.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "confidence": "0",
+      "version": null,
+      "icon": "Python.png",
+      "website": "http://python.org",
+      "cpe": "cpe:/a:python:python",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Zinnia",
+      "confidence": "100",
+      "version": null,
+      "icon": "Zinnia.png",
+      "website": "http://django-blog-zinnia.com",
+      "cpe": null,
+      "categories": [
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.imagescape.com",
+  "id": "6534"
+}

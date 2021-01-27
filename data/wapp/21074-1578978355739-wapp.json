@@ -1,0 +1,125 @@
+{
+  "urls": {
+    "https://www.itransition.com/": {
+      "status": 200
+    },
+    "https://www.itransition.com/privacy-policy": {
+      "status": 200
+    },
+    "https://www.itransition.com/contacts": {
+      "status": 200
+    },
+    "https://www.itransition.com/expertise": {
+      "status": 200
+    },
+    "https://www.itransition.com/industries": {
+      "status": 200
+    },
+    "https://www.itransition.com/industries/healthcare": {
+      "status": 200
+    },
+    "https://www.itransition.com/industries/retail-wholesale": {
+      "status": 200
+    },
+    "https://www.itransition.com/industries/isv": {
+      "status": 200
+    },
+    "https://www.itransition.com/industries/automotive": {
+      "status": 200
+    },
+    "https://www.itransition.com/industries/telecommunications": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Drupal",
+      "confidence": "100",
+      "version": "8",
+      "icon": "Drupal.svg",
+      "website": "https://drupal.org",
+      "cpe": "cpe:/a:drupal:drupal",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google PageSpeed",
+      "confidence": "100",
+      "version": "1.13.35.2-0",
+      "icon": "Google PageSpeed.png",
+      "website": "http://developers.google.com/speed/pagespeed/mod",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        },
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "7.2.26",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.itransition.com",
+  "id": "21074"
+}

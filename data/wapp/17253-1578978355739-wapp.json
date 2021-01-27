@@ -1,0 +1,271 @@
+{
+  "urls": {
+    "https://www.ncrypted.com/": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/industries": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/services": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/company": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/case-studies": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/services#development-services": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/services#consulting-services": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/services#outsourcing-services": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/services#hosting-services": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/agriculture-software-development": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/career-jobs-software-development": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/ecommerce-software-development": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/education-software-development": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/case-studies#": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/travel-hospitality-software-development": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/vacation-rental-management-software-development": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/fintech-software-development": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/products-and-platforms": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/outsourcing-services": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/businesses": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/hire-developers": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/why-outsource": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/video-testimonials": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/testimonials": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/legal": {
+      "status": 200
+    },
+    "https://www.ncrypted.com/international-quality-convention-london-2012": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4.41",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.7",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Maps",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Maps.png",
+      "website": "http://maps.google.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Lightbox",
+      "confidence": "100",
+      "version": null,
+      "icon": "Lightbox.png",
+      "website": "http://lokeshdhakar.com/projects/lightbox2/",
+      "cpe": "cpe:/a:lightbox_photo_gallery_project:lightbox_photo_gallery",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "OWL Carousel",
+      "confidence": "100",
+      "version": null,
+      "icon": "OWL Carousel.png",
+      "website": "https://owlcarousel2.github.io/OwlCarousel2/",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "OpenSSL",
+      "confidence": "100",
+      "version": "1.0.2t",
+      "icon": "OpenSSL.png",
+      "website": "http://openssl.org",
+      "cpe": "cpe:/a:openssl:openssl",
+      "categories": [
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "AddThis",
+      "confidence": "100",
+      "version": null,
+      "icon": "AddThis.svg",
+      "website": "http://www.addthis.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://www.ncrypted.com",
+  "id": "17253"
+}

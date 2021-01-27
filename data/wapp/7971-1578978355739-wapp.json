@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.solverusa.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.solverusa.com",
+  "id": "7971"
+}

@@ -1,0 +1,53 @@
+{
+  "urls": {
+    "http://c42.in/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "GitHub Pages",
+      "confidence": "100",
+      "version": null,
+      "icon": "GitHub.svg",
+      "website": "https://pages.github.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "confidence": "0",
+      "version": null,
+      "icon": "Ruby on Rails.png",
+      "website": "https://rubyonrails.org",
+      "cpe": null,
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "confidence": "0",
+      "version": null,
+      "icon": "Ruby.png",
+      "website": "http://ruby-lang.org",
+      "cpe": null,
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://c42.in",
+  "id": "20446"
+}

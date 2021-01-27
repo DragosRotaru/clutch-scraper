@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.blackinktech.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.blackinktech.com",
+  "id": "18843"
+}

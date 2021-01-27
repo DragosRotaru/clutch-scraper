@@ -1,0 +1,206 @@
+{
+  "urls": {
+    "https://www.flintfox.com/": {
+      "status": 200
+    },
+    "https://www.flintfox.com/privacy-data/": {
+      "status": 200
+    },
+    "https://www.flintfox.com/#": {
+      "status": 200
+    },
+    "https://www.flintfox.com/?hsLang=en": {
+      "status": 200
+    },
+    "https://www.flintfox.com/software/": {
+      "status": 200
+    },
+    "https://www.flintfox.com/consulting-services": {
+      "status": 200
+    },
+    "https://www.flintfox.com/customer-stories/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.flintfox.com/resources": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=baeb467c-91ba-4278-a53a-a68cfc025a83&placement_guid=71db495f-7fc2-41b6-b9c9-d96e95cebc0a&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2F&redirect_url=APefjpGQ_6u4lsz4xqaxXB-3wc5pAlgF5-jI2BrlzEGabhfgTc5QS-VG2tFuBJbI3-uB-7Ih8hwLwHFHznAsFebpx_sYFCquIRvI_qHFseJFUw__gykQ9dggPzyfEdsyfkjRd1YBwGtA&click=12dfac37-a049-40a6-b06a-7af367b31c9d&hsutk=1754a95fcd01bc262e83fb0cdf61da8b&signature=AAH58kE9SDe3_LBdwch4TNFuHHY_ZtzARg&pageId=5806595653&__hstc=239227420.1754a95fcd01bc262e83fb0cdf61da8b.1578983706557.1578983706557.1578983706557.1&__hssc=239227420.1.1578983706558&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=cdee1afd-2724-469c-822a-c4627d34ae8f&placement_guid=c3afda7f-3d4b-47f7-9230-a06992a3aadb&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2F&redirect_url=APefjpGrHXb4XM1kLupC0Xzy9h0ce1a9egz7_Z1voHyRK4vlT5hWOxx7gamBIcdQROM2ayLEgHCGgLyw5DLV-1n6xJdz5q-TggJK19gQtkLPXhYW97Dt5RGgpO__98gvFPwp08k219LFC-CPRSlO1llIEfi-WoswAg&click=da227081-eb7f-4aa3-bf76-cbf5292a37d7&hsutk=1754a95fcd01bc262e83fb0cdf61da8b&signature=AAH58kEQVWgeihXQUdsyeHmSLDExG0QIRQ&pageId=5806595653&__hstc=239227420.1754a95fcd01bc262e83fb0cdf61da8b.1578983706557.1578983706557.1578983706557.1&__hssc=239227420.1.1578983706558&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=baeb467c-91ba-4278-a53a-a68cfc025a83&placement_guid=71db495f-7fc2-41b6-b9c9-d96e95cebc0a&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2F&redirect_url=APefjpHSCfCS8H4_v47iQDexU3FPAoUgV5_DfC5qmzP_wSWW_iT2IjMq7IkbZUMd2xla0uQ9Ae9ge8hHbKLiIndO5O0a1sPOfo7r8K0j-4CRXnRy5alVuHXaM8TR_ZKpwJw2IggyJ01P&click=bdcf2924-a1bf-43d4-9fdd-e9020696a13f&hsutk=fb11392008c599ac503b76e1fcd825eb&signature=AAH58kEIqOI_RhlZn-cqx_bRKTrjby-Vgg&pageId=5806595653&__hstc=239227420.fb11392008c599ac503b76e1fcd825eb.1578983707434.1578983707434.1578983707434.1&__hssc=239227420.1.1578983707435&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=cdee1afd-2724-469c-822a-c4627d34ae8f&placement_guid=c3afda7f-3d4b-47f7-9230-a06992a3aadb&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2F&redirect_url=APefjpFoSTzdCuPTKqdCcXT-Qi0z18Ko0Z1hb8Cw7c__r4bl10m4MfKCC2oXBvgsz40yIa-5t6a4kjttm4E1mJHtJVNSDlOxTwAp3HysEv-a-CFDs63irLGsl8bKn59zl3mtB8DSolmHovBzGZwPnemIJO1OVOOprA&click=d16f0abe-fd9d-4e7c-bccc-f33c73e7053c&hsutk=fb11392008c599ac503b76e1fcd825eb&signature=AAH58kHEAmXBwknzYf1lrbHtdvjISBpTDQ&pageId=5806595653&__hstc=239227420.fb11392008c599ac503b76e1fcd825eb.1578983707434.1578983707434.1578983707434.1&__hssc=239227420.1.1578983707435&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/privacy-data/#": {
+      "status": 200
+    },
+    "https://www.flintfox.com/software/#": {
+      "status": 200
+    },
+    "https://www.flintfox.com/consulting-services#": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=baeb467c-91ba-4278-a53a-a68cfc025a83&placement_guid=71db495f-7fc2-41b6-b9c9-d96e95cebc0a&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2Fprivacy-data%2F&redirect_url=APefjpEONrguIIE6eUCrSE5EUIdvPalWCYxWC8KU6nTMjiQlxJJm7S5OaRHzejGyrH7b8w1NC_p9n9AfWecr_rzH0jE8B12sRdZpqzsHIr6vpOsuiK3-dCbSWFlTfVzBFikNmuh7WF72&click=cc0a460a-2de4-4624-bfd3-845b9d7999f3&hsutk=7934e9730d06f906b5aa0ee7135e7a53&signature=AAH58kFh8Emrspl48cJ88ebeeCtPHW3I7w&pageId=5734423780&__hstc=239227420.7934e9730d06f906b5aa0ee7135e7a53.1578983705081.1578983705081.1578983705081.1&__hssc=239227420.1.1578983705082&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=cdee1afd-2724-469c-822a-c4627d34ae8f&placement_guid=c3afda7f-3d4b-47f7-9230-a06992a3aadb&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2Fprivacy-data%2F&redirect_url=APefjpHbhJptSTSKcoeHgNo6P4OZNfvZ4EPc7t0Ild4AwvELhFdQcX9Hik7M1a-tdzM2W6mlREPO-ACw-_kp74992uUjCvbaUIMidmVTKcbXinTmBcOe10soAHbuEme7pp6fGg4kn2M_x0Cy40hsvpW5nj9BQEz-Eg&click=5169a13b-ffba-475f-8d3b-3d1c92ec145a&hsutk=7934e9730d06f906b5aa0ee7135e7a53&signature=AAH58kGSivjLglTTkTwDYXnG93VRi4TDnw&pageId=5734423780&__hstc=239227420.7934e9730d06f906b5aa0ee7135e7a53.1578983705081.1578983705081.1578983705081.1&__hssc=239227420.1.1578983705082&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=baeb467c-91ba-4278-a53a-a68cfc025a83&placement_guid=71db495f-7fc2-41b6-b9c9-d96e95cebc0a&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2Fsoftware%2F&redirect_url=APefjpGplznph_3zxpSwkj5VmNcDFQTEz3yRYKyWJ7SKuKmnGuJlXtmMpkb1ITgIEioRUC9W7G30jpSbpSBw4xwU4TSraQ5cWGy8gMYbUzxuf4yNsFtai_YkSHN9rzp62NVfnV13X_el&click=675dde30-49f9-4a50-a17e-5db7cf58f1e8&hsutk=00b0fdf8d3d27e18159e321a2359ba0b&signature=AAH58kG7CNRg9GQqhYr9W2IfEcGVr5XWzw&pageId=5809151773&__hstc=239227420.00b0fdf8d3d27e18159e321a2359ba0b.1578983705817.1578983705817.1578983705817.1&__hssc=239227420.1.1578983705818&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=cdee1afd-2724-469c-822a-c4627d34ae8f&placement_guid=c3afda7f-3d4b-47f7-9230-a06992a3aadb&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2Fsoftware%2F&redirect_url=APefjpHQhIl7N_amXwWsXD7B9AG7uYXWrGrW2KrjufJ5KziiebKUa4myM2V-ZzV4nfyUFlMWayGA9zom20o2nsIDX5QOJ1ilOC6JBOjGtOGIWYeRVph2NHBItUASp2mHyH2B9lLFz3GdwqxX-HkT2PZZKV8TAQbcqg&click=c6bd5987-8c2c-4838-a01a-ca2fbd57d967&hsutk=00b0fdf8d3d27e18159e321a2359ba0b&signature=AAH58kHFAu-izJlaUjB5Qs-7hOY7Y9VDsQ&pageId=5809151773&__hstc=239227420.00b0fdf8d3d27e18159e321a2359ba0b.1578983705817.1578983705817.1578983705817.1&__hssc=239227420.1.1578983705818&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=baeb467c-91ba-4278-a53a-a68cfc025a83&placement_guid=71db495f-7fc2-41b6-b9c9-d96e95cebc0a&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2Fconsulting-services&redirect_url=APefjpF7897OU9ZAROeIqV5oUfW7Hnozs62BEuuVaOXgDEL8JMuN1peiNpktT_C8q9m8eg65vE6HlFuZ8EIrX6nrCDFHpe5X6y3ZIsKHgQHvNqnTRJzMPr5a2edNQtDEsi5c1YxwfSvW&click=4aa3ca00-24a5-48ec-af64-5a1b5e0bafe0&hsutk=b8279631d5353017b8af64b28fa0d9f9&signature=AAH58kGHQO_Sx1Pd2PUTnwG62HOETtP-6A&pageId=6017338743&__hstc=239227420.b8279631d5353017b8af64b28fa0d9f9.1578983706943.1578983706943.1578983706943.1&__hssc=239227420.1.1578983706944&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=cdee1afd-2724-469c-822a-c4627d34ae8f&placement_guid=c3afda7f-3d4b-47f7-9230-a06992a3aadb&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2Fconsulting-services&redirect_url=APefjpEec8sYQ_bkh5c-mlmS-FgQwYCWdcQE2RExLbXDtvK3pd1S8uSVxYKLGqG7-t_R-qlD1Zi-JhWzBVvvXKlSZy0ZLJ5GNKO_9uR7rvVaOpw-Xhy1Za_KnCJzUdHsqtAot3yyG1UALqZTRofpaE3X-kYLk0g2wA&click=460297fa-246e-4be7-a306-993fa8fdd328&hsutk=b8279631d5353017b8af64b28fa0d9f9&signature=AAH58kGZYqwI4Vcj94RlUkkj2fydpI9Tcw&pageId=6017338743&__hstc=239227420.b8279631d5353017b8af64b28fa0d9f9.1578983706943.1578983706943.1578983706943.1&__hssc=239227420.1.1578983706944&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=baeb467c-91ba-4278-a53a-a68cfc025a83&placement_guid=71db495f-7fc2-41b6-b9c9-d96e95cebc0a&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2F&redirect_url=APefjpGRJQzNZkRdYUJIqzdzBbDkebWgHq5KO5DKY3VeDbR_jEsIwspjnG1VrM8ocIQc_kniPE5DIYT0qt41Vgo_kC-hVmbUDRQu24sl6rJ8dEGusiOY2t8DJ-GNUpVkZlHjNx-yRDL1yZj5OFga-0pCbIivFLpjaI-vYU2xbE6d9-CBHIHR45H2WlUqIFG58NdS4LERcbbPW_N8C3djMCpu0nyLT2iIfMRmrovaYQEX8LrnTE5qayzjPaJjXQnMHZAwXMWVN7QTQsS33xG4lFPEq-uciuxQfw&click=52eaa179-67d4-41ab-8639-d4dbaa820b42&hsutk=9d89d2f3390e89659a3c3dfb28b0d830&signature=AAH58kG2O2QXipqRO2JYDzOZ_pqq5NiS4w&pageId=5806595653&contentType=standard-page&__hstc=239227420.9d89d2f3390e89659a3c3dfb28b0d830.1578983698927.1578983698927.1578983698927.1&__hssc=239227420.1.1578983698927&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=cdee1afd-2724-469c-822a-c4627d34ae8f&placement_guid=c3afda7f-3d4b-47f7-9230-a06992a3aadb&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2F&redirect_url=APefjpHAVrDOId0JyXrEJSd5x9vkKrhiO--GrjxA0fDSr7wV2-UwlrgJN8a6f7-CmZnrtodsa3c6e1ahqkzH37HMmvMOo3Vt2GE9gtOvwdKacTyIOvr81Uosnz8bmvRpNWDXqcFJk7KaCO8vVU9XbVSBd-cu_kXAsa4njcUMzL8hSDQ2wIB7ZWXS6ixOK4PDW8MDH2ssLTa2X654Y2OZ7pExMCwmiUT36GnazmrpkIGLvIUgjEZU5GCVUEy7VOrGWqvu8S8m_EwRSvI9rm1CWeKV9eM4SkebBhDn3QNUUx9tjxMnK-h9Xsg&click=920eca32-911c-45bb-ac76-72ba07849391&hsutk=9d89d2f3390e89659a3c3dfb28b0d830&signature=AAH58kGfB3UfOHk1vMaiscDPhAp6hMEraQ&pageId=5806595653&contentType=standard-page&__hstc=239227420.9d89d2f3390e89659a3c3dfb28b0d830.1578983698927.1578983698927.1578983698927.1&__hssc=239227420.1.1578983698927&__hsfp=3065690341": {
+      "status": 200
+    },
+    "https://www.flintfox.com/copyright/?hsLang=en": {
+      "status": 200
+    },
+    "https://www.flintfox.com/privacy-data/?hsLang=en": {
+      "status": 200
+    },
+    "https://www.flintfox.com/resources/roi-calculators?__hssc=239227420.1.1578983698927&__hstc=239227420.9d89d2f3390e89659a3c3dfb28b0d830.1578983698927.1578983698927.1578983698927.1&__hsfp=3065690341&hsCtaTracking=c3afda7f-3d4b-47f7-9230-a06992a3aadb%7Ccdee1afd-2724-469c-822a-c4627d34ae8f#": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=baeb467c-91ba-4278-a53a-a68cfc025a83&placement_guid=71db495f-7fc2-41b6-b9c9-d96e95cebc0a&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2Fresources%2Froi-calculators&redirect_url=APefjpFAnQQ9qSlD03wOgdW6pe1O7LiV8eFbw1dMK94WALcvEhl6CZj7Sl2pdaIJGWlE5ekxZcn_rH0DZ9KuyefejprnRrXSM34qFDYbU1AT7zUx8h369OyN_9FTCOUl_oaxTJbcjTGq&click=c14852ab-c1da-4a8e-8d0d-2994b2f824a2&hsutk=9d89d2f3390e89659a3c3dfb28b0d830&signature=AAH58kE672RgmqojezMB4HHG6oyPUbAxOw&pageId=5933781338&__hstc=239227420.9d89d2f3390e89659a3c3dfb28b0d830.1578983698927.1578983698927.1578983698927.1&__hssc=239227420.2.1578983698927&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/cs/c/?cta_guid=cdee1afd-2724-469c-822a-c4627d34ae8f&placement_guid=c3afda7f-3d4b-47f7-9230-a06992a3aadb&portal_id=2436555&canon=https%3A%2F%2Fwww.flintfox.com%2Fresources%2Froi-calculators&redirect_url=APefjpGzwN3b5hlIlNNLdgfu7UfSiYTtVMZ6cJgh_YxYiOQF6Ulw-21_JV05SQo257cf6b_x5vuUlOaqmQdz5N7mRopfDDjvMbNnE1gO7DxdddgKX5joXPyMaQHEgZE3JZY12pXi9u52Am7iGeRvPImKNqPtjvIpNg&click=baa4976c-2b33-4bb3-8216-7b508609362f&hsutk=9d89d2f3390e89659a3c3dfb28b0d830&signature=AAH58kFe9OQk_UQNWMIsE7GFaoiE6_4k_w&pageId=5933781338&__hstc=239227420.9d89d2f3390e89659a3c3dfb28b0d830.1578983698927.1578983698927.1578983698927.1&__hssc=239227420.2.1578983698927&__hsfp=3065690341&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.flintfox.com/resources/roi-calculators": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Mouse Flow",
+      "confidence": "100",
+      "version": null,
+      "icon": "mouseflow.png",
+      "website": "https://mouseflow.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.flintfox.com",
+  "id": "7859"
+}

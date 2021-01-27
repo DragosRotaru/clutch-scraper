@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "https://softrelay.ro/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "https://softrelay.ro",
+  "id": "17188"
+}

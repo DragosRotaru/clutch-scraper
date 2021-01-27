@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "https://www.technobraingroup.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "https://www.technobraingroup.com",
+  "id": "7983"
+}

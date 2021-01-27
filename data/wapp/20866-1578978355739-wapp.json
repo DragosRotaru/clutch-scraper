@@ -1,0 +1,125 @@
+{
+  "urls": {
+    "http://www.wearefine.com/": {
+      "status": 200
+    },
+    "https://www.wearefine.com/": {
+      "status": 200
+    },
+    "https://www.wearefine.com/work": {
+      "status": 200
+    },
+    "https://www.wearefine.com/news": {
+      "status": 200
+    },
+    "https://www.wearefine.com/about": {
+      "status": 200
+    },
+    "https://www.wearefine.com/careers": {
+      "status": 200
+    },
+    "https://www.wearefine.com/contact": {
+      "status": 200
+    },
+    "https://www.wearefine.com/work#main": {
+      "status": 200
+    },
+    "https://www.wearefine.com/careers#main": {
+      "status": 200
+    },
+    "https://www.wearefine.com/about#main": {
+      "status": 200
+    },
+    "https://www.wearefine.com/#main": {
+      "status": 200
+    },
+    "https://www.wearefine.com/news#main": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Polyfill",
+      "confidence": "100",
+      "version": null,
+      "icon": "polyfill.svg",
+      "website": "https://polyfill.io",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Vue.js.png",
+      "website": "http://vuejs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Nuxt.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nuxt.js.svg",
+      "website": "https://nuxtjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.wearefine.com",
+  "id": "20866"
+}

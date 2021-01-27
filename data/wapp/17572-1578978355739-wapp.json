@@ -1,0 +1,122 @@
+{
+  "urls": {
+    "https://www.simform.com/": {
+      "status": 200
+    },
+    "https://www.simform.com/about-us/": {
+      "status": 200
+    },
+    "https://www.simform.com/artificial-intelligence-services/": {
+      "status": 200
+    },
+    "https://www.simform.com/dedicated-development-team/": {
+      "status": 200
+    },
+    "https://www.simform.com/application-development/": {
+      "status": 200
+    },
+    "https://www.simform.com/web-apps-development/": {
+      "status": 200
+    },
+    "https://www.simform.com/api-integration-development/": {
+      "status": 200
+    },
+    "https://www.simform.com/hire-dedicated-developers/": {
+      "status": 200
+    },
+    "https://www.simform.com/custom-software-development/": {
+      "status": 200
+    },
+    "https://www.simform.com/software-testing/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Gatsby",
+      "confidence": "100",
+      "version": "2.13.25",
+      "icon": "Gatsby.svg",
+      "website": "https://www.gatsbyjs.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "57": "Static Site Generator"
+        },
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "0",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.simform.com",
+  "id": "17572"
+}

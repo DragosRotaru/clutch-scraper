@@ -1,0 +1,173 @@
+{
+  "urls": {
+    "https://alphawebgroup.com/": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/#page-section-content": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/services": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/company": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/blog": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/company/contacts": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/quote": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/services/web": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/company#page-section-content": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/services#page-section-content": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/blog#page-section-content": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/company/approach": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/blog/drupal": {
+      "status": 200
+    },
+    "https://alphawebgroup.com/blog/drupal/top-10-drupal-modules-media-management": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Drupal",
+      "confidence": "100",
+      "version": "8",
+      "icon": "Drupal.svg",
+      "website": "https://drupal.org",
+      "cpe": "cpe:/a:drupal:drupal",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Hammer.js",
+      "confidence": "100",
+      "version": "2.0.4",
+      "icon": "Hammer.js.png",
+      "website": "https://hammerjs.github.io",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Materialize CSS",
+      "confidence": "100",
+      "version": null,
+      "icon": "Materialize CSS.png",
+      "website": "http://materializecss.com",
+      "cpe": null,
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.2.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://alphawebgroup.com",
+  "id": "23439"
+}

@@ -1,0 +1,180 @@
+{
+  "urls": {
+    "http://www.apps-plus.co.uk/": {
+      "status": 200
+    },
+    "https://www.apps-plus.co.uk/": {
+      "status": 200
+    },
+    "https://www.apps-plus.co.uk/app-services/": {
+      "status": 200
+    },
+    "https://www.apps-plus.co.uk/app-sectors/": {
+      "status": 200
+    },
+    "https://www.apps-plus.co.uk/digital-transformation/": {
+      "status": 200
+    },
+    "https://www.apps-plus.co.uk/digital-transformation/cognitive-technologies/": {
+      "status": 200
+    },
+    "https://www.apps-plus.co.uk/digital-transformation/internet-of-things/": {
+      "status": 200
+    },
+    "https://www.apps-plus.co.uk/digital-transformation/mobile-enablement/": {
+      "status": 200
+    },
+    "https://www.apps-plus.co.uk/digital-transformation/cloud-transformation/": {
+      "status": 200
+    },
+    "https://www.apps-plus.co.uk/case-studies/": {
+      "status": 200
+    },
+    "https://www.apps-plus.co.uk/company/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "FancyBox",
+      "confidence": "100",
+      "version": "3.5.7",
+      "icon": "FancyBox.png",
+      "website": "http://fancyapps.com/fancybox",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "TweenMax",
+      "confidence": "100",
+      "version": null,
+      "icon": "TweenMax.png",
+      "website": "http://greensock.com/tweenmax",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Twitter Emoji (Twemoji)",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://twitter.github.io/twemoji/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "4.9.13",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "11.1.1",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "cpe": null,
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.apps-plus.co.uk",
+  "id": "24675"
+}

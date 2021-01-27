@@ -1,0 +1,267 @@
+{
+  "urls": {
+    "http://www.intechnic.com/": {
+      "status": 200
+    },
+    "https://www.intechnic.com/#": {
+      "status": 200
+    },
+    "https://www.intechnic.com/#top": {
+      "status": 200
+    },
+    "https://www.intechnic.com/#strategy": {
+      "status": 200
+    },
+    "https://www.intechnic.com/#user-experience": {
+      "status": 200
+    },
+    "https://www.intechnic.com/#web-design": {
+      "status": 200
+    },
+    "https://www.intechnic.com/#marketing": {
+      "status": 200
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=31dd216f-edfa-482d-96ba-5d4a2e6ca436&placement_guid=945dbb62-435f-421f-a958-42b60c2e875c&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpE6CV3wH2bXenI6Bgwt8774mQlyjvzqkH4TjJM3Q-EIiBhcq3XgHFPVG_iAld5l8RBTmm_SRoFQtbIWfZSRoia3xkjsMSQiNT37v6vHFhzg7D4FNjV-NGEFEi22z2ddXocPDDGi&click=9d3bd0c3-060b-48f0-8f63-563dd931a8cf&hsutk=5bf191b9225a87c382fa156bcaa84407&signature=AAH58kGs-Rt8yn49PH8ON8G2VcgDJojP7w&pageId=5238252765&__hstc=59322610.5bf191b9225a87c382fa156bcaa84407.1578998608854.1578998608854.1578998608854.1&__hssc=59322610.1.1578998608855&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=947b29f5-4b4a-4e87-b4a5-2360a692528d&placement_guid=06a5a8ca-e5e6-4d50-bf53-19cb8c35a2da&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpFK16bvKBvgRKGcbRt9MXw7p_MFBeEMBlRWCpeoVUSPQlKT0u9XxLwNbC4dcj5eX4_jZDa63xo0tF_m7O97X5DTrvHsG4mEwnRnXB0PBbRBlj7QFAONBU8zrGg0PsO17_YCc6rj&click=3f032142-5f13-4b10-82f8-02f87e478253&hsutk=5bf191b9225a87c382fa156bcaa84407&signature=AAH58kEVpU6-Ci9Iz-n3xQI07Dg2ABWgjQ&pageId=5238252765&__hstc=59322610.5bf191b9225a87c382fa156bcaa84407.1578998608854.1578998608854.1578998608854.1&__hssc=59322610.1.1578998608855&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=b9201e2c-2af4-4e18-837a-d93a530d8aaf&placement_guid=281ea9ce-d247-46dc-b95a-90cfa0e28af7&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpHcB5V_xltJG8ONt8XUZ3C6taZdtdZ9Nr9Do39WJ0DrLZkx9wjtrBooQLu0m4mhsna5y3zcyGqNXQNNzsgLH4DgxLFIQviF2cO7HHEfYYQ1thMFDdEiq-JjRy5EGVIm5e26UmSI&click=f3ab6bb8-f84e-4bd0-b9f7-a8d18e84303c&hsutk=5bf191b9225a87c382fa156bcaa84407&signature=AAH58kG5otQMzpMCqjAxfGjz5-367wxCZw&pageId=5238252765&__hstc=59322610.5bf191b9225a87c382fa156bcaa84407.1578998608854.1578998608854.1578998608854.1&__hssc=59322610.1.1578998608855&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=31dd216f-edfa-482d-96ba-5d4a2e6ca436&placement_guid=945dbb62-435f-421f-a958-42b60c2e875c&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpGYEsCqFS5JSN1lgM6XphbcBkW2Ot9DH_lf62lqSFnYTXpa1hP_oU3XVjYUz8HCb8a7CaSKBgSLfD_E9s15FlNZSoOOS4WRMolcO8F5tSpe-FyWcrUCt7hLU8tPTrwJByRkWHqK&click=27f19cd2-bec6-453a-b582-025c623d31c2&hsutk=4a66ba6aaec0bef8871ce86e0707022e&signature=AAH58kFBEIyCZrgXyPV2izxIyD4GvR9DJg&pageId=5238252765&__hstc=59322610.4a66ba6aaec0bef8871ce86e0707022e.1578998609543.1578998609543.1578998609543.1&__hssc=59322610.1.1578998609543&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=947b29f5-4b4a-4e87-b4a5-2360a692528d&placement_guid=06a5a8ca-e5e6-4d50-bf53-19cb8c35a2da&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpEX6aTKf64daPs1clmgPT5QnNcAWj1iOW8Gih6VQ-t-HYlUxhFFUBdK6g8M7gGFW2qsvEDgFuqnlHJDpmaoL_-AejyGOMh4CzKJVqkYGYb4gClLMadViq6sCTm0_rOIjJB4lo0B&click=9d8e113d-6579-408b-abe2-ad98ae36ae31&hsutk=4a66ba6aaec0bef8871ce86e0707022e&signature=AAH58kH18iIxhnvnHO7XtOf69EXCjpHwpQ&pageId=5238252765&__hstc=59322610.4a66ba6aaec0bef8871ce86e0707022e.1578998609543.1578998609543.1578998609543.1&__hssc=59322610.1.1578998609543&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=b9201e2c-2af4-4e18-837a-d93a530d8aaf&placement_guid=281ea9ce-d247-46dc-b95a-90cfa0e28af7&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpGoC24NQCbOL2t6QanKX0c7GR9HMpOk2cZTHUA2udAABDE1zmaAvMkwzyvrWq9JaybS66Q-lwAMseymV-Qf703djrBmtKzDRBNjGywphtGVs9XCN30Qmo6BEZt-PHPgB_WCi6H1&click=41edf659-6138-477d-a021-bb84be49ca56&hsutk=4a66ba6aaec0bef8871ce86e0707022e&signature=AAH58kGDipgPPZioJ92AhvEtP6cTWDYrGA&pageId=5238252765&__hstc=59322610.4a66ba6aaec0bef8871ce86e0707022e.1578998609543.1578998609543.1578998609543.1&__hssc=59322610.1.1578998609543&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=31dd216f-edfa-482d-96ba-5d4a2e6ca436&placement_guid=945dbb62-435f-421f-a958-42b60c2e875c&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpGOvdGOLynKlMeJwtgikBQbAauyA9_CQyh5yQg7E4z9hK5ghpBfPwYbxqAQEzWxmQKXu83wgpxMz4MmUki_bfmXuJyQZLosLLTIvmgYMtQb8BxGC30PQWk1BBeAVc7rfZ6dy4sD&click=3baef262-31b6-44d9-b048-bc048006d17b&hsutk=42f61eacfc01f905c2cfc004ea5620c6&signature=AAH58kFk4QKuW4hk7MPslHr4J1um_i3Mfg&pageId=5238252765&__hstc=59322610.42f61eacfc01f905c2cfc004ea5620c6.1578998611344.1578998611344.1578998611344.1&__hssc=59322610.1.1578998611346&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=947b29f5-4b4a-4e87-b4a5-2360a692528d&placement_guid=06a5a8ca-e5e6-4d50-bf53-19cb8c35a2da&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpFDmTqMGzHOqqdevJISzQiTpx399L_W48-7pyeQLdXFJSqmH57RbtbOpKSVufabhXF34qpLlLPUyeQK_mwv6_XKWi9SUQd66GGzE6W37xxM7iPzuesy-Cl5gLX66HxmRFGRhhFV&click=beb77a79-a281-40ff-916e-0c07f5ea8944&hsutk=42f61eacfc01f905c2cfc004ea5620c6&signature=AAH58kEWZhiIS3IR7zTwyXNKmJfP0g-u6A&pageId=5238252765&__hstc=59322610.42f61eacfc01f905c2cfc004ea5620c6.1578998611344.1578998611344.1578998611344.1&__hssc=59322610.1.1578998611346&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=b9201e2c-2af4-4e18-837a-d93a530d8aaf&placement_guid=281ea9ce-d247-46dc-b95a-90cfa0e28af7&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpGDxeA7v7GK-SYM9hhATLKNuQNyJ8LvjP3shcSJ2Q8lifjb0BHpr17-WM5BCMUwP9P5BiuYK67Z9ATFW5CkibF7vGzAPorhty1ySZdP3VtTMHOnbhtykHXuL7eUG214MaztiDDj&click=1ef259c9-cf2b-4465-9bb4-8860a21dd10b&hsutk=42f61eacfc01f905c2cfc004ea5620c6&signature=AAH58kH7nO7C9JItfyAcFiO_ShPoPfi3Cg&pageId=5238252765&__hstc=59322610.42f61eacfc01f905c2cfc004ea5620c6.1578998611344.1578998611344.1578998611344.1&__hssc=59322610.1.1578998611346&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=31dd216f-edfa-482d-96ba-5d4a2e6ca436&placement_guid=945dbb62-435f-421f-a958-42b60c2e875c&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpFDM5VTUxtcAO8YsOwmathV1v2O56kFMJ0ggTE3NYX45_Gy3ADjkVtjkKEhI8rrf4UzQl6cuZGiNmxdHsL0ZYbUozO_fdRlbWcLrTDFPcJNDqeyd6TL8PiRla-PzcaW_Y8EaAaK&click=4af38cc6-9016-4b67-9ebb-21345bafc18d&hsutk=2d9f7f3cccacde541489ca038d9a39fd&signature=AAH58kGoRBptyjfy0xMFf_J3ehfUitTR5Q&pageId=5238252765&__hstc=59322610.2d9f7f3cccacde541489ca038d9a39fd.1578998614164.1578998614164.1578998614164.1&__hssc=59322610.1.1578998614165&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=947b29f5-4b4a-4e87-b4a5-2360a692528d&placement_guid=06a5a8ca-e5e6-4d50-bf53-19cb8c35a2da&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpFJaU3jjLiCbbgUZP1KiZ2_I2LIClxYon78MVIPjnUbLs8iQG-dJtxurTQ4CCQ6q3G1UQDO6D1WwmBMsCLCeNh8bSiTAJzy09gp1_C0eUudEopHD_CFcCAt55g4Q_2H70dmjJLo&click=2b178ef0-23de-43be-8a14-1927bc31cce7&hsutk=2d9f7f3cccacde541489ca038d9a39fd&signature=AAH58kHyXqCxPiBY6bets8wEZKG_XP6OXg&pageId=5238252765&__hstc=59322610.2d9f7f3cccacde541489ca038d9a39fd.1578998614164.1578998614164.1578998614164.1&__hssc=59322610.1.1578998614165&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=b9201e2c-2af4-4e18-837a-d93a530d8aaf&placement_guid=281ea9ce-d247-46dc-b95a-90cfa0e28af7&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpH7Yl1JIIs3Sh2Qw3VGCq9AvxZjssnSnhYDb9Kcb_3zJLWkZplGZVOEpMazPIWveROAFjZy-SEES1OdNWqMfkIEzM_14JXoKQEMai1TKkS1j2GXPQON61zsqlpNBMlZhZAx5En7&click=9524a7ec-66c7-4dcc-9e89-8d42d087ff7d&hsutk=2d9f7f3cccacde541489ca038d9a39fd&signature=AAH58kGMhlHPHaekEVs0jKyfStFpcSk-GQ&pageId=5238252765&__hstc=59322610.2d9f7f3cccacde541489ca038d9a39fd.1578998614164.1578998614164.1578998614164.1&__hssc=59322610.1.1578998614165&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=31dd216f-edfa-482d-96ba-5d4a2e6ca436&placement_guid=945dbb62-435f-421f-a958-42b60c2e875c&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpFF4bLsz76lj_0w5yTYN3X8GD7EWHuT-Lb1GzDaoU1L-PdC8jdVVStHTHkNvU6sidGs7gDGChQhakxLJsvSIElk2NwXwZJkIvrbLmXpLrHoaFPIdAZWrE7-zkfJmUhhPkRZ2vKE&click=4f93f0bb-aa65-4555-88c0-5d880ac980ce&hsutk=5eb36e721c99c054f9c9c65ffd462fb5&signature=AAH58kEK3IabLHukGdyVlgJKrI7wPUR4xA&pageId=5238252765&__hstc=59322610.5eb36e721c99c054f9c9c65ffd462fb5.1578998603445.1578998603445.1578998603445.1&__hssc=59322610.1.1578998603445&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=947b29f5-4b4a-4e87-b4a5-2360a692528d&placement_guid=06a5a8ca-e5e6-4d50-bf53-19cb8c35a2da&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpFYw6dewT27vSQveOifwQBth5NfKrOs2tIOy4k_3ZO_Pv6CH1KDynNJvxNj67haZKFSO0Z2P4WNljTo7PUlD51zNWmEIzpxee-7KbxEkYdJnBBuhDfqG9iF9gtZL7bfHV56SQtr&click=b6da086b-b4a6-4c41-8bb8-c337bd5886b1&hsutk=5eb36e721c99c054f9c9c65ffd462fb5&signature=AAH58kEUslI9uT9_029g7gRc-tI7xwRUjg&pageId=5238252765&__hstc=59322610.5eb36e721c99c054f9c9c65ffd462fb5.1578998603445.1578998603445.1578998603445.1&__hssc=59322610.1.1578998603445&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.intechnic.com/cs/c/?cta_guid=b9201e2c-2af4-4e18-837a-d93a530d8aaf&placement_guid=281ea9ce-d247-46dc-b95a-90cfa0e28af7&portal_id=439788&canon=https%3A%2F%2Fwww.intechnic.com%2F&redirect_url=APefjpG-B1xdMPqfTSLE1E3vetWH7Ox_QFQhNFCnINt1z0nA1JfADhPBRhwzGM8hlmqBFruisIbtc0ICCGJhUc6_zMLyULbCryKqmj4jCdrRzVA5b66LXr-VCzYrbFvlpnFAEe84lAMS&click=25ab468a-51aa-40ca-a86d-59cfa81d333c&hsutk=5eb36e721c99c054f9c9c65ffd462fb5&signature=AAH58kHY64O4l_q2dgkbo4Fl6HgZtVOKkg&pageId=5238252765&__hstc=59322610.5eb36e721c99c054f9c9c65ffd462fb5.1578998603445.1578998603445.1578998603445.1&__hssc=59322610.1.1578998603445&__hsfp=3065690341&contentType=landing-page": {
+      "status": 307,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [
+    {
+      "name": "AppNexus",
+      "confidence": "100",
+      "version": null,
+      "icon": "AppNexus.svg",
+      "website": "http://appnexus.com",
+      "cpe": null,
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Visual Website Optimizer",
+      "confidence": "100",
+      "version": null,
+      "icon": "vwo.svg",
+      "website": "https://vwo.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.intechnic.com",
+  "id": "21635"
+}

@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.bluemungus.com/": {
+      "status": 500,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.bluemungus.com",
+  "id": "11811"
+}

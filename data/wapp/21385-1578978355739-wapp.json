@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.it-dimension.com/": {
+      "status": 404,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.it-dimension.com",
+  "id": "21385"
+}

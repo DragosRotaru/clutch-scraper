@@ -1,0 +1,270 @@
+{
+  "urls": {
+    "http://www.clarity-ventures.com/": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/#main": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/#quote": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/#": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/ecommerce": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/ecommerce-integrations": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/integrations": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/services/web-design": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/services/custom-development": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/ecommerce#main": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/ecommerce#demo": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/ecommerce#": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/ecommerce/international-multilingual": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/ecommerce/international-marketplace": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/ecommerce/storefront": {
+      "status": 200
+    },
+    "https://www.clarity-ventures.com/store-management/admin": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AdRoll",
+      "confidence": "100",
+      "version": null,
+      "icon": "AdRoll.svg",
+      "website": "http://adroll.com",
+      "cpe": null,
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "4.2.1",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "DNN",
+      "confidence": "100",
+      "version": null,
+      "icon": "DNN.png",
+      "website": "http://dnnsoftware.com",
+      "cpe": "cpe:/a:dnnsoftware:dotnetnuke",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Freshchat",
+      "confidence": "100",
+      "version": null,
+      "icon": "freshchat.png",
+      "website": "https://www.freshworks.com/live-chat-software/",
+      "cpe": null,
+      "categories": [
+        {
+          "52": "Live Chat"
+        }
+      ]
+    },
+    {
+      "name": "Freshmarketer",
+      "confidence": "100",
+      "version": null,
+      "icon": "freshmarketer.png",
+      "website": "https://www.freshworks.com/marketing-automation/conversion-rate-optimization/",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": null,
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "cpe": "cpe:/a:microsoft:asp.net",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": null,
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "01",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "0",
+      "version": null,
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.clarity-ventures.com",
+  "id": "16233"
+}

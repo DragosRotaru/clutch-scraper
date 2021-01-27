@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "https://insights.daffodilsw.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "https://insights.daffodilsw.com",
+  "id": "14105"
+}

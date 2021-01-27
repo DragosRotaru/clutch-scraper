@@ -1,0 +1,211 @@
+{
+  "urls": {
+    "https://www.oss-usa.com/": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/#main-content": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/new-york-website-development-about-us": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/new-york-website-development-projects": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/new-york-website-development-contact": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/blogs/all": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/free-web-design-tools": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/node/40/": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/node/34/": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/new-york-website-development-about-us#main-content": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/new-york-website-development-contact#main-content": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/new-york-website-development-projects#main-content": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/new-york-website-development-request-quote": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/new-york-website-development-contact#": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/new-york-website-development-consulting": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/new-york-website-development": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/node/83": {
+      "status": 200
+    },
+    "https://www.oss-usa.com/node/81": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AddToAny",
+      "confidence": "100",
+      "version": null,
+      "icon": "AddToAny.png",
+      "website": "http://www.addtoany.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4.6",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.4.1",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Drupal",
+      "confidence": "100",
+      "version": "8",
+      "icon": "Drupal.svg",
+      "website": "https://drupal.org",
+      "cpe": "cpe:/a:drupal:drupal",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google PageSpeed",
+      "confidence": "100",
+      "version": "1.13.35.2",
+      "icon": "Google PageSpeed.png",
+      "website": "http://developers.google.com/speed/pagespeed/mod",
+      "cpe": null,
+      "categories": [
+        {
+          "23": "Cache Tools"
+        },
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Select2",
+      "confidence": "100",
+      "version": null,
+      "icon": "Select2.png",
+      "website": "https://select2.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.12.1",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.oss-usa.com",
+  "id": "23002"
+}

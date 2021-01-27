@@ -1,0 +1,260 @@
+{
+  "urls": {
+    "http://www.softserveinc.com/": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/privacy-policy/": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/search/": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/privacy-policy/#Your%20Journey": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/privacy-policy/#Industries": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/privacy-policy/#Services": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/resources/": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/privacy-policy/#Press%20&%20Events": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/#Your%20Journey": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/#Industries": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/#Services": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/#Press%20&%20Events": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/search/#Your%20Journey": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/search/#Industries": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/search/#Services": {
+      "status": 200
+    },
+    "https://www.softserveinc.com/en-us/search/#Press%20&%20Events": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Azure",
+      "confidence": "100",
+      "version": null,
+      "icon": "azure.svg",
+      "website": "https://azure.microsoft.com",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "4.0.0",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Kentico CMS",
+      "confidence": "100",
+      "version": null,
+      "icon": "Kentico CMS.png",
+      "website": "http://www.kentico.com",
+      "cpe": "cpe:/a:kentico:kentico_cms",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": null,
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "cpe": "cpe:/a:microsoft:asp.net",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://kenwheeler.github.io/slick",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "0",
+      "version": null,
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "cpe": null,
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.softserveinc.com",
+  "id": "26389"
+}

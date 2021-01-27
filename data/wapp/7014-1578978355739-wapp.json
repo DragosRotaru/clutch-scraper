@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "https://www.andplus.com/": {
+      "status": 200
+    },
+    "https://www.andplus.com/solutions": {
+      "status": 200
+    },
+    "https://www.andplus.com/agile-software-development": {
+      "status": 200
+    },
+    "https://www.andplus.com/portfolio": {
+      "status": 200
+    },
+    "https://www.andplus.com/about-us": {
+      "status": 200
+    },
+    "https://www.andplus.com/labs": {
+      "status": 200
+    },
+    "https://www.andplus.com/blog": {
+      "status": 200
+    },
+    "https://www.andplus.com/andplus-contact?__hstc=26432610.3e348635d6fe2442f3f4fbf4de7a5438.1578982017511.1578982017511.1578982017511.1&__hssc=26432610.1.1578982017512&__hsfp=3065690341&hsutk=3e348635d6fe2442f3f4fbf4de7a5438&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.andplus.com/andplus-contact?__hstc=26432610.9302451a119cd352495e4ab280835dc4.1578982018150.1578982018150.1578982018150.1&__hssc=26432610.1.1578982018151&__hsfp=3065690341&hsutk=9302451a119cd352495e4ab280835dc4&contentType=standard-page": {
+      "status": 200
+    },
+    "https://www.andplus.com/andplus-contact": {
+      "status": 200
+    },
+    "https://www.andplus.com/andplus-contact?__hstc=26432610.85809ed7e91631d980552a073dbda9c3.1578982011901.1578982011901.1578982011901.1&__hssc=26432610.1.1578982011902&__hsfp=3065690341&hsutk=85809ed7e91631d980552a073dbda9c3&contentType=standard-page": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "cpe": "cpe:/a:facebook:react",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Linkedin",
+      "confidence": "100",
+      "version": null,
+      "icon": "Linkedin.svg",
+      "website": "http://linkedin.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.andplus.com",
+  "id": "7014"
+}

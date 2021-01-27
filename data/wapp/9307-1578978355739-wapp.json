@@ -1,0 +1,168 @@
+{
+  "urls": {
+    "http://www.to-increase.com/": {
+      "status": 200
+    },
+    "https://www.to-increase.com/privacy-and-cookie-statement-to-increase/": {
+      "status": 200
+    },
+    "https://www.to-increase.com/#": {
+      "status": 200
+    },
+    "https://www.to-increase.com/": {
+      "status": 200
+    },
+    "https://www.to-increase.com/manufacturing": {
+      "status": 200
+    },
+    "https://www.to-increase.com/privacy-and-cookie-statement-to-increase/#": {
+      "status": 200
+    },
+    "https://www.to-increase.com/rental-and-lease": {
+      "status": 200
+    },
+    "https://www.to-increase.com/food": {
+      "status": 200
+    },
+    "https://www.to-increase.com/ap-automation": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.to-increase.com/business-integration": {
+      "status": 200
+    },
+    "https://www.to-increase.com/business-productivity": {
+      "status": 200
+    },
+    "https://www.to-increase.com/manufacturing#": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.to-increase.com/manufacturing/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.to-increase.com/manufacturing/industry/industrial-equipment-manufacturing": {
+      "status": 200
+    },
+    "https://www.to-increase.com/manufacturing/industry/energy": {
+      "status": 200
+    },
+    "https://www.to-increase.com/manufacturing/industry/construction-and-mining": {
+      "status": 200
+    },
+    "https://www.to-increase.com/manufacturing/challenge/gain-visibility-control-stability": {
+      "status": 200
+    },
+    "https://www.to-increase.com/manufacturing/challenge/improve-efficiency": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Crazy Egg",
+      "confidence": "100",
+      "version": null,
+      "icon": "Crazy Egg.png",
+      "website": "http://crazyegg.com",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "confidence": "100",
+      "version": null,
+      "icon": "HubSpot.png",
+      "website": "https://www.hubspot.com",
+      "cpe": null,
+      "categories": [
+        {
+          "32": "Marketing Automation"
+        }
+      ]
+    },
+    {
+      "name": "Matomo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Matomo.png",
+      "website": "https://matomo.org",
+      "cpe": "cpe:/a:matomo:matomo",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://www.to-increase.com",
+  "id": "9307"
+}

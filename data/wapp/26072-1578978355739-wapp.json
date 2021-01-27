@@ -1,0 +1,150 @@
+{
+  "urls": {
+    "https://alty.co/": {
+      "status": 200
+    },
+    "https://alty.co/ua/": {
+      "status": 200
+    },
+    "https://alty.co/services/": {
+      "status": 200
+    },
+    "https://alty.co/works/": {
+      "status": 200
+    },
+    "https://alty.co/ua/services/": {
+      "status": 200
+    },
+    "https://alty.co/ua/works/": {
+      "status": 200
+    },
+    "https://alty.co/about/": {
+      "status": 200
+    },
+    "https://alty.co/contacts/": {
+      "status": 200
+    },
+    "https://alty.co/cases/monobank": {
+      "status": 200
+    },
+    "https://alty.co/cases/fuib": {
+      "status": 200
+    },
+    "https://alty.co/cases/privatbank": {
+      "status": 200
+    },
+    "https://alty.co/ua/about/": {
+      "status": 200
+    },
+    "https://alty.co/ua/contacts/": {
+      "status": 200
+    },
+    "https://alty.co/ua/careers/": {
+      "status": 200
+    },
+    "https://alty.co/ua/cases/monobank": {
+      "status": 200
+    },
+    "https://alty.co/ua/cases/fuib": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.6.21",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "EN"
+  },
+  "website": "https://alty.co",
+  "id": "26072"
+}

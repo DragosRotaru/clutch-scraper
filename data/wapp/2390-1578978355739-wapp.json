@@ -1,0 +1,192 @@
+{
+  "urls": {
+    "http://www.maisasolutions.com/": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/#page-top": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/#services": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/#process": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/blog/": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/#contact_box": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/#": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/blog/about/": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/blog/contact/": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/blog/Healthcare-and-IT-in-Internet-of-Things": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/blog/Facebook-iOSApp-Simulator-Build": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/blog/Big-data-analytics-the-NEW-BUZZ-in-the-Air": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/blog/How-o-get-X-Y-coordinates-of-element-in-Selenium-WebDriver": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/blog/So-you-have-an-idea-to-build-an-App-for-your-business": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/blog/Mongo-connection-failure": {
+      "status": 200
+    },
+    "https://www.maisasolutions.com/blog/How-to-show-HTML-elements-with-different-sizes-for-different-devices-(Mobile-Friendly)": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.2.0",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "FancyBox",
+      "confidence": "100",
+      "version": "2.1.5",
+      "icon": "FancyBox.png",
+      "website": "http://fancyapps.com/fancybox",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "GitHub Pages",
+      "confidence": "100",
+      "version": null,
+      "icon": "GitHub.svg",
+      "website": "https://pages.github.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.0",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "confidence": "0",
+      "version": null,
+      "icon": "Ruby on Rails.png",
+      "website": "https://rubyonrails.org",
+      "cpe": null,
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "confidence": "0",
+      "version": null,
+      "icon": "Ruby.png",
+      "website": "http://ruby-lang.org",
+      "cpe": null,
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Disqus",
+      "confidence": "100",
+      "version": null,
+      "icon": "Disqus.svg",
+      "website": "https://disqus.com",
+      "cpe": "cpe:/a:disqus:disqus_comment_system",
+      "categories": [
+        {
+          "15": "Comment Systems"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.maisasolutions.com",
+  "id": "2390"
+}

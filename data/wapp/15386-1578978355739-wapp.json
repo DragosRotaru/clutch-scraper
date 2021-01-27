@@ -1,0 +1,148 @@
+{
+  "urls": {
+    "https://www.merixstudio.com/": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/why-merix/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.merixstudio.com/about/": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/services/": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/work/": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/blog/": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/job-offers/": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/contact/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.merixstudio.com/services/#get-an-estimate": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/services/product-design/": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/work/#get-an-estimate": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/about/#get-an-estimate": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/development/python/": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/#get-an-estimate": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/work/moneyfarm/": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/work/moneyfarm/#get-an-estimate": {
+      "status": 200
+    },
+    "https://www.merixstudio.com/work/mobile-banking-application/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Django",
+      "confidence": "100",
+      "version": null,
+      "icon": "Django.png",
+      "website": "https://djangoproject.com",
+      "cpe": "cpe:/a:djangoproject:django",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "confidence": "0",
+      "version": null,
+      "icon": "Python.png",
+      "website": "http://python.org",
+      "cpe": "cpe:/a:python:python",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.merixstudio.com",
+  "id": "15386"
+}

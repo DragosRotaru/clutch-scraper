@@ -1,0 +1,258 @@
+{
+  "urls": {
+    "http://bizminers.com/": {
+      "status": 200
+    },
+    "http://bizminers.com/features/": {
+      "status": 200
+    },
+    "http://bizminers.com/pricing/": {
+      "status": 200
+    },
+    "http://bizminers.com/blog/": {
+      "status": 200
+    },
+    "http://bizminers.com/contact/": {
+      "status": 200
+    },
+    "http://bizminers.com/features/#top": {
+      "status": 200
+    },
+    "http://bizminers.com/pricing/#top": {
+      "status": 200
+    },
+    "http://bizminers.com/blog/#top": {
+      "status": 200
+    },
+    "http://bizminers.com/contact/#top": {
+      "status": 200
+    },
+    "http://bizminers.com/pricing/?s=": {
+      "status": 200
+    },
+    "http://bizminers.com/pricing/#": {
+      "status": 200
+    },
+    "http://bizminers.com/subscribe/": {
+      "status": 200
+    },
+    "http://bizminers.com/features/?s=": {
+      "status": 200
+    },
+    "http://bizminers.com/features/#": {
+      "status": 200
+    },
+    "http://bizminers.com/blog/?s=": {
+      "status": 200
+    },
+    "http://bizminers.com/blog/#": {
+      "status": 200
+    },
+    "http://bizminers.com/bizmailchimp-feature-unlimited-merge-tags/": {
+      "status": 200
+    },
+    "http://bizminers.com/contact/?s=": {
+      "status": 200
+    },
+    "http://bizminers.com/contact/#": {
+      "status": 200
+    },
+    "http://bizminers.com/about-us/": {
+      "status": 200
+    },
+    "http://bizminers.com/?s=": {
+      "status": 200
+    },
+    "http://bizminers.com/#": {
+      "status": 200
+    },
+    "http://bizminers.com/#prev": {
+      "status": 200
+    },
+    "http://bizminers.com/#next": {
+      "status": 200
+    },
+    "http://bizminers.com/?s=#": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "100",
+      "version": "10.0",
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Lightbox",
+      "confidence": "100",
+      "version": null,
+      "icon": "Lightbox.png",
+      "website": "http://lokeshdhakar.com/projects/lightbox2/",
+      "cpe": "cpe:/a:lightbox_photo_gallery_project:lightbox_photo_gallery",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": null,
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "cpe": "cpe:/a:microsoft:asp.net",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Plesk",
+      "confidence": "100",
+      "version": null,
+      "icon": "Plesk.png",
+      "website": "https://www.plesk.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "9": "Hosting Panels"
+        }
+      ]
+    },
+    {
+      "name": "Twitter Emoji (Twemoji)",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://twitter.github.io/twemoji/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "4.9.13",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "cpe": "cpe:/a:mysql:mysql",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://bizminers.com",
+  "id": "9435"
+}

@@ -1,0 +1,84 @@
+{
+  "urls": {
+    "https://www.diffagency.com/": {
+      "status": 200
+    },
+    "https://www.diffagency.com/pages/privacy-policy": {
+      "status": 200
+    },
+    "https://www.diffagency.com/pages/our-work": {
+      "status": 200
+    },
+    "https://www.diffagency.com/pages/services": {
+      "status": 200
+    },
+    "https://www.diffagency.com/pages/culture": {
+      "status": 200
+    },
+    "https://www.diffagency.com/blogs/articles": {
+      "status": 200
+    },
+    "https://www.diffagency.com/pages/careers": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "cpe": null,
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Shopify",
+      "confidence": "100",
+      "version": null,
+      "icon": "Shopify.svg",
+      "website": "http://shopify.com",
+      "cpe": null,
+      "categories": [
+        {
+          "6": "Ecommerce"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-CA"
+  },
+  "website": "https://www.diffagency.com",
+  "id": "17997"
+}

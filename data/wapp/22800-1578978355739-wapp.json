@@ -1,0 +1,87 @@
+{
+  "urls": {
+    "https://www.mojotech.com/": {
+      "status": 200
+    },
+    "https://www.mojotech.com/who-we-are/": {
+      "status": 200
+    },
+    "https://www.mojotech.com/how-we-work/": {
+      "status": 200
+    },
+    "https://www.mojotech.com/services/": {
+      "status": 200
+    },
+    "https://www.mojotech.com/work/": {
+      "status": 200
+    },
+    "https://www.mojotech.com/what-we-think/": {
+      "status": 200
+    },
+    "https://www.mojotech.com/contact/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Netlify",
+      "confidence": "100",
+      "version": null,
+      "icon": "Netlify.svg",
+      "website": "https://www.netlify.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "62": "PaaS"
+        },
+        {
+          "31": "CDN"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.mojotech.com",
+  "id": "22800"
+}

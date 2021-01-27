@@ -1,0 +1,49 @@
+{
+  "urls": {
+    "http://newlocalmedia.com/": {
+      "status": 200
+    },
+    "https://newlocalmedia.com/#home": {
+      "status": 200
+    },
+    "https://newlocalmedia.com/#about": {
+      "status": 200
+    },
+    "https://newlocalmedia.com/#contact": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://newlocalmedia.com",
+  "id": "20526"
+}

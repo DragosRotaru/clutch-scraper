@@ -1,0 +1,132 @@
+{
+  "urls": {
+    "https://www.ministryofproduct.com/": {
+      "status": 200
+    },
+    "https://www.ministryofproduct.com/mop-blog": {
+      "status": 200
+    },
+    "https://www.ministryofproduct.com/mop-blog/2018/10/19/use-a-slack-channel-to-add-innovation-to-your-community": {
+      "status": 200
+    },
+    "https://www.ministryofproduct.com/mop-blog/2018/7/10/teaching-kids-to-be-entrepreneurs": {
+      "status": 200
+    },
+    "https://www.ministryofproduct.com/mop-blog/2018/5/26/how-to-improve-your-product-pitch": {
+      "status": 200
+    },
+    "https://www.ministryofproduct.com/#welcome": {
+      "status": 200
+    },
+    "https://www.ministryofproduct.com/#product-path-2": {
+      "status": 200
+    },
+    "https://www.ministryofproduct.com/#slice-accounting": {
+      "status": 200
+    },
+    "https://www.ministryofproduct.com/#big-ideas": {
+      "status": 200
+    },
+    "https://www.ministryofproduct.com/#contact-us": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.8.3",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Squarespace",
+      "confidence": "100",
+      "version": null,
+      "icon": "Squarespace.png",
+      "website": "http://www.squarespace.com",
+      "cpe": null,
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Typekit",
+      "confidence": "100",
+      "version": "1.19.2",
+      "icon": "Typekit.png",
+      "website": "http://typekit.com",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "YUI",
+      "confidence": "100",
+      "version": "3.17.2",
+      "icon": "YUI.png",
+      "website": "http://yuilibrary.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "https://www.ministryofproduct.com",
+  "id": "20232"
+}

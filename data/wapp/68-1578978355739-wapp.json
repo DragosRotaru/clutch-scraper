@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.sybrant.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.sybrant.com",
+  "id": "68"
+}

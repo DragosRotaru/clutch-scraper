@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "https://www.artezio.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "https://www.artezio.com",
+  "id": "20769"
+}

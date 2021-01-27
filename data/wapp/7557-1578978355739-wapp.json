@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.solution-hawk.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.solution-hawk.com",
+  "id": "7557"
+}

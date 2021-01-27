@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.agentorange.co.za/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.agentorange.co.za",
+  "id": "22944"
+}

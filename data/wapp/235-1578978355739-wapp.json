@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.intellisofttech.com/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.intellisofttech.com",
+  "id": "235"
+}

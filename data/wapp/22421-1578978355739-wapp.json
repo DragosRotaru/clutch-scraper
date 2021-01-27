@@ -1,0 +1,15 @@
+{
+  "urls": {
+    "http://www.technocube.co/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {},
+  "website": "http://www.technocube.co",
+  "id": "22421"
+}

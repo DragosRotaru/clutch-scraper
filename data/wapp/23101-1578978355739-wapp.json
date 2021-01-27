@@ -1,0 +1,186 @@
+{
+  "urls": {
+    "http://kounterattack.com/": {
+      "status": 200
+    },
+    "https://kounterattack.com/": {
+      "status": 200
+    },
+    "https://kounterattack.com/about-us": {
+      "status": 200
+    },
+    "https://kounterattack.com/our-work": {
+      "status": 200
+    },
+    "https://kounterattack.com/news": {
+      "status": 200
+    },
+    "https://kounterattack.com/careers": {
+      "status": 200
+    },
+    "https://kounterattack.com/contact-us": {
+      "status": 200
+    },
+    "https://kounterattack.com/our-work/720": {
+      "status": 200
+    },
+    "https://kounterattack.com/our-work/smart-and-strong": {
+      "status": 200
+    },
+    "https://kounterattack.com/news/evolving-capabilities-for-digital-agencies": {
+      "status": 200
+    },
+    "https://kounterattack.com/news/collaborizm-featured-in-nytimes": {
+      "status": 200
+    },
+    "https://kounterattack.com/news/why-social-start-ups-are-unique-endeavor": {
+      "status": 200
+    },
+    "https://kounterattack.com/#": {
+      "status": 200
+    },
+    "https://kounterattack.com/our-work/sweatcast": {
+      "status": 200
+    },
+    "https://kounterattack.com/our-work/modernforms": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AngularJS",
+      "confidence": "100",
+      "version": "1.3.14",
+      "icon": "AngularJS.svg",
+      "website": "https://angularjs.org",
+      "cpe": null,
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4.6",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "cpe": "cpe:/a:apache:http_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "CentOS",
+      "confidence": "100",
+      "version": null,
+      "icon": "CentOS.png",
+      "website": "http://centos.org",
+      "cpe": "cpe:/o:centos:centos",
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Laravel",
+      "confidence": "100",
+      "version": null,
+      "icon": "Laravel.svg",
+      "website": "https://laravel.com",
+      "cpe": "cpe:/a:laravel:laravel",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Leaflet",
+      "confidence": "100",
+      "version": "0.7.2",
+      "icon": "Leaflet.png",
+      "website": "http://leafletjs.com",
+      "cpe": null,
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "OpenSSL",
+      "confidence": "100",
+      "version": "1.0.2k",
+      "icon": "OpenSSL.png",
+      "website": "http://openssl.org",
+      "cpe": "cpe:/a:openssl:openssl",
+      "categories": [
+        {
+          "33": "Web Server Extensions"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "5.5.37",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "cpe": "cpe:/a:php:php",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "http://kounterattack.com",
+  "id": "23101"
+}

@@ -1,0 +1,158 @@
+{
+  "urls": {
+    "http://www.visuality.pl/": {
+      "status": 200
+    },
+    "https://www.visuality.pl/privacy-policy": {
+      "status": 200
+    },
+    "https://www.visuality.pl/": {
+      "status": 200
+    },
+    "https://www.visuality.pl/services": {
+      "status": 200
+    },
+    "https://www.visuality.pl/case-studies": {
+      "status": 200
+    },
+    "https://www.visuality.pl/people": {
+      "status": 200
+    },
+    "https://www.visuality.pl/open-source": {
+      "status": 200
+    },
+    "https://www.visuality.pl/career": {
+      "status": 200
+    },
+    "https://www.visuality.pl/posts": {
+      "status": 200
+    },
+    "https://www.visuality.pl/contact": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Cowboy",
+      "confidence": "100",
+      "version": null,
+      "icon": "Cowboy.png",
+      "website": "http://ninenines.eu",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Fingerprintjs",
+      "confidence": "100",
+      "version": "1.1.3",
+      "icon": "default.svg",
+      "website": "https://valve.github.io/fingerprintjs2/",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "cpe": null,
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "confidence": "50",
+      "version": null,
+      "icon": "Ruby on Rails.png",
+      "website": "https://rubyonrails.org",
+      "cpe": null,
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.1.0",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Erlang",
+      "confidence": "0",
+      "version": null,
+      "icon": "Erlang.png",
+      "website": "http://www.erlang.org",
+      "cpe": "cpe:/a:erlang:erlang%2fotp",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "confidence": "0",
+      "version": null,
+      "icon": "Ruby.png",
+      "website": "http://ruby-lang.org",
+      "cpe": null,
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://www.visuality.pl",
+  "id": "22996"
+}

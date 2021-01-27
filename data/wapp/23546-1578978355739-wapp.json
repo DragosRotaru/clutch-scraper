@@ -1,0 +1,56 @@
+{
+  "urls": {
+    "http://viliandve.com/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Microsoft HTTPAPI",
+      "confidence": "100",
+      "version": "2.0",
+      "icon": "Microsoft.png",
+      "website": "http://microsoft.com",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "cpe": "cpe:/a:nginx:nginx",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.1.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  },
+  "website": "http://viliandve.com",
+  "id": "23546"
+}

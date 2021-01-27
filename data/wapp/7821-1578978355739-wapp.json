@@ -1,0 +1,234 @@
+{
+  "urls": {
+    "http://www.c5insight.com/": {
+      "status": 200
+    },
+    "https://www.c5insight.com/Solutions/MicrosoftSharePoint": {
+      "status": 200
+    },
+    "https://www.c5insight.com/Solutions/Dynamics365CRM": {
+      "status": 200
+    },
+    "https://www.c5insight.com/searching": {
+      "status": 200
+    },
+    "https://www.c5insight.com/starting": {
+      "status": 200
+    },
+    "https://www.c5insight.com/struggling": {
+      "status": 200
+    },
+    "https://www.c5insight.com/contact?subject=I%20would%20like%20to%20upgrade%20my%20SharePoint": {
+      "status": 200
+    },
+    "https://www.c5insight.com/Home": {
+      "status": 200
+    },
+    "https://www.c5insight.com/contact?subject=I%20would%20like%20to%20upgrade%20my%20Dynamics%20CRM": {
+      "status": 200
+    },
+    "https://www.c5insight.com/contact?subject=Request%20for%20a%20Briefing": {
+      "status": 200
+    },
+    "https://www.c5insight.com/resources/blog": {
+      "status": 200
+    },
+    "https://www.c5insight.com/contact?subject=CPR%20for%20CRM%20White%20Paper": {
+      "status": 200
+    },
+    "https://www.c5insight.com/contact?subject=Please%20send%20me%20The%20Deadly%20Sins%20of%20Sharepoint%20eBook%20when%20it%20is%20available": {
+      "status": 200
+    },
+    "https://www.c5insight.com/contact?subject=Please%20send%20me%20the%20CRM%20Self-Assessment": {
+      "status": 200
+    },
+    "https://www.c5insight.com/contact?subject=Please%20send%20me%20the%20Roadmap%20Rating%20Guide": {
+      "status": 200
+    },
+    "https://www.c5insight.com/contact?subject=Please%20send%20me%20the%20CRM%20Implementation%20Team%20Readiness%20Assessment": {
+      "status": 200
+    },
+    "https://www.c5insight.com/contact?subject=Please%20send%20me%20the%20SharePoint%20Readiness%20Assessment": {
+      "status": 200
+    },
+    "https://www.c5insight.com/Contact": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.6",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "cpe": "cpe:/a:getbootstrap:bootstrap",
+      "categories": [
+        {
+          "66": "UI Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "DNN",
+      "confidence": "100",
+      "version": null,
+      "icon": "DNN.png",
+      "website": "http://dnnsoftware.com",
+      "cpe": "cpe:/a:dnnsoftware:dotnetnuke",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "cpe": null,
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "FancyBox",
+      "confidence": "100",
+      "version": "2.1.5",
+      "icon": "FancyBox.png",
+      "website": "http://fancyapps.com/fancybox",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "100",
+      "version": "8.5",
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "cpe": "cpe:/a:microsoft:internet_information_server",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": null,
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "cpe": "cpe:/a:microsoft:asp.net",
+      "categories": [
+        {
+          "18": "Web Application Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Plesk",
+      "confidence": "100",
+      "version": null,
+      "icon": "Plesk.png",
+      "website": "https://www.plesk.com/",
+      "cpe": null,
+      "categories": [
+        {
+          "9": "Hosting Panels"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.9.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": null,
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.10.3",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "cpe": null,
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en-US"
+  },
+  "website": "http://www.c5insight.com",
+  "id": "7821"
+}

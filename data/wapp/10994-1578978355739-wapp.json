@@ -1,0 +1,166 @@
+{
+  "urls": {
+    "https://www.47deg.com/": {
+      "status": 200
+    },
+    "https://www.47deg.com/services/": {
+      "status": 200
+    },
+    "https://www.47deg.com/trainings/": {
+      "status": 200
+    },
+    "https://www.47deg.com/events/": {
+      "status": 200
+    },
+    "https://www.47deg.com/company/": {
+      "status": 200
+    },
+    "https://www.47deg.com/blog/": {
+      "status": 200
+    },
+    "https://www.47deg.com/contact/": {
+      "status": 200
+    },
+    "https://www.47deg.com/presentations/": {
+      "status": 200
+    },
+    "https://www.47deg.com/media/": {
+      "status": 200
+    },
+    "https://www.47deg.com/services/technologies/": {
+      "status": 200
+    },
+    "https://www.47deg.com/services/expertise/": {
+      "status": 200
+    },
+    "https://www.47deg.com/trainings/scala-fundamentals/": {
+      "status": 200
+    },
+    "https://www.47deg.com/trainings/functional-streams-for-scala-and-fs2/": {
+      "status": 200
+    },
+    "https://www.47deg.com/trainings/functional-JDBC-layer-for-scala-and-doobie/": {
+      "status": 200
+    },
+    "https://www.47deg.com/company/timeline/": {
+      "status": 200
+    },
+    "https://www.47deg.com/company/team/": {
+      "status": 0,
+      "error": {
+        "type": "RESPONSE_NOT_OK",
+        "message": "Response was not ok"
+      }
+    },
+    "https://www.47deg.com/services": {
+      "status": 200
+    },
+    "https://www.47deg.com/blog/47-degrees-joins-scala-center-advisory-board": {
+      "status": 200
+    },
+    "https://www.47deg.com/blog/technical/": {
+      "status": 200
+    },
+    "https://www.47deg.com/blog/news/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Cowboy",
+      "confidence": "100",
+      "version": null,
+      "icon": "Cowboy.png",
+      "website": "http://ninenines.eu",
+      "cpe": null,
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "cpe": null,
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "cpe": null,
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "cpe": null,
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Erlang",
+      "confidence": "0",
+      "version": null,
+      "icon": "Erlang.png",
+      "website": "http://www.erlang.org",
+      "cpe": "cpe:/a:erlang:erlang%2fotp",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "confidence": "100",
+      "version": null,
+      "icon": "YouTube.png",
+      "website": "http://www.youtube.com",
+      "cpe": null,
+      "categories": [
+        {
+          "14": "Video Players"
+        }
+      ]
+    },
+    {
+      "name": "Highlight.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Highlight.js.png",
+      "website": "https://highlightjs.org/",
+      "cpe": null,
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  },
+  "website": "https://www.47deg.com",
+  "id": "10994"
+}
