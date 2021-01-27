@@ -1,5 +1,12 @@
 # Clutch
 
+# Other Scrapers on Github
+
+- https://github.com/chargz/clutch.co-email-scraper
+- https://github.com/gurza/clutch.co-scraper
+- https://github.com/fidelix/clutch-scraper
+
+
 ## TODO
 
 - address => coordinates
