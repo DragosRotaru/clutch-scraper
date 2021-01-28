@@ -51,6 +51,7 @@ const DIRECTORIES = [
                 name: $(el).find(".company_info h3").text().trim(),
                 tagline: $(el).find(".tagline").text().trim(),
                 profile: $(el).find(".company_info a").attr("href"),
+                location: $(el).find(".locality").text().trim(),
                 website: new URL($(el).find(".website-link__item").attr("href"))
                   .origin,
                 directory: directory,
