@@ -33,9 +33,10 @@ const options = {
       name: entry[1],
       tagline: entry[2],
       profile: entry[3],
-      website: entry[4],
-      directory: entry[5],
-      page: entry[6]
+      location: entry[4],
+      website: entry[5],
+      directory: entry[6],
+      page: entry[7]
     };
     try {
       const wappalyzer = new Wappalyzer(record.website, options);

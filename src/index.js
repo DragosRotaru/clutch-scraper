@@ -6,7 +6,7 @@ const shared = require("./shared");
 const { CLUTCH_URL, DATE, randomSleep } = shared;
 
 const dataWriter = createCsvWriter({
-  path: `data/${DATE}-index.csv`,
+  path: `../data/${DATE}-index.csv`,
   header: ["id", "name", "tagline", "profile", "website", "directory", "page"],
 });
 const errorWriter = createCsvWriter({
@@ -47,11 +47,12 @@ const DIRECTORIES = [
           $("li.provider-row").map(async (i, el) => {
             try {
               const entry = {
-                id: $(el).children(".row").attr("data-clutch-nid"),
-                name: $(el).find(".company-name").text().trim(),
+                id: $(el).attr("data-clutch-pid"),
+                name: $(el).find(".company_info h3").text().trim(),
                 tagline: $(el).find(".tagline").text().trim(),
-                profile: $(el).find(".company-name a").attr("href"),
-                website: new URL($(el).find(".website-link a").attr("href"))
+                profile: $(el).find(".company_info a").attr("href"),
+                location: $(el).find(".locality").text().trim(),
+                website: new URL($(el).find(".website-link__item").attr("href"))
                   .origin,
                 directory: directory,
                 page: pageNum,
@@ -67,7 +68,9 @@ const DIRECTORIES = [
                 "page ",
                 pageNum,
                 ", element ",
-                i
+                i,
+                "error ",
+                error
               );
             }
           });
